@@ -34806,5 +34806,53 @@
         "jenis": "SD Swasta",
         "kode_desa": "271005",
         "nama": "SD IT DARUSSALAM"
+    },
+    {
+        "id": 4425,
+        "id_desas": 42,
+        "id_kecamatans": 3,
+        "jenis": "MI Negeri",
+        "kode_desa": "030013",
+        "nama": "MIN SUKAMENAK"
+    },
+    {
+        "id": 4426,
+        "id_desas": 75,
+        "id_kecamatans": 7,
+        "jenis": "MI Negeri",
+        "kode_desa": "061007",
+        "nama": "MIN DANGDEUR"
+    },
+    {
+        "id": 4427,
+        "id_desas": 81,
+        "id_kecamatans": 8,
+        "jenis": "MI Negeri",
+        "kode_desa": "070009",
+        "nama": "MI Negeri PAMIJAHAN"
+    },
+    {
+        "id": 4428,
+        "id_desas": 177,
+        "id_kecamatans": 19,
+        "jenis": "MI Negeri",
+        "kode_desa": "141007",
+        "nama": "MIN 3 TASIKMALAYA"
+    },
+    {
+        "id": 4429,
+        "id_desas": 262,
+        "id_kecamatans": 29,
+        "jenis": "MI Negeri",
+        "kode_desa": "211003",
+        "nama": "MI NEGRI CILENGA"
+    },
+    {
+        "id": 4430,
+        "id_desas": 348,
+        "id_kecamatans": 39,
+        "jenis": "MI Negeri",
+        "kode_desa": "271005",
+        "nama": "MI NEGERI SUKARATU"
     }
 ]
