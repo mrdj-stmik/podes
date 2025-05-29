@@ -34845,7 +34845,7 @@
         "id_kecamatans": 29,
         "jenis": "MI Negeri",
         "kode_desa": "211003",
-        "nama": "MI NEGERI CILENGA"
+        "nama": "MI NEGRI CILENGA"
     },
     {
         "id": 4430,
@@ -34854,5 +34854,61 @@
         "jenis": "MI Negeri",
         "kode_desa": "271005",
         "nama": "MI NEGERI SUKARATU"
+    },
+    {
+        "id": 4431,
+        "id_desas": 31,
+        "id_kecamatans": 3,
+        "jenis": "MA",
+        "kode_desa": "030002",
+        "nama": "MAN 4 TASIKMALAYA"
+    },
+    {
+        "id": 4432,
+        "id_desas": 71,
+        "id_kecamatans": 7,
+        "jenis": "MA",
+        "kode_desa": "061003",
+        "nama": "MAN 5 TASIKMALAYA"
+    },
+    {
+        "id": 4433,
+        "id_desas": 79,
+        "id_kecamatans": 8,
+        "jenis": "MA",
+        "kode_desa": "070004",
+        "nama": "MA NEGERI 6 TASIKMALAYA"
+    },
+    {
+        "id": 4434,
+        "id_desas": 168,
+        "id_kecamatans": 18,
+        "jenis": "MA",
+        "kode_desa": "140009",
+        "nama": "MAN 7 TASIKMALAYA"
+    },
+    {
+        "id": 4435,
+        "id_desas": 221,
+        "id_kecamatans": 24,
+        "jenis": "MA",
+        "kode_desa": "190013",
+        "nama": "MAN CIPASUNG"
+    },
+    {
+        "id": 4436,
+        "id_desas": 225,
+        "id_kecamatans": 25,
+        "jenis": "MA",
+        "kode_desa": "191001",
+        "nama": "MA NEGERI 1 TASIKMALAYA"
+    },
+    {
+        "id": 4437,
+        "id_desas": 325,
+        "id_kecamatans": 36,
+        "jenis": "MA",
+        "kode_desa": "260009",
+        "nama": "MA NEGERI 3 TASIKMALAYA"
     }
 ]
