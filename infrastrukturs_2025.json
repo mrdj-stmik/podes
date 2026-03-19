@@ -2,7 +2,7 @@
     {
         "id_desas": 1,
         "id_kecamatans": 1,
-        "jenis": "Klinik Pratama",
+        "jenis": "BP/Klinik",
         "kode_desa": "010001",
         "nama": "KLINIK ABHINAYA",
         "tahun": 2025
@@ -114,7 +114,15 @@
     {
         "id_desas": 1,
         "id_kecamatans": 1,
-        "jenis": "Klinik Pratama",
+        "jenis": "PUSTU",
+        "kode_desa": "010001",
+        "nama": "PUSTU DESA CIHERAS",
+        "tahun": 2025
+    },
+    {
+        "id_desas": 1,
+        "id_kecamatans": 1,
+        "jenis": "BP/Klinik",
         "kode_desa": "010001",
         "nama": "KLINIK ALFADILLAH",
         "tahun": 2025
@@ -522,7 +530,7 @@
     {
         "id_desas": 4,
         "id_kecamatans": 1,
-        "jenis": "Puskesmas Rawat Inap",
+        "jenis": "PUSKESMAS",
         "kode_desa": "010004",
         "nama": "PUSKESMAS CIPATUJAH",
         "tahun": 2025
@@ -530,7 +538,7 @@
     {
         "id_desas": 4,
         "id_kecamatans": 1,
-        "jenis": "Klinik Pratama",
+        "jenis": "BP/Klinik",
         "kode_desa": "010004",
         "nama": "KLINIK ADISA",
         "tahun": 2025
@@ -626,7 +634,7 @@
     {
         "id_desas": 5,
         "id_kecamatans": 1,
-        "jenis": "Klinik Pratama",
+        "jenis": "BP/Klinik",
         "kode_desa": "010005",
         "nama": "KLINIK HS MEDICA PUTRA",
         "tahun": 2025
@@ -725,6 +733,14 @@
         "jenis": "SMPN",
         "kode_desa": "010005",
         "nama": "SMPN 2 CIPATUJAH",
+        "tahun": 2025
+    },
+    {
+        "id_desas": 5,
+        "id_kecamatans": 1,
+        "jenis": "PUSTU",
+        "kode_desa": "010005",
+        "nama": "PUSTU DESA SINDANGKERTA",
         "tahun": 2025
     },
     {
@@ -914,6 +930,14 @@
     {
         "id_desas": 6,
         "id_kecamatans": 1,
+        "jenis": "PUSTU",
+        "kode_desa": "010006",
+        "nama": "PUSTU DESA CIKAWUNGADING",
+        "tahun": 2025
+    },
+    {
+        "id_desas": 6,
+        "id_kecamatans": 1,
         "jenis": "PRAKTIK BIDAN",
         "kode_desa": "010006",
         "nama": "PRAKTIK BIDAN WIWIT",
@@ -965,6 +989,14 @@
         "jenis": "SMKS",
         "kode_desa": "010007",
         "nama": "SMK HUBUL WATHON",
+        "tahun": 2025
+    },
+    {
+        "id_desas": 7,
+        "id_kecamatans": 1,
+        "jenis": "PUSTU",
+        "kode_desa": "010007",
+        "nama": "PUSTU DESA KERTASARI",
         "tahun": 2025
     },
     {
@@ -1090,6 +1122,14 @@
     {
         "id_desas": 9,
         "id_kecamatans": 1,
+        "jenis": "PUSTU",
+        "kode_desa": "010009",
+        "nama": "PUSTU DESA DARAWATI",
+        "tahun": 2025
+    },
+    {
+        "id_desas": 9,
+        "id_kecamatans": 1,
         "jenis": "PRAKTIK BIDAN",
         "kode_desa": "010009",
         "nama": "TEMPAT PRAKTEK BIDAN NINA",
@@ -1202,7 +1242,15 @@
     {
         "id_desas": 11,
         "id_kecamatans": 1,
-        "jenis": "Klinik Pratama",
+        "jenis": "PUSTU",
+        "kode_desa": "010011",
+        "nama": "PUSTU TOBONGJAYA",
+        "tahun": 2025
+    },
+    {
+        "id_desas": 11,
+        "id_kecamatans": 1,
+        "jenis": "BP/Klinik",
         "kode_desa": "010011",
         "nama": "KLINIK TINIARA MEDICA",
         "tahun": 2025
@@ -1274,7 +1322,7 @@
     {
         "id_desas": 11,
         "id_kecamatans": 1,
-        "jenis": "Klinik Pratama",
+        "jenis": "BP/Klinik",
         "kode_desa": "010011",
         "nama": "KLINIK H. SAYAT MEDIKA",
         "tahun": 2025
@@ -1418,6 +1466,14 @@
     {
         "id_desas": 13,
         "id_kecamatans": 1,
+        "jenis": "PUSTU",
+        "kode_desa": "010013",
+        "nama": "PUSKESMAS PEMBANTU DESA NAGROG",
+        "tahun": 2025
+    },
+    {
+        "id_desas": 13,
+        "id_kecamatans": 1,
         "jenis": "PRAKTIK BIDAN",
         "kode_desa": "010013",
         "nama": "PRAKTIK BIDAN AI JUHANAH",
@@ -1461,6 +1517,14 @@
         "jenis": "SMPN",
         "kode_desa": "010014",
         "nama": "SMPN SATU ATAP 4 CIPATUJAH",
+        "tahun": 2025
+    },
+    {
+        "id_desas": 14,
+        "id_kecamatans": 1,
+        "jenis": "PUSTU",
+        "kode_desa": "010014",
+        "nama": "PUSTU PAMEUTINGAN",
         "tahun": 2025
     },
     {
@@ -1626,6 +1690,14 @@
     {
         "id_desas": 16,
         "id_kecamatans": 2,
+        "jenis": "PUSTU",
+        "kode_desa": "020001",
+        "nama": "PUSKESMAS PEMBANTU DESA CIDADAP",
+        "tahun": 2025
+    },
+    {
+        "id_desas": 16,
+        "id_kecamatans": 2,
         "jenis": "PRAKTIK DOKTER",
         "kode_desa": "020001",
         "nama": "PRAKTEK DOKTER ELAN",
@@ -1701,6 +1773,14 @@
         "jenis": "SMPN",
         "kode_desa": "020002",
         "nama": "SMP NEGERI SATU ATAP 2 KARANGNUNGGAL",
+        "tahun": 2025
+    },
+    {
+        "id_desas": 17,
+        "id_kecamatans": 2,
+        "jenis": "PUSTU",
+        "kode_desa": "020002",
+        "nama": "PUSKESMAS PEMBANTU DESA KUJANG",
         "tahun": 2025
     },
     {
@@ -1786,6 +1866,14 @@
     {
         "id_desas": 18,
         "id_kecamatans": 2,
+        "jenis": "PUSTU",
+        "kode_desa": "020003",
+        "nama": "PUSTU DESA SARIMUKTI",
+        "tahun": 2025
+    },
+    {
+        "id_desas": 18,
+        "id_kecamatans": 2,
         "jenis": "PRAKTIK BIDAN",
         "kode_desa": "020003",
         "nama": "PRAKTIK BIDAN MELI",
@@ -1829,6 +1917,14 @@
         "jenis": "SD Negeri",
         "kode_desa": "020004",
         "nama": "SD NEGERI RAHARJA",
+        "tahun": 2025
+    },
+    {
+        "id_desas": 19,
+        "id_kecamatans": 2,
+        "jenis": "PUSTU",
+        "kode_desa": "020004",
+        "nama": "PUSTU DESA CIAWI",
         "tahun": 2025
     },
     {
@@ -1893,6 +1989,14 @@
         "jenis": "SMKS",
         "kode_desa": "020005",
         "nama": "SMK 2 LPPM",
+        "tahun": 2025
+    },
+    {
+        "id_desas": 20,
+        "id_kecamatans": 2,
+        "jenis": "PUSTU",
+        "kode_desa": "020005",
+        "nama": "PUSTU DESA CIKAPINIS",
         "tahun": 2025
     },
     {
@@ -2002,7 +2106,7 @@
     {
         "id_desas": 22,
         "id_kecamatans": 2,
-        "jenis": "Klinik Pratama",
+        "jenis": "BP/Klinik",
         "kode_desa": "020007",
         "nama": "KLINIK RAHAYU",
         "tahun": 2025
@@ -2146,7 +2250,7 @@
     {
         "id_desas": 22,
         "id_kecamatans": 2,
-        "jenis": "Puskesmas Rawat Inap",
+        "jenis": "PUSKESMAS",
         "kode_desa": "020007",
         "nama": "PUSKESMAS KARANGNUNGGAL",
         "tahun": 2025
@@ -2322,7 +2426,7 @@
     {
         "id_desas": 23,
         "id_kecamatans": 2,
-        "jenis": "Klinik Pratama",
+        "jenis": "BP/Klinik",
         "kode_desa": "020008",
         "nama": "KLINIK UMI MEDIKA KARANGNUNGGAL",
         "tahun": 2025
@@ -2450,7 +2554,7 @@
     {
         "id_desas": 23,
         "id_kecamatans": 2,
-        "jenis": "Klinik Pratama",
+        "jenis": "BP/Klinik",
         "kode_desa": "020008",
         "nama": "KLINIK BOMBAY MEDIKA ( DR.HENDRYANA)",
         "tahun": 2025
@@ -2594,6 +2698,14 @@
     {
         "id_desas": 24,
         "id_kecamatans": 2,
+        "jenis": "PUSTU",
+        "kode_desa": "020009",
+        "nama": "PUSTU DESA CIBATUIRENG",
+        "tahun": 2025
+    },
+    {
+        "id_desas": 24,
+        "id_kecamatans": 2,
         "jenis": "PRAKTIK BIDAN",
         "kode_desa": "020009",
         "nama": "BIDAN INDAH",
@@ -2706,6 +2818,14 @@
     {
         "id_desas": 25,
         "id_kecamatans": 2,
+        "jenis": "PUSTU",
+        "kode_desa": "020010",
+        "nama": "PUSTU DESA CIBATU",
+        "tahun": 2025
+    },
+    {
+        "id_desas": 25,
+        "id_kecamatans": 2,
         "jenis": "PRAKTIK BIDAN",
         "kode_desa": "020010",
         "nama": "TEMPAT PRAKTEK BIDAN",
@@ -2741,6 +2861,14 @@
         "jenis": "SD Negeri",
         "kode_desa": "020011",
         "nama": "SDN SUKARAME",
+        "tahun": 2025
+    },
+    {
+        "id_desas": 26,
+        "id_kecamatans": 2,
+        "jenis": "PUSTU",
+        "kode_desa": "020011",
+        "nama": "PUSTU SUKAWANGUN",
         "tahun": 2025
     },
     {
@@ -2821,6 +2949,14 @@
         "jenis": "SD Negeri",
         "kode_desa": "020012",
         "nama": "SDN CINTAWANGI",
+        "tahun": 2025
+    },
+    {
+        "id_desas": 27,
+        "id_kecamatans": 2,
+        "jenis": "PUSTU",
+        "kode_desa": "020012",
+        "nama": "PUSTU DESA CINTAWANGI",
         "tahun": 2025
     },
     {
@@ -2946,7 +3082,7 @@
     {
         "id_desas": 28,
         "id_kecamatans": 2,
-        "jenis": "Klinik Pratama",
+        "jenis": "BP/Klinik",
         "kode_desa": "020013",
         "nama": "KLINIK WALAGRI",
         "tahun": 2025
@@ -3234,7 +3370,7 @@
     {
         "id_desas": 31,
         "id_kecamatans": 3,
-        "jenis": "Puskesmas Rawat Inap",
+        "jenis": "PUSKESMAS",
         "kode_desa": "030002",
         "nama": "PUSKESMAS CIKALONG",
         "tahun": 2025
@@ -3242,7 +3378,7 @@
     {
         "id_desas": 31,
         "id_kecamatans": 3,
-        "jenis": "Klinik Pratama",
+        "jenis": "BP/Klinik",
         "kode_desa": "030002",
         "nama": "KLINIK SATIVA",
         "tahun": 2025
@@ -3394,7 +3530,7 @@
     {
         "id_desas": 31,
         "id_kecamatans": 3,
-        "jenis": "Klinik Pratama",
+        "jenis": "BP/Klinik",
         "kode_desa": "030002",
         "nama": "Klinik dr. Hendra",
         "tahun": 2025
@@ -3402,7 +3538,7 @@
     {
         "id_desas": 31,
         "id_kecamatans": 3,
-        "jenis": "Klinik Pratama",
+        "jenis": "BP/Klinik",
         "kode_desa": "030002",
         "nama": "Klinik dr. Ali",
         "tahun": 2025
@@ -3469,6 +3605,14 @@
         "jenis": "SMPN",
         "kode_desa": "030003",
         "nama": "SLTPN 3 CIKALONG",
+        "tahun": 2025
+    },
+    {
+        "id_desas": 32,
+        "id_kecamatans": 3,
+        "jenis": "PUSTU",
+        "kode_desa": "030003",
+        "nama": "PUSTU DESA CIKANCRA",
         "tahun": 2025
     },
     {
@@ -3698,7 +3842,15 @@
     {
         "id_desas": 34,
         "id_kecamatans": 3,
-        "jenis": "Klinik Pratama",
+        "jenis": "PUSTU",
+        "kode_desa": "030005",
+        "nama": "PUSTU DESA SINGKIR",
+        "tahun": 2025
+    },
+    {
+        "id_desas": 34,
+        "id_kecamatans": 3,
+        "jenis": "BP/Klinik",
         "kode_desa": "030005",
         "nama": "KLINIK Pratama KARTINI",
         "tahun": 2025
@@ -3850,6 +4002,14 @@
     {
         "id_desas": 35,
         "id_kecamatans": 3,
+        "jenis": "PUSTU",
+        "kode_desa": "030006",
+        "nama": "PUSTU DESA PANYIARAN",
+        "tahun": 2025
+    },
+    {
+        "id_desas": 35,
+        "id_kecamatans": 3,
         "jenis": "PRAKTIK DOKTER",
         "kode_desa": "030006",
         "nama": "DR LUKMAN",
@@ -3874,7 +4034,7 @@
     {
         "id_desas": 35,
         "id_kecamatans": 3,
-        "jenis": "Klinik Pratama",
+        "jenis": "BP/Klinik",
         "kode_desa": "030006",
         "nama": "KLINIK PRATAMA YASMIN",
         "tahun": 2025
@@ -4061,6 +4221,14 @@
         "jenis": "SMKS",
         "kode_desa": "030007",
         "nama": "SMK AL ISHLAH",
+        "tahun": 2025
+    },
+    {
+        "id_desas": 36,
+        "id_kecamatans": 3,
+        "jenis": "PUSTU",
+        "kode_desa": "030007",
+        "nama": "PUSTU DESA CIBEBER",
         "tahun": 2025
     },
     {
@@ -4410,6 +4578,14 @@
     {
         "id_desas": 40,
         "id_kecamatans": 3,
+        "jenis": "PUSTU",
+        "kode_desa": "030011",
+        "nama": "PUSTU DESA SINDANGJAYA",
+        "tahun": 2025
+    },
+    {
+        "id_desas": 40,
+        "id_kecamatans": 3,
         "jenis": "PRAKTIK BIDAN",
         "kode_desa": "030011",
         "nama": "BIDAN HENI SRI NURHAYANI, AM. KEB.",
@@ -4493,6 +4669,14 @@
         "jenis": "SMPN",
         "kode_desa": "030012",
         "nama": "SMPN 2 CIKALONG",
+        "tahun": 2025
+    },
+    {
+        "id_desas": 41,
+        "id_kecamatans": 3,
+        "jenis": "PUSTU",
+        "kode_desa": "030012",
+        "nama": "PUSTU DESA KALAPAGENEP",
         "tahun": 2025
     },
     {
@@ -4618,6 +4802,14 @@
     {
         "id_desas": 42,
         "id_kecamatans": 3,
+        "jenis": "PUSTU",
+        "kode_desa": "030013",
+        "nama": "PUSTU DESA CIMANUK",
+        "tahun": 2025
+    },
+    {
+        "id_desas": 42,
+        "id_kecamatans": 3,
         "jenis": "PRAKTIK BIDAN",
         "kode_desa": "030013",
         "nama": "PRAKTIK BIDAN ADAH SUHADAH, AM. KEB.",
@@ -4717,6 +4909,14 @@
         "jenis": "PRAKTIK BIDAN",
         "kode_desa": "040001",
         "nama": "POLINDES",
+        "tahun": 2025
+    },
+    {
+        "id_desas": 43,
+        "id_kecamatans": 4,
+        "jenis": "PUSTU",
+        "kode_desa": "040001",
+        "nama": "Pustu margaluyu",
         "tahun": 2025
     },
     {
@@ -4821,6 +5021,14 @@
         "jenis": "MA",
         "kode_desa": "040002",
         "nama": "MA MARGAASIH",
+        "tahun": 2025
+    },
+    {
+        "id_desas": 44,
+        "id_kecamatans": 4,
+        "jenis": "PUSTU",
+        "kode_desa": "040002",
+        "nama": "PUSTU DESA CIBUNIASIH",
         "tahun": 2025
     },
     {
@@ -4973,6 +5181,14 @@
         "jenis": "RA",
         "kode_desa": "040003",
         "nama": "RA IBNU MASUD",
+        "tahun": 2025
+    },
+    {
+        "id_desas": 45,
+        "id_kecamatans": 4,
+        "jenis": "PUSTU",
+        "kode_desa": "040003",
+        "nama": "Pustu pangliaran",
         "tahun": 2025
     },
     {
@@ -5189,6 +5405,14 @@
         "jenis": "RA",
         "kode_desa": "040006",
         "nama": "RA UDHATUL ATHFAL",
+        "tahun": 2025
+    },
+    {
+        "id_desas": 48,
+        "id_kecamatans": 4,
+        "jenis": "PUSTU",
+        "kode_desa": "040006",
+        "nama": "PUSTU TONJONG",
         "tahun": 2025
     },
     {
@@ -5482,7 +5706,7 @@
     {
         "id_desas": 49,
         "id_kecamatans": 4,
-        "jenis": "Puskesmas Rawat Inap",
+        "jenis": "PUSKESMAS",
         "kode_desa": "040007",
         "nama": "PUSKESMAS PANCATENGAH",
         "tahun": 2025
@@ -5506,7 +5730,15 @@
     {
         "id_desas": 49,
         "id_kecamatans": 4,
-        "jenis": "Puskesmas Tanpa Rawat Inap",
+        "jenis": "PUSTU",
+        "kode_desa": "040007",
+        "nama": "PUSTU CIBONGAS",
+        "tahun": 2025
+    },
+    {
+        "id_desas": 49,
+        "id_kecamatans": 4,
+        "jenis": "PUSKESMAS",
         "kode_desa": "040007",
         "nama": "PUSKESMAS PANCATENGAH",
         "tahun": 2025
@@ -5597,6 +5829,14 @@
         "jenis": "SMKS",
         "kode_desa": "040008",
         "nama": "SMK NURUL FALAH",
+        "tahun": 2025
+    },
+    {
+        "id_desas": 50,
+        "id_kecamatans": 4,
+        "jenis": "PUSTU",
+        "kode_desa": "040008",
+        "nama": "PUSTU DESA CIKAWUNG",
         "tahun": 2025
     },
     {
@@ -5770,6 +6010,14 @@
     {
         "id_desas": 51,
         "id_kecamatans": 4,
+        "jenis": "PUSTU",
+        "kode_desa": "040009",
+        "nama": "PUSTU DESA TAWANG",
+        "tahun": 2025
+    },
+    {
+        "id_desas": 51,
+        "id_kecamatans": 4,
         "jenis": "PRAKTIK BIDAN",
         "kode_desa": "040009",
         "nama": "BIDAN EMA EMALIA",
@@ -5802,7 +6050,7 @@
     {
         "id_desas": 51,
         "id_kecamatans": 4,
-        "jenis": "Klinik Utama",
+        "jenis": "BP/Klinik",
         "kode_desa": "040009",
         "nama": "Klinik Djajuli",
         "tahun": 2025
@@ -5986,6 +6234,14 @@
     {
         "id_desas": 53,
         "id_kecamatans": 4,
+        "jenis": "PUSTU",
+        "kode_desa": "040011",
+        "nama": "PUSTU DESA NEGLASARI",
+        "tahun": 2025
+    },
+    {
+        "id_desas": 53,
+        "id_kecamatans": 4,
         "jenis": "PRAKTIK BIDAN",
         "kode_desa": "040011",
         "nama": "BIDAN AMSANA",
@@ -6042,7 +6298,7 @@
     {
         "id_desas": 54,
         "id_kecamatans": 5,
-        "jenis": "Klinik Pratama",
+        "jenis": "BP/Klinik",
         "kode_desa": "050001",
         "nama": "BALAI PENGOBATAN DR. LISVA FAUZIATUL HAQIQAH",
         "tahun": 2025
@@ -6050,7 +6306,7 @@
     {
         "id_desas": 54,
         "id_kecamatans": 5,
-        "jenis": "Klinik Pratama",
+        "jenis": "BP/Klinik",
         "kode_desa": "050001",
         "nama": "BALAI PENGOBATAN DR. ASEP IRPAN RIPANDI",
         "tahun": 2025
@@ -6058,7 +6314,7 @@
     {
         "id_desas": 54,
         "id_kecamatans": 5,
-        "jenis": "Klinik Pratama",
+        "jenis": "BP/Klinik",
         "kode_desa": "050001",
         "nama": "BALAI PENGOBATAN DR. JEJE",
         "tahun": 2025
@@ -6218,6 +6474,14 @@
     {
         "id_desas": 54,
         "id_kecamatans": 5,
+        "jenis": "PUSTU",
+        "kode_desa": "050001",
+        "nama": "PUSTU DESA GUNUNGSARI",
+        "tahun": 2025
+    },
+    {
+        "id_desas": 54,
+        "id_kecamatans": 5,
         "jenis": "PRAKTIK DOKTER",
         "kode_desa": "050001",
         "nama": "PRAKTIK DR. LISVA FAUZIATUL HAQIQAH",
@@ -6266,7 +6530,7 @@
     {
         "id_desas": 55,
         "id_kecamatans": 5,
-        "jenis": "Klinik Pratama",
+        "jenis": "BP/Klinik",
         "kode_desa": "050002",
         "nama": "BALAI PENGOBATAN DR. TOTO",
         "tahun": 2025
@@ -6274,7 +6538,7 @@
     {
         "id_desas": 55,
         "id_kecamatans": 5,
-        "jenis": "Klinik Pratama",
+        "jenis": "BP/Klinik",
         "kode_desa": "050002",
         "nama": "BALAI PENGOBATAN DR. ALEH",
         "tahun": 2025
@@ -6362,6 +6626,14 @@
     {
         "id_desas": 55,
         "id_kecamatans": 5,
+        "jenis": "PUSTU",
+        "kode_desa": "050002",
+        "nama": "PUSTU DESA CILUMBA",
+        "tahun": 2025
+    },
+    {
+        "id_desas": 55,
+        "id_kecamatans": 5,
         "jenis": "Minimarket/Swalayan",
         "kode_desa": "050002",
         "nama": "Minimarket mutiara",
@@ -6421,6 +6693,14 @@
         "jenis": "MTs",
         "kode_desa": "050003",
         "nama": "MTS LINGGALAKSANA",
+        "tahun": 2025
+    },
+    {
+        "id_desas": 56,
+        "id_kecamatans": 5,
+        "jenis": "PUSTU",
+        "kode_desa": "050003",
+        "nama": "PUSTU LINGGALAKSANA",
         "tahun": 2025
     },
     {
@@ -6634,7 +6914,7 @@
     {
         "id_desas": 57,
         "id_kecamatans": 5,
-        "jenis": "Puskesmas Rawat Inap",
+        "jenis": "PUSKESMAS",
         "kode_desa": "050004",
         "nama": "PUSKESMAS CIKATOMAS",
         "tahun": 2025
@@ -6642,7 +6922,7 @@
     {
         "id_desas": 57,
         "id_kecamatans": 5,
-        "jenis": "Klinik Pratama",
+        "jenis": "BP/Klinik",
         "kode_desa": "050004",
         "nama": "KLINIK BISMA",
         "tahun": 2025
@@ -6754,6 +7034,14 @@
     {
         "id_desas": 57,
         "id_kecamatans": 5,
+        "jenis": "RS",
+        "kode_desa": "050004",
+        "nama": "RUMAH SAKIT TNT",
+        "tahun": 2025
+    },
+    {
+        "id_desas": 57,
+        "id_kecamatans": 5,
         "jenis": "BPR",
         "kode_desa": "050004",
         "nama": "BANK CIJ",
@@ -6762,7 +7050,7 @@
     {
         "id_desas": 58,
         "id_kecamatans": 5,
-        "jenis": "Klinik Pratama",
+        "jenis": "BP/Klinik",
         "kode_desa": "050005",
         "nama": "BALAI PENGOBATAN DR. LISVA FAUZIATUL HAQIQAH",
         "tahun": 2025
@@ -6890,6 +7178,14 @@
     {
         "id_desas": 58,
         "id_kecamatans": 5,
+        "jenis": "PUSTU",
+        "kode_desa": "050005",
+        "nama": "PUSTU DESA COGREG",
+        "tahun": 2025
+    },
+    {
+        "id_desas": 58,
+        "id_kecamatans": 5,
         "jenis": "PRAKTIK DOKTER",
         "kode_desa": "050005",
         "nama": "DOKTER LISVA FAUZIA HAQIQAH",
@@ -7010,6 +7306,14 @@
     {
         "id_desas": 59,
         "id_kecamatans": 5,
+        "jenis": "PUSTU",
+        "kode_desa": "050006",
+        "nama": "PUSTU DESA LENGKONGBARANG",
+        "tahun": 2025
+    },
+    {
+        "id_desas": 59,
+        "id_kecamatans": 5,
         "jenis": "PRAKTIK BIDAN",
         "kode_desa": "050006",
         "nama": "PRAKTEK BIDAN EMPAT",
@@ -7034,7 +7338,7 @@
     {
         "id_desas": 59,
         "id_kecamatans": 5,
-        "jenis": "Klinik Utama",
+        "jenis": "BP/Klinik",
         "kode_desa": "050006",
         "nama": "Klinik haryatie",
         "tahun": 2025
@@ -7093,6 +7397,14 @@
         "jenis": "SMPN",
         "kode_desa": "050007",
         "nama": "SMPN SATU ATAP 2 CIKATOMAS",
+        "tahun": 2025
+    },
+    {
+        "id_desas": 60,
+        "id_kecamatans": 5,
+        "jenis": "PUSTU",
+        "kode_desa": "050007",
+        "nama": "PUSTU TANJUNGBARANG",
         "tahun": 2025
     },
     {
@@ -7173,6 +7485,14 @@
         "jenis": "MTs",
         "kode_desa": "050008",
         "nama": "MTS CAYUR",
+        "tahun": 2025
+    },
+    {
+        "id_desas": 61,
+        "id_kecamatans": 5,
+        "jenis": "PUSTU",
+        "kode_desa": "050008",
+        "nama": "PUSTU DESA CAYUR",
         "tahun": 2025
     },
     {
@@ -7330,6 +7650,14 @@
     {
         "id_desas": 62,
         "id_kecamatans": 5,
+        "jenis": "PUSTU",
+        "kode_desa": "050009",
+        "nama": "PUSTU SINDANGASIH",
+        "tahun": 2025
+    },
+    {
+        "id_desas": 62,
+        "id_kecamatans": 5,
         "jenis": "POLINDES",
         "kode_desa": "050009",
         "nama": "POLINDES SINDANGASIH",
@@ -7421,6 +7749,14 @@
         "jenis": "SMPN",
         "kode_desa": "060001",
         "nama": "SMP NEGERI 3 CIBALONG",
+        "tahun": 2025
+    },
+    {
+        "id_desas": 63,
+        "id_kecamatans": 6,
+        "jenis": "PUSTU",
+        "kode_desa": "060001",
+        "nama": "PUSKESMAS PEMBANTU DESA EUREUNPALAY",
         "tahun": 2025
     },
     {
@@ -7634,6 +7970,14 @@
     {
         "id_desas": 64,
         "id_kecamatans": 6,
+        "jenis": "PUSTU",
+        "kode_desa": "060002",
+        "nama": "PUSTU DESA SETIAWARAS",
+        "tahun": 2025
+    },
+    {
+        "id_desas": 64,
+        "id_kecamatans": 6,
         "jenis": "PRAKTIK BIDAN",
         "kode_desa": "060002",
         "nama": "PRAKTIK BIDAN DEVI RIKAWATI",
@@ -7802,7 +8146,15 @@
     {
         "id_desas": 65,
         "id_kecamatans": 6,
-        "jenis": "Klinik Pratama",
+        "jenis": "PUSTU",
+        "kode_desa": "060003",
+        "nama": "PUSTU DESA CISEMPUR",
+        "tahun": 2025
+    },
+    {
+        "id_desas": 65,
+        "id_kecamatans": 6,
+        "jenis": "BP/Klinik",
         "kode_desa": "060003",
         "nama": "BALAI PENGOBATAN MANTRI ADE",
         "tahun": 2025
@@ -7954,6 +8306,14 @@
     {
         "id_desas": 66,
         "id_kecamatans": 6,
+        "jenis": "PUSTU",
+        "kode_desa": "060004",
+        "nama": "PUSTU DESA PARUNG",
+        "tahun": 2025
+    },
+    {
+        "id_desas": 66,
+        "id_kecamatans": 6,
         "jenis": "PRAKTIK BIDAN",
         "kode_desa": "060004",
         "nama": "PRAKTIK BIDAN SRI RAHAYU, AM. KEB.",
@@ -7965,6 +8325,14 @@
         "jenis": "SMPS",
         "kode_desa": "060005",
         "nama": "SMP I MIFTAHUL HIDAYAH",
+        "tahun": 2025
+    },
+    {
+        "id_desas": 67,
+        "id_kecamatans": 6,
+        "jenis": "PT Swasta",
+        "kode_desa": "060005",
+        "nama": "STIT AZZAHRA CIBALONG",
         "tahun": 2025
     },
     {
@@ -8082,7 +8450,7 @@
     {
         "id_desas": 67,
         "id_kecamatans": 6,
-        "jenis": "Puskesmas Tanpa Rawat Inap",
+        "jenis": "PUSKESMAS",
         "kode_desa": "060005",
         "nama": "PUSKESMAS CIBALONG",
         "tahun": 2025
@@ -8090,7 +8458,7 @@
     {
         "id_desas": 67,
         "id_kecamatans": 6,
-        "jenis": "Klinik Pratama",
+        "jenis": "BP/Klinik",
         "kode_desa": "060005",
         "nama": "BALAI PENGOBATAN GIGI FIAN",
         "tahun": 2025
@@ -8098,7 +8466,7 @@
     {
         "id_desas": 67,
         "id_kecamatans": 6,
-        "jenis": "Klinik Pratama",
+        "jenis": "BP/Klinik",
         "kode_desa": "060005",
         "nama": "BALAI PENGOBATAN MANTRI KARNADI",
         "tahun": 2025
@@ -8330,7 +8698,7 @@
     {
         "id_desas": 68,
         "id_kecamatans": 6,
-        "jenis": "Klinik Pratama",
+        "jenis": "BP/Klinik",
         "kode_desa": "060014",
         "nama": "PRAKTIK MANTRI PEPEP",
         "tahun": 2025
@@ -8394,7 +8762,7 @@
     {
         "id_desas": 68,
         "id_kecamatans": 6,
-        "jenis": "Klinik Pratama",
+        "jenis": "BP/Klinik",
         "kode_desa": "060014",
         "nama": "PRAKTIK MANTRI DWI YANTO",
         "tahun": 2025
@@ -8522,6 +8890,22 @@
     {
         "id_desas": 69,
         "id_kecamatans": 7,
+        "jenis": "PT Swasta",
+        "kode_desa": "061001",
+        "nama": "STAI MIFTAHUL ULUM",
+        "tahun": 2025
+    },
+    {
+        "id_desas": 69,
+        "id_kecamatans": 7,
+        "jenis": "PUSTU",
+        "kode_desa": "061001",
+        "nama": "PUSTU DESA KARYABAKTI",
+        "tahun": 2025
+    },
+    {
+        "id_desas": 69,
+        "id_kecamatans": 7,
         "jenis": "PRAKTIK BIDAN",
         "kode_desa": "061001",
         "nama": "BIDAN ANA",
@@ -8581,6 +8965,14 @@
         "jenis": "MTs",
         "kode_desa": "061002",
         "nama": "MTS AL ASAS",
+        "tahun": 2025
+    },
+    {
+        "id_desas": 70,
+        "id_kecamatans": 7,
+        "jenis": "PUSTU",
+        "kode_desa": "061002",
+        "nama": "PUSTU DESA CIGUNUNG",
         "tahun": 2025
     },
     {
@@ -8818,7 +9210,7 @@
     {
         "id_desas": 72,
         "id_kecamatans": 7,
-        "jenis": "Puskesmas Tanpa Rawat Inap",
+        "jenis": "PUSKESMAS",
         "kode_desa": "061004",
         "nama": "PUSKESMAS PARUNGPONTENG",
         "tahun": 2025
@@ -8826,7 +9218,7 @@
     {
         "id_desas": 72,
         "id_kecamatans": 7,
-        "jenis": "Klinik Pratama",
+        "jenis": "BP/Klinik",
         "kode_desa": "061004",
         "nama": "KLINIK INSEPAR",
         "tahun": 2025
@@ -8962,6 +9354,14 @@
     {
         "id_desas": 73,
         "id_kecamatans": 7,
+        "jenis": "PUSTU",
+        "kode_desa": "061005",
+        "nama": "PUSTU DESA GIRIKENCANA",
+        "tahun": 2025
+    },
+    {
+        "id_desas": 73,
+        "id_kecamatans": 7,
         "jenis": "PRAKTIK BIDAN",
         "kode_desa": "061005",
         "nama": "PRAKTIK BIDAN EVI",
@@ -9037,6 +9437,14 @@
         "jenis": "SMKS",
         "kode_desa": "061006",
         "nama": "SMK BINA BANGSA",
+        "tahun": 2025
+    },
+    {
+        "id_desas": 74,
+        "id_kecamatans": 7,
+        "jenis": "PUSTU",
+        "kode_desa": "061006",
+        "nama": "PUSTU DESA BARUMEKAR",
         "tahun": 2025
     },
     {
@@ -9298,6 +9706,14 @@
     {
         "id_desas": 76,
         "id_kecamatans": 7,
+        "jenis": "PUSTU",
+        "kode_desa": "061008",
+        "nama": "PUSTU DESA BURUJULJAYA",
+        "tahun": 2025
+    },
+    {
+        "id_desas": 76,
+        "id_kecamatans": 7,
         "jenis": "PRAKTIK BIDAN",
         "kode_desa": "061008",
         "nama": "AAM SURYAMAH",
@@ -9530,7 +9946,7 @@
     {
         "id_desas": 78,
         "id_kecamatans": 8,
-        "jenis": "Puskesmas Rawat Inap",
+        "jenis": "PUSKESMAS",
         "kode_desa": "070003",
         "nama": "UPTD PUSKESMAS BANTARKALONG",
         "tahun": 2025
@@ -9538,7 +9954,7 @@
     {
         "id_desas": 78,
         "id_kecamatans": 8,
-        "jenis": "Klinik Pratama",
+        "jenis": "BP/Klinik",
         "kode_desa": "070003",
         "nama": "SKIN CARE VIOLETTA",
         "tahun": 2025
@@ -10090,6 +10506,14 @@
     {
         "id_desas": 81,
         "id_kecamatans": 8,
+        "jenis": "PUSTU",
+        "kode_desa": "070009",
+        "nama": "PUSTU PAMIJAHAN",
+        "tahun": 2025
+    },
+    {
+        "id_desas": 81,
+        "id_kecamatans": 8,
         "jenis": "APOTEK",
         "kode_desa": "070009",
         "nama": "APOTEK PAMIJAHAN",
@@ -10218,6 +10642,14 @@
     {
         "id_desas": 83,
         "id_kecamatans": 8,
+        "jenis": "PUSTU",
+        "kode_desa": "070016",
+        "nama": "PUSTU DESA SUKAMAJU",
+        "tahun": 2025
+    },
+    {
+        "id_desas": 83,
+        "id_kecamatans": 8,
         "jenis": "Pertokoan",
         "kode_desa": "070016",
         "nama": "PERTOKOAN KOMPLEK PUGERAN",
@@ -10317,6 +10749,14 @@
         "jenis": "MA",
         "kode_desa": "070017",
         "nama": "MA MATHLAUL FALAH",
+        "tahun": 2025
+    },
+    {
+        "id_desas": 84,
+        "id_kecamatans": 8,
+        "jenis": "PUSTU",
+        "kode_desa": "070017",
+        "nama": "PUSTU DESA WAKAP",
         "tahun": 2025
     },
     {
@@ -10562,7 +11002,7 @@
     {
         "id_desas": 86,
         "id_kecamatans": 9,
-        "jenis": "Puskesmas Tanpa Rawat Inap",
+        "jenis": "PUSKESMAS",
         "kode_desa": "071002",
         "nama": "UPT PUSKESMAS BOJONGASIH",
         "tahun": 2025
@@ -10818,6 +11258,14 @@
     {
         "id_desas": 88,
         "id_kecamatans": 9,
+        "jenis": "PUSTU",
+        "kode_desa": "071004",
+        "nama": "PUSTU DESA CIKADONGDONG",
+        "tahun": 2025
+    },
+    {
+        "id_desas": 88,
+        "id_kecamatans": 9,
         "jenis": "PRAKTIK BIDAN",
         "kode_desa": "071004",
         "nama": "PRAKTIK BIDAH ASIAH",
@@ -10941,6 +11389,14 @@
         "jenis": "PRAKTIK BIDAN",
         "kode_desa": "071005",
         "nama": "PRAKTIK BIDAN MARYANI",
+        "tahun": 2025
+    },
+    {
+        "id_desas": 90,
+        "id_kecamatans": 9,
+        "jenis": "PUSTU",
+        "kode_desa": "071006",
+        "nama": "PUSTU DESA TOBLONGAN",
         "tahun": 2025
     },
     {
@@ -11085,6 +11541,14 @@
         "jenis": "SMPN",
         "kode_desa": "072001",
         "nama": "SMP NEGERI SATU ATAP 4 CULAMEGA",
+        "tahun": 2025
+    },
+    {
+        "id_desas": 91,
+        "id_kecamatans": 10,
+        "jenis": "PUSTU",
+        "kode_desa": "072001",
+        "nama": "PUSTU DESA BOJONGSARI",
         "tahun": 2025
     },
     {
@@ -11242,9 +11706,17 @@
     {
         "id_desas": 93,
         "id_kecamatans": 10,
-        "jenis": "Puskesmas Tanpa Rawat Inap",
+        "jenis": "PUSKESMAS",
         "kode_desa": "072003",
         "nama": "PUSKESMAS CULAMEGA",
+        "tahun": 2025
+    },
+    {
+        "id_desas": 93,
+        "id_kecamatans": 10,
+        "jenis": "PUSTU",
+        "kode_desa": "072003",
+        "nama": "PUSTU CIKUYA",
         "tahun": 2025
     },
     {
@@ -11362,6 +11834,14 @@
     {
         "id_desas": 94,
         "id_kecamatans": 10,
+        "jenis": "PUSTU",
+        "kode_desa": "072004",
+        "nama": "PUSTU DESA CIPICUNG",
+        "tahun": 2025
+    },
+    {
+        "id_desas": 94,
+        "id_kecamatans": 10,
         "jenis": "PRAKTIK BIDAN",
         "kode_desa": "072004",
         "nama": "PRAKTEK BIDAN AI NOVI FITRIANI",
@@ -11429,6 +11909,14 @@
         "jenis": "MTs",
         "kode_desa": "072005",
         "nama": "MTS MANARUL HUDA",
+        "tahun": 2025
+    },
+    {
+        "id_desas": 95,
+        "id_kecamatans": 10,
+        "jenis": "PUSTU",
+        "kode_desa": "072005",
+        "nama": "PUSTU MEKARLAKSANA",
         "tahun": 2025
     },
     {
@@ -11509,6 +11997,14 @@
         "jenis": "MTs",
         "kode_desa": "080001",
         "nama": "MTS MIFTAHUL HUDA",
+        "tahun": 2025
+    },
+    {
+        "id_desas": 96,
+        "id_kecamatans": 11,
+        "jenis": "PUSTU",
+        "kode_desa": "080001",
+        "nama": "PUSTU DESA CAMPAKASARI",
         "tahun": 2025
     },
     {
@@ -11618,6 +12114,14 @@
     {
         "id_desas": 97,
         "id_kecamatans": 11,
+        "jenis": "PUSTU",
+        "kode_desa": "080002",
+        "nama": "PUSTU DESA BOJONGKAPOL",
+        "tahun": 2025
+    },
+    {
+        "id_desas": 97,
+        "id_kecamatans": 11,
         "jenis": "PASAR",
         "kode_desa": "080002",
         "nama": "PASAR BOJONGKAPOL",
@@ -11706,6 +12210,14 @@
     {
         "id_desas": 98,
         "id_kecamatans": 11,
+        "jenis": "PUSTU",
+        "kode_desa": "080003",
+        "nama": "PUSTU DESA WANDASARI",
+        "tahun": 2025
+    },
+    {
+        "id_desas": 98,
+        "id_kecamatans": 11,
         "jenis": "PRAKTIK BIDAN",
         "kode_desa": "080003",
         "nama": "PRAKTIK BIDAN SITI R.A",
@@ -11754,6 +12266,14 @@
     {
         "id_desas": 99,
         "id_kecamatans": 11,
+        "jenis": "PUSTU",
+        "kode_desa": "080004",
+        "nama": "PUSTU DESA PEDANGKAMULYAN",
+        "tahun": 2025
+    },
+    {
+        "id_desas": 99,
+        "id_kecamatans": 11,
         "jenis": "PRAKTIK BIDAN",
         "kode_desa": "080004",
         "nama": "PRAKTIK BIDAN SUSAN",
@@ -11797,6 +12317,14 @@
         "jenis": "MTs",
         "kode_desa": "080005",
         "nama": "MTS SALAM MUKROM",
+        "tahun": 2025
+    },
+    {
+        "id_desas": 100,
+        "id_kecamatans": 11,
+        "jenis": "PUSTU",
+        "kode_desa": "080005",
+        "nama": "PUSTU DESA KERTANEGLA",
         "tahun": 2025
     },
     {
@@ -11946,7 +12474,7 @@
     {
         "id_desas": 101,
         "id_kecamatans": 11,
-        "jenis": "Puskesmas Rawat Inap",
+        "jenis": "PUSKESMAS",
         "kode_desa": "080006",
         "nama": "PUSKESMAS BOJONGGAMBIR",
         "tahun": 2025
@@ -12186,6 +12714,14 @@
     {
         "id_desas": 103,
         "id_kecamatans": 11,
+        "jenis": "PUSTU",
+        "kode_desa": "080008",
+        "nama": "PUSTU DESA CIROYOM",
+        "tahun": 2025
+    },
+    {
+        "id_desas": 103,
+        "id_kecamatans": 11,
         "jenis": "Minimarket/Swalayan",
         "kode_desa": "080008",
         "nama": "SANCO CIREUNDEU",
@@ -12253,6 +12789,14 @@
         "jenis": "MA",
         "kode_desa": "080009",
         "nama": "MA AL FADLLIYAH TUBAN",
+        "tahun": 2025
+    },
+    {
+        "id_desas": 104,
+        "id_kecamatans": 11,
+        "jenis": "PUSTU",
+        "kode_desa": "080009",
+        "nama": "PUSTU DESA PURWARAHARJA",
         "tahun": 2025
     },
     {
@@ -12341,6 +12885,14 @@
         "jenis": "POSKESDES",
         "kode_desa": "080010",
         "nama": "POSKESDES DESA GIRIMUKTI",
+        "tahun": 2025
+    },
+    {
+        "id_desas": 106,
+        "id_kecamatans": 12,
+        "jenis": "PUSTU",
+        "kode_desa": "090001",
+        "nama": "PUSTU DESA CUKANGJAYAGUNA",
         "tahun": 2025
     },
     {
@@ -12589,6 +13141,14 @@
         "jenis": "MA",
         "kode_desa": "090003",
         "nama": "MA ALHIDAYAH",
+        "tahun": 2025
+    },
+    {
+        "id_desas": 108,
+        "id_kecamatans": 12,
+        "jenis": "PUSTU",
+        "kode_desa": "090003",
+        "nama": "PUSTU DESA PARUMASAN",
         "tahun": 2025
     },
     {
@@ -12898,7 +13458,7 @@
     {
         "id_desas": 111,
         "id_kecamatans": 12,
-        "jenis": "Puskesmas Rawat Inap",
+        "jenis": "PUSKESMAS",
         "kode_desa": "090006",
         "nama": "UPT PUSKESMAS SODONGHILIR",
         "tahun": 2025
@@ -13130,6 +13690,14 @@
     {
         "id_desas": 112,
         "id_kecamatans": 12,
+        "jenis": "PUSTU",
+        "kode_desa": "090007",
+        "nama": "PUSTU DESA CUKANGKAWUNG",
+        "tahun": 2025
+    },
+    {
+        "id_desas": 112,
+        "id_kecamatans": 12,
         "jenis": "PRAKTIK BIDAN",
         "kode_desa": "090007",
         "nama": "PRAKTEK BIDAN LULU",
@@ -13330,6 +13898,14 @@
     {
         "id_desas": 114,
         "id_kecamatans": 12,
+        "jenis": "PUSTU",
+        "kode_desa": "090009",
+        "nama": "PUSKESMAS PEMBANTU DESA CIPAINGE",
+        "tahun": 2025
+    },
+    {
+        "id_desas": 114,
+        "id_kecamatans": 12,
         "jenis": "PRAKTIK BIDAN",
         "kode_desa": "090009",
         "nama": "BIDAN DINI TRISNAWATI, AM.KEB",
@@ -13506,6 +14082,14 @@
     {
         "id_desas": 116,
         "id_kecamatans": 12,
+        "jenis": "PUSTU",
+        "kode_desa": "090011",
+        "nama": "PUSTU DESA LEUWIDULANG",
+        "tahun": 2025
+    },
+    {
+        "id_desas": 116,
+        "id_kecamatans": 12,
         "jenis": "PRAKTIK BIDAN",
         "kode_desa": "090011",
         "nama": "PRAKTIK BIDAN LELI",
@@ -13597,6 +14181,14 @@
         "jenis": "SMKS",
         "kode_desa": "090012",
         "nama": "SMK ALMUKHTARA",
+        "tahun": 2025
+    },
+    {
+        "id_desas": 117,
+        "id_kecamatans": 12,
+        "jenis": "PUSTU",
+        "kode_desa": "090012",
+        "nama": "PUSTU DESA MUNCANG",
         "tahun": 2025
     },
     {
@@ -13738,7 +14330,7 @@
     {
         "id_desas": 119,
         "id_kecamatans": 13,
-        "jenis": "Puskesmas Rawat Inap",
+        "jenis": "PUSKESMAS",
         "kode_desa": "100002",
         "nama": "PUSKESMAS DTP TARAJU",
         "tahun": 2025
@@ -14146,6 +14738,14 @@
     {
         "id_desas": 123,
         "id_kecamatans": 13,
+        "jenis": "PUSTU",
+        "kode_desa": "100006",
+        "nama": "PUSTU DESA DEUDEUL",
+        "tahun": 2025
+    },
+    {
+        "id_desas": 123,
+        "id_kecamatans": 13,
         "jenis": "PRAKTIK BIDAN",
         "kode_desa": "100006",
         "nama": "PRAKTIK BIDAN RANI MAHARANI",
@@ -14309,6 +14909,14 @@
         "jenis": "SMAS",
         "kode_desa": "100008",
         "nama": "SMA YPI IJTIMAUL AHADIYAH",
+        "tahun": 2025
+    },
+    {
+        "id_desas": 125,
+        "id_kecamatans": 13,
+        "jenis": "PUSTU",
+        "kode_desa": "100008",
+        "nama": "PUSTU DESA PURWARAHAYU",
         "tahun": 2025
     },
     {
@@ -14496,6 +15104,14 @@
         "tahun": 2025
     },
     {
+        "id_desas": 128,
+        "id_kecamatans": 14,
+        "jenis": "PUSTU",
+        "kode_desa": "110010",
+        "nama": "PUSTU DESA JAHIANG",
+        "tahun": 2025
+    },
+    {
         "id_desas": 129,
         "id_kecamatans": 14,
         "jenis": "TK",
@@ -14610,6 +15226,14 @@
     {
         "id_desas": 129,
         "id_kecamatans": 14,
+        "jenis": "PUSTU",
+        "kode_desa": "110011",
+        "nama": "PUSTU DESA SUNDAWENANG",
+        "tahun": 2025
+    },
+    {
+        "id_desas": 129,
+        "id_kecamatans": 14,
         "jenis": "PRAKTIK BIDAN",
         "kode_desa": "110011",
         "nama": "PRAKTIK BIDAN YATI KARPIAH, AM.KEB",
@@ -14688,6 +15312,14 @@
         "tahun": 2025
     },
     {
+        "id_desas": 130,
+        "id_kecamatans": 14,
+        "jenis": "PUSTU",
+        "kode_desa": "110012",
+        "nama": "PUSTU DESA KAWUNGSARI",
+        "tahun": 2025
+    },
+    {
         "id_desas": 131,
         "id_kecamatans": 14,
         "jenis": "TK",
@@ -14757,6 +15389,14 @@
         "jenis": "SMAS",
         "kode_desa": "110013",
         "nama": "SMA PLUS AL WAHID",
+        "tahun": 2025
+    },
+    {
+        "id_desas": 131,
+        "id_kecamatans": 14,
+        "jenis": "PUSTU",
+        "kode_desa": "110013",
+        "nama": "PUSTU NAGRAK TENJOWARINGIN",
         "tahun": 2025
     },
     {
@@ -14989,6 +15629,14 @@
         "jenis": "SMKS",
         "kode_desa": "110015",
         "nama": "SMK MUTIARA SALAWU",
+        "tahun": 2025
+    },
+    {
+        "id_desas": 133,
+        "id_kecamatans": 14,
+        "jenis": "PUSTU",
+        "kode_desa": "110015",
+        "nama": "PUSTU DESA TANJUNGSARI",
         "tahun": 2025
     },
     {
@@ -15506,7 +16154,7 @@
     {
         "id_desas": 137,
         "id_kecamatans": 14,
-        "jenis": "Puskesmas Rawat Inap",
+        "jenis": "PUSKESMAS",
         "kode_desa": "110019",
         "nama": "PUSKESMAS SALAWU",
         "tahun": 2025
@@ -15672,6 +16320,14 @@
         "tahun": 2025
     },
     {
+        "id_desas": 138,
+        "id_kecamatans": 14,
+        "jenis": "PUSTU",
+        "kode_desa": "110020",
+        "nama": "PUSKESMAS PEMBANTU DESA SERANG",
+        "tahun": 2025
+    },
+    {
         "id_desas": 139,
         "id_kecamatans": 15,
         "jenis": "PRAKTIK BIDAN",
@@ -15733,6 +16389,14 @@
         "jenis": "SMPN",
         "kode_desa": "111001",
         "nama": "SMP NEGERI 2 PUSPAHIANG",
+        "tahun": 2025
+    },
+    {
+        "id_desas": 139,
+        "id_kecamatans": 15,
+        "jenis": "PUSTU",
+        "kode_desa": "111001",
+        "nama": "PUSTU DESA MANDALASARI",
         "tahun": 2025
     },
     {
@@ -15826,6 +16490,14 @@
     {
         "id_desas": 140,
         "id_kecamatans": 15,
+        "jenis": "PUSTU",
+        "kode_desa": "111002",
+        "nama": "PUSTU DESA SUKASARI",
+        "tahun": 2025
+    },
+    {
+        "id_desas": 140,
+        "id_kecamatans": 15,
         "jenis": "POLINDES",
         "kode_desa": "111002",
         "nama": "POLINDES DESA SUKASARI",
@@ -15893,6 +16565,14 @@
         "jenis": "SMPN",
         "kode_desa": "111003",
         "nama": "SMP NEGERI TERBUKA 1 PUSPAHIANG",
+        "tahun": 2025
+    },
+    {
+        "id_desas": 141,
+        "id_kecamatans": 15,
+        "jenis": "PUSTU",
+        "kode_desa": "111003",
+        "nama": "PUSTU DESA PUSPASARI",
         "tahun": 2025
     },
     {
@@ -16058,7 +16738,7 @@
     {
         "id_desas": 142,
         "id_kecamatans": 15,
-        "jenis": "Puskesmas Tanpa Rawat Inap",
+        "jenis": "PUSKESMAS",
         "kode_desa": "111004",
         "nama": "PUSKESMAS PUSPAHIANG",
         "tahun": 2025
@@ -16173,6 +16853,14 @@
         "jenis": "PRAKTIK BIDAN",
         "kode_desa": "111005",
         "nama": "PRAKTIK BIDAN ELIS",
+        "tahun": 2025
+    },
+    {
+        "id_desas": 144,
+        "id_kecamatans": 15,
+        "jenis": "PUSTU",
+        "kode_desa": "111006",
+        "nama": "PUSTU DESA LUYUBAKTI",
         "tahun": 2025
     },
     {
@@ -16341,6 +17029,14 @@
         "jenis": "MTs",
         "kode_desa": "111007",
         "nama": "MTS SA SUNDAWENANG",
+        "tahun": 2025
+    },
+    {
+        "id_desas": 145,
+        "id_kecamatans": 15,
+        "jenis": "PUSTU",
+        "kode_desa": "111007",
+        "nama": "PUSTU DESA CIMANGGU",
         "tahun": 2025
     },
     {
@@ -16562,6 +17258,14 @@
     {
         "id_desas": 147,
         "id_kecamatans": 16,
+        "jenis": "PUSTU",
+        "kode_desa": "120001",
+        "nama": "PUSTU CIKEUSAL",
+        "tahun": 2025
+    },
+    {
+        "id_desas": 147,
+        "id_kecamatans": 16,
         "jenis": "PRAKTIK BIDAN",
         "kode_desa": "120001",
         "nama": "TEMPAT PRAKTEK BIDAN IIN DARWATI",
@@ -16680,6 +17384,14 @@
         "tahun": 2025
     },
     {
+        "id_desas": 148,
+        "id_kecamatans": 16,
+        "jenis": "PUSTU",
+        "kode_desa": "120002",
+        "nama": "PUSTU SUKANAGARA",
+        "tahun": 2025
+    },
+    {
         "id_desas": 149,
         "id_kecamatans": 16,
         "jenis": "PRAKTIK BIDAN",
@@ -16786,6 +17498,14 @@
     {
         "id_desas": 150,
         "id_kecamatans": 16,
+        "jenis": "PT Swasta",
+        "kode_desa": "120004",
+        "nama": "STKIP PANCA KARYA TASIKMALAYA",
+        "tahun": 2025
+    },
+    {
+        "id_desas": 150,
+        "id_kecamatans": 16,
         "jenis": "APOTEK",
         "kode_desa": "120004",
         "nama": "APOTEK SUMBER WARAS",
@@ -16885,6 +17605,14 @@
         "jenis": "SMKS",
         "kode_desa": "120004",
         "nama": "SMK SUKAPURA",
+        "tahun": 2025
+    },
+    {
+        "id_desas": 150,
+        "id_kecamatans": 16,
+        "jenis": "PUSTU",
+        "kode_desa": "120004",
+        "nama": "PUSTU TANJUNGJAYA",
         "tahun": 2025
     },
     {
@@ -17090,7 +17818,7 @@
     {
         "id_desas": 152,
         "id_kecamatans": 16,
-        "jenis": "Puskesmas Tanpa Rawat Inap",
+        "jenis": "PUSKESMAS",
         "kode_desa": "120006",
         "nama": "PUSKESMAS TANJUNGJAYA",
         "tahun": 2025
@@ -17109,6 +17837,14 @@
         "jenis": "PRAKTIK BIDAN",
         "kode_desa": "120006",
         "nama": "BIDAN YENI",
+        "tahun": 2025
+    },
+    {
+        "id_desas": 152,
+        "id_kecamatans": 16,
+        "jenis": "PT Swasta",
+        "kode_desa": "120006",
+        "nama": "STIT AZZAHRA",
         "tahun": 2025
     },
     {
@@ -17298,6 +18034,14 @@
     {
         "id_desas": 154,
         "id_kecamatans": 17,
+        "jenis": "PUSTU",
+        "kode_desa": "130001",
+        "nama": "PUSTU DESA MEKARJAYA",
+        "tahun": 2025
+    },
+    {
+        "id_desas": 154,
+        "id_kecamatans": 17,
         "jenis": "PRAKTIK BIDAN",
         "kode_desa": "130001",
         "nama": "PRAKTEK BIDAN IRMA YUNITA",
@@ -17405,6 +18149,14 @@
         "jenis": "MA",
         "kode_desa": "130002",
         "nama": "MA AL HIDAYAH",
+        "tahun": 2025
+    },
+    {
+        "id_desas": 155,
+        "id_kecamatans": 17,
+        "jenis": "PUSTU",
+        "kode_desa": "130002",
+        "nama": "PUSTU DESA SIRNAJAYA",
         "tahun": 2025
     },
     {
@@ -17706,7 +18458,7 @@
     {
         "id_desas": 157,
         "id_kecamatans": 17,
-        "jenis": "Puskesmas Rawat Inap",
+        "jenis": "PUSKESMAS",
         "kode_desa": "130004",
         "nama": "PUSKESMAS KECAMATAN SUKARAJA",
         "tahun": 2025
@@ -17954,6 +18706,14 @@
     {
         "id_desas": 159,
         "id_kecamatans": 17,
+        "jenis": "PUSTU",
+        "kode_desa": "130006",
+        "nama": "PUSKESMAS PEMBANTU LEUWIBUDAH",
+        "tahun": 2025
+    },
+    {
+        "id_desas": 159,
+        "id_kecamatans": 17,
         "jenis": "PRAKTIK BIDAN",
         "kode_desa": "130006",
         "nama": "PRAKTEK BIDAN HJ IWAN/BU NELA",
@@ -18037,6 +18797,14 @@
         "jenis": "MTs",
         "kode_desa": "130007",
         "nama": "MTS RIYADHUSSALAM",
+        "tahun": 2025
+    },
+    {
+        "id_desas": 160,
+        "id_kecamatans": 17,
+        "jenis": "PUSTU",
+        "kode_desa": "130007",
+        "nama": "PUSTU DESA LINGGARAJA",
         "tahun": 2025
     },
     {
@@ -18130,7 +18898,7 @@
     {
         "id_desas": 162,
         "id_kecamatans": 18,
-        "jenis": "Puskesmas Rawat Inap",
+        "jenis": "PUSKESMAS",
         "kode_desa": "140003",
         "nama": "PUSKESMAS SALOPA",
         "tahun": 2025
@@ -18482,6 +19250,14 @@
     {
         "id_desas": 164,
         "id_kecamatans": 18,
+        "jenis": "PUSTU",
+        "kode_desa": "140005",
+        "nama": "PUSTU MULYASARI",
+        "tahun": 2025
+    },
+    {
+        "id_desas": 164,
+        "id_kecamatans": 18,
         "jenis": "PRAKTIK BIDAN",
         "kode_desa": "140005",
         "nama": "PRAKTEK BIDAN EVA DAMAYANTI",
@@ -18626,6 +19402,14 @@
     {
         "id_desas": 165,
         "id_kecamatans": 18,
+        "jenis": "PUSTU",
+        "kode_desa": "140006",
+        "nama": "PUSTU TANJUNGSARI",
+        "tahun": 2025
+    },
+    {
+        "id_desas": 165,
+        "id_kecamatans": 18,
         "jenis": "RA",
         "kode_desa": "140006",
         "nama": "RA NURUL HUDA 2",
@@ -18645,6 +19429,14 @@
         "jenis": "PRAKTIK BIDAN",
         "kode_desa": "140006",
         "nama": "PRAKTIK BIDAN YUSI ADE PERMATASARI",
+        "tahun": 2025
+    },
+    {
+        "id_desas": 166,
+        "id_kecamatans": 18,
+        "jenis": "PT Swasta",
+        "kode_desa": "140007",
+        "nama": "STAI KH SAEPUDIN ZUHRI",
         "tahun": 2025
     },
     {
@@ -19074,7 +19866,15 @@
     {
         "id_desas": 168,
         "id_kecamatans": 18,
-        "jenis": "Klinik Pratama",
+        "jenis": "PUSTU",
+        "kode_desa": "140009",
+        "nama": "PUSTU DESA MANDALAWANGI",
+        "tahun": 2025
+    },
+    {
+        "id_desas": 168,
+        "id_kecamatans": 18,
+        "jenis": "BP/Klinik",
         "kode_desa": "140009",
         "nama": "KLINIK PRATAMA ALABI MEDIKA",
         "tahun": 2025
@@ -19186,6 +19986,14 @@
     {
         "id_desas": 169,
         "id_kecamatans": 18,
+        "jenis": "PUSTU",
+        "kode_desa": "140010",
+        "nama": "PUSTU BANJARWARINGIN",
+        "tahun": 2025
+    },
+    {
+        "id_desas": 169,
+        "id_kecamatans": 18,
         "jenis": "PRAKTIK BIDAN",
         "kode_desa": "140010",
         "nama": "PRAKTIK BIDAN INA TARLINA",
@@ -19282,6 +20090,14 @@
     {
         "id_desas": 170,
         "id_kecamatans": 18,
+        "jenis": "PUSTU",
+        "kode_desa": "140018",
+        "nama": "PUSTU KARYAWANGI",
+        "tahun": 2025
+    },
+    {
+        "id_desas": 170,
+        "id_kecamatans": 18,
         "jenis": "POLINDES",
         "kode_desa": "140018",
         "nama": "POLINDES KARYAWANGI",
@@ -19365,6 +20181,14 @@
         "jenis": "SMKS",
         "kode_desa": "141001",
         "nama": "YAYASAN HAJI UMAR SANUSI",
+        "tahun": 2025
+    },
+    {
+        "id_desas": 171,
+        "id_kecamatans": 19,
+        "jenis": "PUSTU",
+        "kode_desa": "141001",
+        "nama": "PUSTU DESA MANDALAMEKAR",
         "tahun": 2025
     },
     {
@@ -19461,6 +20285,14 @@
         "jenis": "MTs",
         "kode_desa": "141002",
         "nama": "MTS AL KHOERIYAH",
+        "tahun": 2025
+    },
+    {
+        "id_desas": 172,
+        "id_kecamatans": 19,
+        "jenis": "PUSTU",
+        "kode_desa": "141002",
+        "nama": "PUSKESMAS PEMBANTU DESA KERSAGAL",
         "tahun": 2025
     },
     {
@@ -19610,6 +20442,14 @@
     {
         "id_desas": 173,
         "id_kecamatans": 19,
+        "jenis": "PUSTU",
+        "kode_desa": "141003",
+        "nama": "PUSTU DESA CIWARAK",
+        "tahun": 2025
+    },
+    {
+        "id_desas": 173,
+        "id_kecamatans": 19,
         "jenis": "POLINDES",
         "kode_desa": "141003",
         "nama": "POLINDES DESA CIWARAK",
@@ -19666,7 +20506,7 @@
     {
         "id_desas": 174,
         "id_kecamatans": 19,
-        "jenis": "Puskesmas Tanpa Rawat Inap",
+        "jenis": "PUSKESMAS",
         "kode_desa": "141004",
         "nama": "PUSKESMAS JATIWARAS",
         "tahun": 2025
@@ -19914,6 +20754,14 @@
     {
         "id_desas": 176,
         "id_kecamatans": 19,
+        "jenis": "PUSTU",
+        "kode_desa": "141006",
+        "nama": "PUSTU DESA NEGLASARI",
+        "tahun": 2025
+    },
+    {
+        "id_desas": 176,
+        "id_kecamatans": 19,
         "jenis": "PRAKTIK BIDAN",
         "kode_desa": "141006",
         "nama": "TEMPAT PRAKTEK BIDAN LENI",
@@ -20045,6 +20893,14 @@
         "jenis": "SMKS",
         "kode_desa": "141007",
         "nama": "SMK IT NURUL HIKMAH",
+        "tahun": 2025
+    },
+    {
+        "id_desas": 177,
+        "id_kecamatans": 19,
+        "jenis": "PUSTU",
+        "kode_desa": "141007",
+        "nama": "PUSTU KAPUTIHAN",
         "tahun": 2025
     },
     {
@@ -20186,6 +21042,14 @@
     {
         "id_desas": 178,
         "id_kecamatans": 19,
+        "jenis": "PUSTU",
+        "kode_desa": "141008",
+        "nama": "PUSTU DESA SETIAWANGI",
+        "tahun": 2025
+    },
+    {
+        "id_desas": 178,
+        "id_kecamatans": 19,
         "jenis": "PRAKTIK BIDAN",
         "kode_desa": "141008",
         "nama": "PRAKTEK BIDAN TINA",
@@ -20245,6 +21109,14 @@
         "jenis": "SMPN",
         "kode_desa": "141009",
         "nama": "SMP Negeri SATAP 1 JATIWARAS",
+        "tahun": 2025
+    },
+    {
+        "id_desas": 179,
+        "id_kecamatans": 19,
+        "jenis": "PUSTU",
+        "kode_desa": "141009",
+        "nama": "PUSTU BUNTER SUKAKERTA",
         "tahun": 2025
     },
     {
@@ -20314,6 +21186,14 @@
     {
         "id_desas": 180,
         "id_kecamatans": 19,
+        "jenis": "PUSTU",
+        "kode_desa": "141010",
+        "nama": "PUSTU DESA KERTARAHAYU",
+        "tahun": 2025
+    },
+    {
+        "id_desas": 180,
+        "id_kecamatans": 19,
         "jenis": "POSKESDES",
         "kode_desa": "141010",
         "nama": "POSKESDES KERTARAHAYU",
@@ -20325,6 +21205,14 @@
         "jenis": "PRAKTIK BIDAN",
         "kode_desa": "141010",
         "nama": "PRAKTEK BIDAN IRA ARIYANTI",
+        "tahun": 2025
+    },
+    {
+        "id_desas": 181,
+        "id_kecamatans": 19,
+        "jenis": "PUSTU",
+        "kode_desa": "141011",
+        "nama": "PUSKESMAS PEMBANTU DESA MANDALAHURIP",
         "tahun": 2025
     },
     {
@@ -20413,6 +21301,14 @@
         "jenis": "SMPN",
         "kode_desa": "150001",
         "nama": "SMPN SATU ATAP 1 CINEAM",
+        "tahun": 2025
+    },
+    {
+        "id_desas": 182,
+        "id_kecamatans": 20,
+        "jenis": "PUSTU",
+        "kode_desa": "150001",
+        "nama": "PUSTU DESA CISARUA",
         "tahun": 2025
     },
     {
@@ -20538,6 +21434,14 @@
     {
         "id_desas": 184,
         "id_kecamatans": 20,
+        "jenis": "PUSTU",
+        "kode_desa": "150007",
+        "nama": "DUSUN MEKARJAYA RT 07 RW 02",
+        "tahun": 2025
+    },
+    {
+        "id_desas": 184,
+        "id_kecamatans": 20,
         "jenis": "PRAKTIK BIDAN",
         "kode_desa": "150007",
         "nama": "Praktek Bidan Desa",
@@ -20621,6 +21525,14 @@
         "jenis": "SMKS",
         "kode_desa": "150008",
         "nama": "SMK NURUL HUDA",
+        "tahun": 2025
+    },
+    {
+        "id_desas": 185,
+        "id_kecamatans": 20,
+        "jenis": "PUSTU",
+        "kode_desa": "150008",
+        "nama": "PUSTU DESA CIJULANG",
         "tahun": 2025
     },
     {
@@ -20818,7 +21730,7 @@
     {
         "id_desas": 188,
         "id_kecamatans": 20,
-        "jenis": "Puskesmas Rawat Inap",
+        "jenis": "PUSKESMAS",
         "kode_desa": "150011",
         "nama": "PUSKESMAS CINEAM",
         "tahun": 2025
@@ -21114,6 +22026,22 @@
     {
         "id_desas": 190,
         "id_kecamatans": 20,
+        "jenis": "PT Swasta",
+        "kode_desa": "150013",
+        "nama": "SEKOLAH TINGGI KULIYATUL MADINAH ISLAMIYYA",
+        "tahun": 2025
+    },
+    {
+        "id_desas": 190,
+        "id_kecamatans": 20,
+        "jenis": "PUSTU",
+        "kode_desa": "150013",
+        "nama": "PUSTU DESA RAJADATU",
+        "tahun": 2025
+    },
+    {
+        "id_desas": 190,
+        "id_kecamatans": 20,
         "jenis": "POLINDES",
         "kode_desa": "150013",
         "nama": "POLINDES Desa Rajadatu",
@@ -21186,6 +22114,14 @@
     {
         "id_desas": 192,
         "id_kecamatans": 21,
+        "jenis": "PUSTU",
+        "kode_desa": "151001",
+        "nama": "PUSTU DESA CITALAHAB",
+        "tahun": 2025
+    },
+    {
+        "id_desas": 192,
+        "id_kecamatans": 21,
         "jenis": "POLINDES",
         "kode_desa": "151001",
         "nama": "POLINDES DS. CITALAHAB",
@@ -21202,7 +22138,7 @@
     {
         "id_desas": 193,
         "id_kecamatans": 21,
-        "jenis": "Klinik Pratama",
+        "jenis": "BP/Klinik",
         "kode_desa": "151002",
         "nama": "PRAKTEK PA YAYAT",
         "tahun": 2025
@@ -21258,7 +22194,7 @@
     {
         "id_desas": 193,
         "id_kecamatans": 21,
-        "jenis": "Puskesmas Tanpa Rawat Inap",
+        "jenis": "PUSKESMAS",
         "kode_desa": "151002",
         "nama": "PUSKESMAS KARANGJAYA",
         "tahun": 2025
@@ -21341,6 +22277,14 @@
         "jenis": "SMKN",
         "kode_desa": "151003",
         "nama": "SMK NEGERI KARANGJAYA",
+        "tahun": 2025
+    },
+    {
+        "id_desas": 194,
+        "id_kecamatans": 21,
+        "jenis": "PUSTU",
+        "kode_desa": "151003",
+        "nama": "PUSTU KARANGJAYA",
         "tahun": 2025
     },
     {
@@ -21434,6 +22378,14 @@
     {
         "id_desas": 195,
         "id_kecamatans": 21,
+        "jenis": "PUSTU",
+        "kode_desa": "151004",
+        "nama": "PUSTU DESA KARANGLAYUNG",
+        "tahun": 2025
+    },
+    {
+        "id_desas": 195,
+        "id_kecamatans": 21,
         "jenis": "POLINDES",
         "kode_desa": "151004",
         "nama": "POLINDES DESA KARANGLAYUNG",
@@ -21517,6 +22469,14 @@
         "jenis": "SMPS",
         "kode_desa": "160007",
         "nama": "SMP PLUS AL MIQFAR",
+        "tahun": 2025
+    },
+    {
+        "id_desas": 196,
+        "id_kecamatans": 22,
+        "jenis": "PUSTU",
+        "kode_desa": "160007",
+        "nama": "PUSKESMAS PEMBANTU DESA BATUSUMUR",
         "tahun": 2025
     },
     {
@@ -21626,6 +22586,14 @@
     {
         "id_desas": 198,
         "id_kecamatans": 22,
+        "jenis": "PUSTU",
+        "kode_desa": "160009",
+        "nama": "PUSKESMAS PEMBANTU DESA PASIRPANJANG",
+        "tahun": 2025
+    },
+    {
+        "id_desas": 198,
+        "id_kecamatans": 22,
         "jenis": "PRAKTIK BIDAN",
         "kode_desa": "160009",
         "nama": "BIDAN HENI HARYUNI",
@@ -21637,6 +22605,14 @@
         "jenis": "PRAKTIK BIDAN",
         "kode_desa": "160009",
         "nama": "BIDAN LILIS AM.KEB",
+        "tahun": 2025
+    },
+    {
+        "id_desas": 198,
+        "id_kecamatans": 22,
+        "jenis": "PT Swasta",
+        "kode_desa": "160009",
+        "nama": "STISA ASH SHOFA",
         "tahun": 2025
     },
     {
@@ -21837,6 +22813,14 @@
         "jenis": "MI",
         "kode_desa": "160011",
         "nama": "MIS YPI AL ABROR",
+        "tahun": 2025
+    },
+    {
+        "id_desas": 200,
+        "id_kecamatans": 22,
+        "jenis": "PUSTU",
+        "kode_desa": "160011",
+        "nama": "PUSTU DESA CIBEBER",
         "tahun": 2025
     },
     {
@@ -22066,6 +23050,14 @@
     {
         "id_desas": 202,
         "id_kecamatans": 22,
+        "jenis": "PUSTU",
+        "kode_desa": "160013",
+        "nama": "PUSTU DESA MARGAHAYU",
+        "tahun": 2025
+    },
+    {
+        "id_desas": 202,
+        "id_kecamatans": 22,
         "jenis": "PRAKTIK DOKTER",
         "kode_desa": "160013",
         "nama": "PRAKTEK DOKTER HERU S",
@@ -22138,7 +23130,7 @@
     {
         "id_desas": 203,
         "id_kecamatans": 22,
-        "jenis": "Klinik Pratama",
+        "jenis": "BP/Klinik",
         "kode_desa": "160014",
         "nama": "KLINIK KAMULYAN",
         "tahun": 2025
@@ -22298,7 +23290,7 @@
     {
         "id_desas": 204,
         "id_kecamatans": 22,
-        "jenis": "Puskesmas Rawat Inap",
+        "jenis": "PUSKESMAS",
         "kode_desa": "160015",
         "nama": "PUSKESMAS MANONJAYA",
         "tahun": 2025
@@ -22306,7 +23298,7 @@
     {
         "id_desas": 204,
         "id_kecamatans": 22,
-        "jenis": "Klinik Pratama",
+        "jenis": "BP/Klinik",
         "kode_desa": "160015",
         "nama": "KLINIK H DEDI S",
         "tahun": 2025
@@ -22314,7 +23306,7 @@
     {
         "id_desas": 204,
         "id_kecamatans": 22,
-        "jenis": "Klinik Pratama",
+        "jenis": "BP/Klinik",
         "kode_desa": "160015",
         "nama": "KLINIK MMC MANONJAYA",
         "tahun": 2025
@@ -22506,7 +23498,7 @@
     {
         "id_desas": 204,
         "id_kecamatans": 22,
-        "jenis": "Klinik Pratama",
+        "jenis": "BP/Klinik",
         "kode_desa": "160015",
         "nama": "KLINIK MUAFFA MEDIKA",
         "tahun": 2025
@@ -22613,6 +23605,14 @@
         "jenis": "PRAKTIK BIDAN",
         "kode_desa": "160016",
         "nama": "BIDAN RIKA",
+        "tahun": 2025
+    },
+    {
+        "id_desas": 206,
+        "id_kecamatans": 22,
+        "jenis": "PT Swasta",
+        "kode_desa": "160017",
+        "nama": "STAI AL RUZHAN",
         "tahun": 2025
     },
     {
@@ -22730,7 +23730,7 @@
     {
         "id_desas": 206,
         "id_kecamatans": 22,
-        "jenis": "Klinik Pratama",
+        "jenis": "BP/Klinik",
         "kode_desa": "160017",
         "nama": "KLINIK AFIYAH MEDIKA",
         "tahun": 2025
@@ -22802,6 +23802,14 @@
     {
         "id_desas": 207,
         "id_kecamatans": 22,
+        "jenis": "PUSTU",
+        "kode_desa": "160018",
+        "nama": "PUSTU DESA PASIRBATANG",
+        "tahun": 2025
+    },
+    {
+        "id_desas": 207,
+        "id_kecamatans": 22,
         "jenis": "PRAKTIK BIDAN",
         "kode_desa": "160018",
         "nama": "BIDAN TUTI",
@@ -22818,7 +23826,15 @@
     {
         "id_desas": 208,
         "id_kecamatans": 23,
-        "jenis": "Puskesmas Tanpa Rawat Inap",
+        "jenis": "PT Swasta",
+        "kode_desa": "161001",
+        "nama": "STIES H SALEH BUDIMAN",
+        "tahun": 2025
+    },
+    {
+        "id_desas": 208,
+        "id_kecamatans": 23,
+        "jenis": "PUSKESMAS",
         "kode_desa": "161001",
         "nama": "PUSKESMAS GUNUNGTANJUNG",
         "tahun": 2025
@@ -22938,6 +23954,14 @@
     {
         "id_desas": 209,
         "id_kecamatans": 23,
+        "jenis": "PUSTU",
+        "kode_desa": "161002",
+        "nama": "PUSTU MALATISUKA",
+        "tahun": 2025
+    },
+    {
+        "id_desas": 209,
+        "id_kecamatans": 23,
         "jenis": "POLINDES",
         "kode_desa": "161002",
         "nama": "POLINDES DESA MALATISUKA",
@@ -23008,6 +24032,14 @@
         "tahun": 2025
     },
     {
+        "id_desas": 211,
+        "id_kecamatans": 23,
+        "jenis": "PUSTU",
+        "kode_desa": "161004",
+        "nama": "PUSKESMAS PEMBANTU DSA JATIJAYA",
+        "tahun": 2025
+    },
+    {
         "id_desas": 212,
         "id_kecamatans": 23,
         "jenis": "TK",
@@ -23066,7 +24098,7 @@
     {
         "id_desas": 212,
         "id_kecamatans": 23,
-        "jenis": "Klinik Pratama",
+        "jenis": "BP/Klinik",
         "kode_desa": "161005",
         "nama": "KLINIK RJM",
         "tahun": 2025
@@ -23213,6 +24245,14 @@
         "jenis": "SD Negeri",
         "kode_desa": "161007",
         "nama": "SD NEGERI MUNJUL",
+        "tahun": 2025
+    },
+    {
+        "id_desas": 214,
+        "id_kecamatans": 23,
+        "jenis": "PUSTU",
+        "kode_desa": "161007",
+        "nama": "PUSKESMAS PEMBANTU DESA BOJONGSA",
         "tahun": 2025
     },
     {
@@ -23410,7 +24450,15 @@
     {
         "id_desas": 216,
         "id_kecamatans": 24,
-        "jenis": "Klinik Pratama",
+        "jenis": "RS",
+        "kode_desa": "190008",
+        "nama": "RUMAH SAKIT KHZ MUSTOFA",
+        "tahun": 2025
+    },
+    {
+        "id_desas": 216,
+        "id_kecamatans": 24,
+        "jenis": "BP/Klinik",
         "kode_desa": "190008",
         "nama": "KLINIK ARMINA MEDIKA",
         "tahun": 2025
@@ -23762,7 +24810,7 @@
     {
         "id_desas": 218,
         "id_kecamatans": 24,
-        "jenis": "Puskesmas Rawat Inap",
+        "jenis": "PUSKESMAS",
         "kode_desa": "190010",
         "nama": "PUSKESMAS TINEWATI",
         "tahun": 2025
@@ -23770,7 +24818,7 @@
     {
         "id_desas": 218,
         "id_kecamatans": 24,
-        "jenis": "Puskesmas Tanpa Rawat Inap",
+        "jenis": "PUSKESMAS",
         "kode_desa": "190010",
         "nama": "PUSKESMAS SINGAPARNA",
         "tahun": 2025
@@ -23778,7 +24826,7 @@
     {
         "id_desas": 218,
         "id_kecamatans": 24,
-        "jenis": "Klinik Pratama",
+        "jenis": "BP/Klinik",
         "kode_desa": "190010",
         "nama": "KLINIK AVIONIC",
         "tahun": 2025
@@ -24354,7 +25402,7 @@
     {
         "id_desas": 220,
         "id_kecamatans": 24,
-        "jenis": "Klinik Pratama",
+        "jenis": "BP/Klinik",
         "kode_desa": "190012",
         "nama": "POLIKLINIK KIMIA FARMA",
         "tahun": 2025
@@ -24506,7 +25554,7 @@
     {
         "id_desas": 220,
         "id_kecamatans": 24,
-        "jenis": "Klinik Utama",
+        "jenis": "BP/Klinik",
         "kode_desa": "190012",
         "nama": "KLINIK PKU MUHAMMADIYAH",
         "tahun": 2025
@@ -24530,7 +25578,7 @@
     {
         "id_desas": 220,
         "id_kecamatans": 24,
-        "jenis": "Klinik Pratama",
+        "jenis": "BP/Klinik",
         "kode_desa": "190012",
         "nama": "KLINIK PRATAMA RAPHA TUNAS MEDIKA",
         "tahun": 2025
@@ -24746,7 +25794,23 @@
     {
         "id_desas": 221,
         "id_kecamatans": 24,
-        "jenis": "Klinik Pratama",
+        "jenis": "PT Swasta",
+        "kode_desa": "190013",
+        "nama": "KAMPUS UNIK ( UNIVERSITAS ISLAM KH RUHIAT )",
+        "tahun": 2025
+    },
+    {
+        "id_desas": 221,
+        "id_kecamatans": 24,
+        "jenis": "PUSTU",
+        "kode_desa": "190013",
+        "nama": "PUSTU DESA CIPAKAT",
+        "tahun": 2025
+    },
+    {
+        "id_desas": 221,
+        "id_kecamatans": 24,
+        "jenis": "BP/Klinik",
         "kode_desa": "190013",
         "nama": "POLIKLINIK ARAFA",
         "tahun": 2025
@@ -24962,7 +26026,7 @@
     {
         "id_desas": 222,
         "id_kecamatans": 24,
-        "jenis": "Klinik Pratama",
+        "jenis": "BP/Klinik",
         "kode_desa": "190020",
         "nama": "KLINIK LENTERA",
         "tahun": 2025
@@ -25178,7 +26242,15 @@
     {
         "id_desas": 222,
         "id_kecamatans": 24,
-        "jenis": "Klinik Pratama",
+        "jenis": "PUSTU",
+        "kode_desa": "190020",
+        "nama": "PUSTU DESA CINTARAJA",
+        "tahun": 2025
+    },
+    {
+        "id_desas": 222,
+        "id_kecamatans": 24,
+        "jenis": "BP/Klinik",
         "kode_desa": "190020",
         "nama": "KLINIK GIGI AMANAH DENTAL",
         "tahun": 2025
@@ -25186,7 +26258,7 @@
     {
         "id_desas": 222,
         "id_kecamatans": 24,
-        "jenis": "Klinik Pratama",
+        "jenis": "BP/Klinik",
         "kode_desa": "190020",
         "nama": "KLINIK ZARRA MEDIKA",
         "tahun": 2025
@@ -25389,6 +26461,30 @@
         "jenis": "SMAN",
         "kode_desa": "190021",
         "nama": "SMA NEGERI 2 SINGAPARNA",
+        "tahun": 2025
+    },
+    {
+        "id_desas": 223,
+        "id_kecamatans": 24,
+        "jenis": "PT Swasta",
+        "kode_desa": "190021",
+        "nama": "STIKES RESPATI",
+        "tahun": 2025
+    },
+    {
+        "id_desas": 223,
+        "id_kecamatans": 24,
+        "jenis": "RS",
+        "kode_desa": "190021",
+        "nama": "RSIA RESPATI",
+        "tahun": 2025
+    },
+    {
+        "id_desas": 223,
+        "id_kecamatans": 24,
+        "jenis": "PUSTU",
+        "kode_desa": "190021",
+        "nama": "PUSTU DESA CIKUNIR",
         "tahun": 2025
     },
     {
@@ -25770,7 +26866,15 @@
     {
         "id_desas": 225,
         "id_kecamatans": 25,
-        "jenis": "Klinik Pratama",
+        "jenis": "PUSTU",
+        "kode_desa": "191001",
+        "nama": "PUSKESMAS PEMBANTU DESA SUKARAPIH",
+        "tahun": 2025
+    },
+    {
+        "id_desas": 225,
+        "id_kecamatans": 25,
+        "jenis": "BP/Klinik",
         "kode_desa": "191001",
         "nama": "KLINIK BERKAH MEDIKA",
         "tahun": 2025
@@ -25930,7 +27034,7 @@
     {
         "id_desas": 226,
         "id_kecamatans": 25,
-        "jenis": "Klinik Pratama",
+        "jenis": "BP/Klinik",
         "kode_desa": "191002",
         "nama": "KLINIK SYIFA MEDIKA",
         "tahun": 2025
@@ -26053,6 +27157,14 @@
         "jenis": "MA",
         "kode_desa": "191003",
         "nama": "MA KH. ZUMRATUL MUTAQIN",
+        "tahun": 2025
+    },
+    {
+        "id_desas": 227,
+        "id_kecamatans": 25,
+        "jenis": "PUSTU",
+        "kode_desa": "191003",
+        "nama": "PUSKESMAS PEMBANTU DESA SUKA MENAK",
         "tahun": 2025
     },
     {
@@ -26314,6 +27426,14 @@
     {
         "id_desas": 229,
         "id_kecamatans": 25,
+        "jenis": "PUSTU",
+        "kode_desa": "191005",
+        "nama": "PUSKESMAS PEMBANTU DESA SUKAKARSA",
+        "tahun": 2025
+    },
+    {
+        "id_desas": 229,
+        "id_kecamatans": 25,
         "jenis": "PRAKTIK BIDAN",
         "kode_desa": "191005",
         "nama": "PRAKTIK BIDAN HJ OMAH",
@@ -26530,7 +27650,7 @@
     {
         "id_desas": 230,
         "id_kecamatans": 25,
-        "jenis": "Puskesmas Rawat Inap",
+        "jenis": "PUSKESMAS",
         "kode_desa": "191006",
         "nama": "PUSKESMAS SUKARAME",
         "tahun": 2025
@@ -26642,6 +27762,14 @@
     {
         "id_desas": 231,
         "id_kecamatans": 26,
+        "jenis": "PUSTU",
+        "kode_desa": "192001",
+        "nama": "PUSTU DESA PASIRSALAM",
+        "tahun": 2025
+    },
+    {
+        "id_desas": 231,
+        "id_kecamatans": 26,
         "jenis": "PRAKTIK BIDAN",
         "kode_desa": "192001",
         "nama": "PRAKTEK BIDAN EULIS",
@@ -26693,6 +27821,14 @@
         "jenis": "SMPN",
         "kode_desa": "192002",
         "nama": "SMP SATAP 1 MANGUNREJA",
+        "tahun": 2025
+    },
+    {
+        "id_desas": 232,
+        "id_kecamatans": 26,
+        "jenis": "PUSTU",
+        "kode_desa": "192002",
+        "nama": "PUSKESMAS PEMBANTU DESA SUKALUYU",
         "tahun": 2025
     },
     {
@@ -26842,6 +27978,14 @@
     {
         "id_desas": 233,
         "id_kecamatans": 26,
+        "jenis": "PUSTU",
+        "kode_desa": "192003",
+        "nama": "PUSTU DESA SUKASUKUR",
+        "tahun": 2025
+    },
+    {
+        "id_desas": 233,
+        "id_kecamatans": 26,
         "jenis": "PRAKTIK DOKTER",
         "kode_desa": "192003",
         "nama": "PRAKTEK DOKTER JAJANG",
@@ -26965,6 +28109,14 @@
         "jenis": "SMKS",
         "kode_desa": "192004",
         "nama": "SMK BAHRUL HUDA",
+        "tahun": 2025
+    },
+    {
+        "id_desas": 234,
+        "id_kecamatans": 26,
+        "jenis": "PUSTU",
+        "kode_desa": "192004",
+        "nama": "PUSTU DESA SALEBU",
         "tahun": 2025
     },
     {
@@ -27154,7 +28306,7 @@
     {
         "id_desas": 235,
         "id_kecamatans": 26,
-        "jenis": "Puskesmas Tanpa Rawat Inap",
+        "jenis": "PUSKESMAS",
         "kode_desa": "192005",
         "nama": "PUSKESMAS MANGUNREJA",
         "tahun": 2025
@@ -27258,7 +28410,7 @@
     {
         "id_desas": 235,
         "id_kecamatans": 26,
-        "jenis": "Klinik Pratama",
+        "jenis": "BP/Klinik",
         "kode_desa": "192005",
         "nama": "KLINIK KDI dr IMAN",
         "tahun": 2025
@@ -27410,6 +28562,14 @@
     {
         "id_desas": 237,
         "id_kecamatans": 27,
+        "jenis": "PUSTU",
+        "kode_desa": "200001",
+        "nama": "PUSTU DESA SIRNAGALIH",
+        "tahun": 2025
+    },
+    {
+        "id_desas": 237,
+        "id_kecamatans": 27,
         "jenis": "PRAKTIK BIDAN",
         "kode_desa": "200001",
         "nama": "PRAKTIK BIDAN",
@@ -27453,6 +28613,14 @@
         "jenis": "SMPS",
         "kode_desa": "200002",
         "nama": "SMP WIDYA MUKTI",
+        "tahun": 2025
+    },
+    {
+        "id_desas": 238,
+        "id_kecamatans": 27,
+        "jenis": "PUSTU",
+        "kode_desa": "200002",
+        "nama": "PUSTU DESA KERSAMAJU",
         "tahun": 2025
     },
     {
@@ -27517,6 +28685,14 @@
         "jenis": "SD Negeri",
         "kode_desa": "200003",
         "nama": "SDN TANJUNGSARI",
+        "tahun": 2025
+    },
+    {
+        "id_desas": 239,
+        "id_kecamatans": 27,
+        "jenis": "PUSTU",
+        "kode_desa": "200003",
+        "nama": "PUSTU DESA TANJUNGKARANG",
         "tahun": 2025
     },
     {
@@ -27746,7 +28922,7 @@
     {
         "id_desas": 242,
         "id_kecamatans": 27,
-        "jenis": "Puskesmas Rawat Inap",
+        "jenis": "PUSKESMAS",
         "kode_desa": "200006",
         "nama": "PUSKESMAS CIGALONTANG",
         "tahun": 2025
@@ -28250,6 +29426,14 @@
     {
         "id_desas": 245,
         "id_kecamatans": 27,
+        "jenis": "PUSTU",
+        "kode_desa": "200009",
+        "nama": "PUSTU DESA NANGERANG",
+        "tahun": 2025
+    },
+    {
+        "id_desas": 245,
+        "id_kecamatans": 27,
         "jenis": "PRAKTIK BIDAN",
         "kode_desa": "200009",
         "nama": "PRAKTIK BIDAN YANE OKTAVIANE",
@@ -28362,7 +29546,15 @@
     {
         "id_desas": 246,
         "id_kecamatans": 27,
-        "jenis": "Klinik Pratama",
+        "jenis": "PUSTU",
+        "kode_desa": "200010",
+        "nama": "PUSTU DESA SUKAMANAH",
+        "tahun": 2025
+    },
+    {
+        "id_desas": 246,
+        "id_kecamatans": 27,
+        "jenis": "BP/Klinik",
         "kode_desa": "200010",
         "nama": "KLINIK FAUZIYAH MEDIKA",
         "tahun": 2025
@@ -28501,6 +29693,14 @@
         "jenis": "MTs",
         "kode_desa": "200011",
         "nama": "MTS AL ADZKAR",
+        "tahun": 2025
+    },
+    {
+        "id_desas": 247,
+        "id_kecamatans": 27,
+        "jenis": "PUSTU",
+        "kode_desa": "200011",
+        "nama": "PUSTU DESA SIRNAPUTRA",
         "tahun": 2025
     },
     {
@@ -28786,6 +29986,14 @@
     {
         "id_desas": 251,
         "id_kecamatans": 27,
+        "jenis": "PUSTU",
+        "kode_desa": "200015",
+        "nama": "PUSTU DESA CIDUGALEUN",
+        "tahun": 2025
+    },
+    {
+        "id_desas": 251,
+        "id_kecamatans": 27,
         "jenis": "PRAKTIK BIDAN",
         "kode_desa": "200015",
         "nama": "PRAKTIK BIDAN HJ.YENI NURMALASARI",
@@ -28837,6 +30045,14 @@
         "jenis": "SMAS",
         "kode_desa": "200016",
         "nama": "SMA TUNAS NUSANTARA",
+        "tahun": 2025
+    },
+    {
+        "id_desas": 252,
+        "id_kecamatans": 27,
+        "jenis": "PUSTU",
+        "kode_desa": "200016",
+        "nama": "PUSTU DESA PARENTAS",
         "tahun": 2025
     },
     {
@@ -28978,7 +30194,7 @@
     {
         "id_desas": 253,
         "id_kecamatans": 28,
-        "jenis": "Puskesmas Tanpa Rawat Inap",
+        "jenis": "PUSKESMAS",
         "kode_desa": "210003",
         "nama": "PUSKESMAS LEUWISARI",
         "tahun": 2025
@@ -28986,7 +30202,7 @@
     {
         "id_desas": 253,
         "id_kecamatans": 28,
-        "jenis": "Klinik Pratama",
+        "jenis": "BP/Klinik",
         "kode_desa": "210003",
         "nama": "KLINIK IKWAN MEDIKA PRATAMA",
         "tahun": 2025
@@ -29330,7 +30546,7 @@
     {
         "id_desas": 255,
         "id_kecamatans": 28,
-        "jenis": "Klinik Pratama",
+        "jenis": "BP/Klinik",
         "kode_desa": "210008",
         "nama": "KLINIK PRATAMA DARUSSYIFA",
         "tahun": 2025
@@ -29674,6 +30890,14 @@
     {
         "id_desas": 258,
         "id_kecamatans": 28,
+        "jenis": "PUSTU",
+        "kode_desa": "210017",
+        "nama": "PUSKEMAS PEMBANTU CIGADOG",
+        "tahun": 2025
+    },
+    {
+        "id_desas": 258,
+        "id_kecamatans": 28,
         "jenis": "PRAKTIK BIDAN",
         "kode_desa": "210017",
         "nama": "PRAKTIK BIDAN HJ. NURAENI. STR. KEB",
@@ -29861,6 +31085,14 @@
         "jenis": "RA",
         "kode_desa": "211001",
         "nama": "RA MATLUR ANWAR",
+        "tahun": 2025
+    },
+    {
+        "id_desas": 260,
+        "id_kecamatans": 29,
+        "jenis": "PUSTU",
+        "kode_desa": "211001",
+        "nama": "PUSTU SIRNASARI",
         "tahun": 2025
     },
     {
@@ -30138,6 +31370,14 @@
     {
         "id_desas": 261,
         "id_kecamatans": 29,
+        "jenis": "PUSTU",
+        "kode_desa": "211002",
+        "nama": "PUSTU LINGGASIRNA",
+        "tahun": 2025
+    },
+    {
+        "id_desas": 261,
+        "id_kecamatans": 29,
         "jenis": "PRAKTIK BIDAN",
         "kode_desa": "211002",
         "nama": "ELA NURLELA SARI.AMKEB",
@@ -30266,7 +31506,7 @@
     {
         "id_desas": 262,
         "id_kecamatans": 29,
-        "jenis": "Klinik Pratama",
+        "jenis": "BP/Klinik",
         "kode_desa": "211003",
         "nama": "KLINIK SUMBER SEHAT",
         "tahun": 2025
@@ -30306,7 +31546,7 @@
     {
         "id_desas": 263,
         "id_kecamatans": 29,
-        "jenis": "Puskesmas Tanpa Rawat Inap",
+        "jenis": "PUSKESMAS",
         "kode_desa": "211004",
         "nama": "PUSKESMAS SARIWANGI",
         "tahun": 2025
@@ -30538,6 +31778,14 @@
     {
         "id_desas": 265,
         "id_kecamatans": 29,
+        "jenis": "PUSTU",
+        "kode_desa": "211006",
+        "nama": "PUSTU JAYARATU",
+        "tahun": 2025
+    },
+    {
+        "id_desas": 265,
+        "id_kecamatans": 29,
         "jenis": "PRAKTIK BIDAN",
         "kode_desa": "211006",
         "nama": "BIDAN EUIS SRI MULYANI",
@@ -30650,7 +31898,7 @@
     {
         "id_desas": 267,
         "id_kecamatans": 29,
-        "jenis": "Klinik Pratama",
+        "jenis": "BP/Klinik",
         "kode_desa": "211008",
         "nama": "KLINIK RIDWANA MEDIKA",
         "tahun": 2025
@@ -30922,6 +32170,30 @@
     {
         "id_desas": 268,
         "id_kecamatans": 30,
+        "jenis": "PT Swasta",
+        "kode_desa": "212001",
+        "nama": "PERGURUAN TINGGI UNCIP",
+        "tahun": 2025
+    },
+    {
+        "id_desas": 268,
+        "id_kecamatans": 30,
+        "jenis": "PT Swasta",
+        "kode_desa": "212001",
+        "nama": "PERGURUAN TINGGI STTC",
+        "tahun": 2025
+    },
+    {
+        "id_desas": 268,
+        "id_kecamatans": 30,
+        "jenis": "PUSTU",
+        "kode_desa": "212001",
+        "nama": "PUSTU DESA CILAMPUNGHILIR",
+        "tahun": 2025
+    },
+    {
+        "id_desas": 268,
+        "id_kecamatans": 30,
         "jenis": "PRAKTIK DOKTER",
         "kode_desa": "212001",
         "nama": "TEMPAT PRAKTEK DR.IWAN SETIAWAN",
@@ -31005,6 +32277,14 @@
         "jenis": "Hotel",
         "kode_desa": "212001",
         "nama": "HOTEL DEWI ASRI",
+        "tahun": 2025
+    },
+    {
+        "id_desas": 268,
+        "id_kecamatans": 30,
+        "jenis": "PT Swasta",
+        "kode_desa": "212001",
+        "nama": "PERGURUAN TINGGI STIEBS AL AMIN",
         "tahun": 2025
     },
     {
@@ -31186,6 +32466,14 @@
     {
         "id_desas": 269,
         "id_kecamatans": 30,
+        "jenis": "PUSTU",
+        "kode_desa": "212002",
+        "nama": "PUSTU RANCAPAKU",
+        "tahun": 2025
+    },
+    {
+        "id_desas": 269,
+        "id_kecamatans": 30,
         "jenis": "PRAKTIK BIDAN",
         "kode_desa": "212002",
         "nama": "PRAKTEK BIDAN LETI",
@@ -31338,7 +32626,7 @@
     {
         "id_desas": 270,
         "id_kecamatans": 30,
-        "jenis": "Puskesmas Tanpa Rawat Inap",
+        "jenis": "PUSKESMAS",
         "kode_desa": "212003",
         "nama": "PUSKESMAS CISARUNI",
         "tahun": 2025
@@ -31722,7 +33010,7 @@
     {
         "id_desas": 273,
         "id_kecamatans": 31,
-        "jenis": "Klinik Pratama",
+        "jenis": "BP/Klinik",
         "kode_desa": "221001",
         "nama": "POLIKLINIK PRATAMA SALSABILUNA",
         "tahun": 2025
@@ -31861,6 +33149,14 @@
         "jenis": "MA",
         "kode_desa": "221001",
         "nama": "MA AL HIDAYAH",
+        "tahun": 2025
+    },
+    {
+        "id_desas": 273,
+        "id_kecamatans": 31,
+        "jenis": "PUSTU",
+        "kode_desa": "221001",
+        "nama": "PUSTU DESA TAWANGBANTENG",
         "tahun": 2025
     },
     {
@@ -32098,7 +33394,15 @@
     {
         "id_desas": 274,
         "id_kecamatans": 31,
-        "jenis": "Klinik Pratama",
+        "jenis": "PUSTU",
+        "kode_desa": "221002",
+        "nama": "PUSTU DESA GUNUNGSARI",
+        "tahun": 2025
+    },
+    {
+        "id_desas": 274,
+        "id_kecamatans": 31,
+        "jenis": "BP/Klinik",
         "kode_desa": "221002",
         "nama": "KLINIK PRATAMA KAILA MEDIKA",
         "tahun": 2025
@@ -32157,6 +33461,14 @@
         "jenis": "SD Negeri",
         "kode_desa": "221003",
         "nama": "SDN SUKAJAYA",
+        "tahun": 2025
+    },
+    {
+        "id_desas": 275,
+        "id_kecamatans": 31,
+        "jenis": "PUSTU",
+        "kode_desa": "221003",
+        "nama": "PUSTU DESA SUKAMAHI",
         "tahun": 2025
     },
     {
@@ -32402,7 +33714,7 @@
     {
         "id_desas": 278,
         "id_kecamatans": 31,
-        "jenis": "Klinik Pratama",
+        "jenis": "BP/Klinik",
         "kode_desa": "221006",
         "nama": "KLINIK PA BUDI",
         "tahun": 2025
@@ -32530,7 +33842,7 @@
     {
         "id_desas": 278,
         "id_kecamatans": 31,
-        "jenis": "Puskesmas Rawat Inap",
+        "jenis": "PUSKESMAS",
         "kode_desa": "221006",
         "nama": "PUSKESMAS SUKARATU",
         "tahun": 2025
@@ -33002,7 +34314,7 @@
     {
         "id_desas": 282,
         "id_kecamatans": 32,
-        "jenis": "Puskesmas Tanpa Rawat Inap",
+        "jenis": "PUSKESMAS",
         "kode_desa": "230002",
         "nama": "PUSKESMAS CISAYONG",
         "tahun": 2025
@@ -33010,7 +34322,7 @@
     {
         "id_desas": 282,
         "id_kecamatans": 32,
-        "jenis": "Klinik Pratama",
+        "jenis": "BP/Klinik",
         "kode_desa": "230002",
         "nama": "MITRA MEDIKA CISAYONG",
         "tahun": 2025
@@ -33234,7 +34546,7 @@
     {
         "id_desas": 284,
         "id_kecamatans": 32,
-        "jenis": "Klinik Pratama",
+        "jenis": "BP/Klinik",
         "kode_desa": "230004",
         "nama": "POLIKLINIK DR.A.LUTFI",
         "tahun": 2025
@@ -33277,6 +34589,14 @@
         "jenis": "TK",
         "kode_desa": "230005",
         "nama": "TK PGRI JATIHURIP",
+        "tahun": 2025
+    },
+    {
+        "id_desas": 285,
+        "id_kecamatans": 32,
+        "jenis": "PT Swasta",
+        "kode_desa": "230005",
+        "nama": "STAI IDRISIYYAH",
         "tahun": 2025
     },
     {
@@ -33346,7 +34666,15 @@
     {
         "id_desas": 285,
         "id_kecamatans": 32,
-        "jenis": "Klinik Pratama",
+        "jenis": "PT Swasta",
+        "kode_desa": "230005",
+        "nama": "MA HAD ALLY IDRISIYYAH",
+        "tahun": 2025
+    },
+    {
+        "id_desas": 285,
+        "id_kecamatans": 32,
+        "jenis": "BP/Klinik",
         "kode_desa": "230005",
         "nama": "IDRISIYYAH MEDICAL CENTER",
         "tahun": 2025
@@ -33536,6 +34864,14 @@
         "tahun": 2025
     },
     {
+        "id_desas": 286,
+        "id_kecamatans": 32,
+        "jenis": "PUSTU",
+        "kode_desa": "230006",
+        "nama": "PUSTU SUKARAHARJA",
+        "tahun": 2025
+    },
+    {
         "id_desas": 287,
         "id_kecamatans": 32,
         "jenis": "RA",
@@ -33546,7 +34882,7 @@
     {
         "id_desas": 287,
         "id_kecamatans": 32,
-        "jenis": "Klinik Pratama",
+        "jenis": "BP/Klinik",
         "kode_desa": "230007",
         "nama": "KLINIK GRAHA PRATAMA",
         "tahun": 2025
@@ -33701,6 +35037,14 @@
         "jenis": "SMKS",
         "kode_desa": "230008",
         "nama": "SMK DAARUL ABROOR",
+        "tahun": 2025
+    },
+    {
+        "id_desas": 288,
+        "id_kecamatans": 32,
+        "jenis": "PUSTU",
+        "kode_desa": "230008",
+        "nama": "PUSTU NUSAWANGI",
         "tahun": 2025
     },
     {
@@ -33896,6 +35240,14 @@
         "tahun": 2025
     },
     {
+        "id_desas": 291,
+        "id_kecamatans": 32,
+        "jenis": "PUSTU",
+        "kode_desa": "230011",
+        "nama": "PUSTU DESA CILEULEUS",
+        "tahun": 2025
+    },
+    {
         "id_desas": 292,
         "id_kecamatans": 32,
         "jenis": "POSKESDES",
@@ -33981,6 +35333,14 @@
         "jenis": "SMPN",
         "kode_desa": "230014",
         "nama": "SMPN 2 CISAYONG",
+        "tahun": 2025
+    },
+    {
+        "id_desas": 293,
+        "id_kecamatans": 32,
+        "jenis": "PUSTU",
+        "kode_desa": "230014",
+        "nama": "PUSTU DESA SUKAMUKTI",
         "tahun": 2025
     },
     {
@@ -34128,6 +35488,14 @@
         "tahun": 2025
     },
     {
+        "id_desas": 294,
+        "id_kecamatans": 33,
+        "jenis": "PUSTU",
+        "kode_desa": "231001",
+        "nama": "PUSTU DESA BANYURASA",
+        "tahun": 2025
+    },
+    {
         "id_desas": 295,
         "id_kecamatans": 33,
         "jenis": "SD Negeri",
@@ -34157,6 +35525,14 @@
         "jenis": "RA",
         "kode_desa": "231002",
         "nama": "RA NURUL HUDA",
+        "tahun": 2025
+    },
+    {
+        "id_desas": 295,
+        "id_kecamatans": 33,
+        "jenis": "PUSTU",
+        "kode_desa": "231002",
+        "nama": "PUSKESMAS PEMBANTU DESA BANYURESMI",
         "tahun": 2025
     },
     {
@@ -34258,7 +35634,7 @@
     {
         "id_desas": 296,
         "id_kecamatans": 33,
-        "jenis": "Puskesmas Tanpa Rawat Inap",
+        "jenis": "PUSKESMAS",
         "kode_desa": "231003",
         "nama": "UPT PUSKESMAS SUKAHENING",
         "tahun": 2025
@@ -34501,6 +35877,14 @@
         "jenis": "TK",
         "kode_desa": "231007",
         "nama": "TK AR RAHMAN",
+        "tahun": 2025
+    },
+    {
+        "id_desas": 300,
+        "id_kecamatans": 33,
+        "jenis": "PUSTU",
+        "kode_desa": "231007",
+        "nama": "PUSTU DESA KIARAJANGKUNG",
         "tahun": 2025
     },
     {
@@ -34770,7 +36154,7 @@
     {
         "id_desas": 303,
         "id_kecamatans": 34,
-        "jenis": "Klinik Pratama",
+        "jenis": "BP/Klinik",
         "kode_desa": "240003",
         "nama": "KLINIK CIKUYA MEDIKA",
         "tahun": 2025
@@ -35178,7 +36562,7 @@
     {
         "id_desas": 304,
         "id_kecamatans": 34,
-        "jenis": "Puskesmas Rawat Inap",
+        "jenis": "PUSKESMAS",
         "kode_desa": "240004",
         "nama": "PUSKESMAS RAJAPOLAH",
         "tahun": 2025
@@ -35386,7 +36770,7 @@
     {
         "id_desas": 305,
         "id_kecamatans": 34,
-        "jenis": "Klinik Pratama",
+        "jenis": "BP/Klinik",
         "kode_desa": "240005",
         "nama": "KLINIK ARFAN MEDIKA",
         "tahun": 2025
@@ -35530,6 +36914,14 @@
     {
         "id_desas": 306,
         "id_kecamatans": 34,
+        "jenis": "PUSTU",
+        "kode_desa": "240006",
+        "nama": "PUSTU SUKARAJA",
+        "tahun": 2025
+    },
+    {
+        "id_desas": 306,
+        "id_kecamatans": 34,
         "jenis": "PRAKTIK BIDAN",
         "kode_desa": "240006",
         "nama": "PRAKTIK BIDAN YUKE",
@@ -35541,6 +36933,14 @@
         "jenis": "SMAS",
         "kode_desa": "240006",
         "nama": "SMA TERPADU MANAHIJUL HUDA",
+        "tahun": 2025
+    },
+    {
+        "id_desas": 306,
+        "id_kecamatans": 34,
+        "jenis": "PT Swasta",
+        "kode_desa": "240006",
+        "nama": "POLITEKNIK MANAHIJUL HUDA",
         "tahun": 2025
     },
     {
@@ -35922,6 +37322,14 @@
     {
         "id_desas": 311,
         "id_kecamatans": 35,
+        "jenis": "PUSTU",
+        "kode_desa": "250003",
+        "nama": "PUSTU DESA BOJONGGAOK",
+        "tahun": 2025
+    },
+    {
+        "id_desas": 311,
+        "id_kecamatans": 35,
         "jenis": "PRAKTIK BIDAN",
         "kode_desa": "250003",
         "nama": "PRAKTEK BIDAN ELIS S., AM. KEB.",
@@ -36050,7 +37458,7 @@
     {
         "id_desas": 312,
         "id_kecamatans": 35,
-        "jenis": "Puskesmas Rawat Inap",
+        "jenis": "PUSKESMAS",
         "kode_desa": "250004",
         "nama": "PUSKESMAS JAMANIS",
         "tahun": 2025
@@ -36274,6 +37682,14 @@
     {
         "id_desas": 314,
         "id_kecamatans": 35,
+        "jenis": "PUSTU",
+        "kode_desa": "250006",
+        "nama": "PUSTU DESA KARANGMULYA",
+        "tahun": 2025
+    },
+    {
+        "id_desas": 314,
+        "id_kecamatans": 35,
         "jenis": "PRAKTIK BIDAN",
         "kode_desa": "250006",
         "nama": "PRAKTIK BIDAN TITA HERLINA",
@@ -36378,7 +37794,7 @@
     {
         "id_desas": 315,
         "id_kecamatans": 35,
-        "jenis": "Klinik Pratama",
+        "jenis": "BP/Klinik",
         "kode_desa": "250007",
         "nama": "KLINIK PRATAMA CAHAYA HERMA",
         "tahun": 2025
@@ -36386,7 +37802,7 @@
     {
         "id_desas": 315,
         "id_kecamatans": 35,
-        "jenis": "Klinik Pratama",
+        "jenis": "BP/Klinik",
         "kode_desa": "250007",
         "nama": "KLINIK MUTAQIN MEDIKA",
         "tahun": 2025
@@ -36538,7 +37954,7 @@
     {
         "id_desas": 318,
         "id_kecamatans": 36,
-        "jenis": "Klinik Pratama",
+        "jenis": "BP/Klinik",
         "kode_desa": "260002",
         "nama": "KLINIK PRATAMA PRIYASA",
         "tahun": 2025
@@ -36581,6 +37997,14 @@
         "jenis": "SD Negeri",
         "kode_desa": "260002",
         "nama": "SDN KARAMASANTANA",
+        "tahun": 2025
+    },
+    {
+        "id_desas": 318,
+        "id_kecamatans": 36,
+        "jenis": "PUSTU",
+        "kode_desa": "260002",
+        "nama": "PUSTU DESA GOMBONG",
         "tahun": 2025
     },
     {
@@ -36653,6 +38077,14 @@
         "jenis": "SD Negeri",
         "kode_desa": "260003",
         "nama": "SDN BUGEL 3",
+        "tahun": 2025
+    },
+    {
+        "id_desas": 319,
+        "id_kecamatans": 36,
+        "jenis": "PUSTU",
+        "kode_desa": "260003",
+        "nama": "PUSTU DESA BUGEL",
         "tahun": 2025
     },
     {
@@ -36818,7 +38250,7 @@
     {
         "id_desas": 321,
         "id_kecamatans": 36,
-        "jenis": "Klinik Pratama",
+        "jenis": "BP/Klinik",
         "kode_desa": "260005",
         "nama": "KLINIK PRATAMA ANTON TOMI",
         "tahun": 2025
@@ -36938,7 +38370,7 @@
     {
         "id_desas": 322,
         "id_kecamatans": 36,
-        "jenis": "Klinik Pratama",
+        "jenis": "BP/Klinik",
         "kode_desa": "260006",
         "nama": "KLINIK BMC",
         "tahun": 2025
@@ -37069,6 +38501,14 @@
         "jenis": "SMPN",
         "kode_desa": "260007",
         "nama": "SMPN 3 CIAWI",
+        "tahun": 2025
+    },
+    {
+        "id_desas": 323,
+        "id_kecamatans": 36,
+        "jenis": "PUSTU",
+        "kode_desa": "260007",
+        "nama": "PUSTU DESA CITAMBA",
         "tahun": 2025
     },
     {
@@ -37410,7 +38850,7 @@
     {
         "id_desas": 325,
         "id_kecamatans": 36,
-        "jenis": "Puskesmas Rawat Inap",
+        "jenis": "PUSKESMAS",
         "kode_desa": "260009",
         "nama": "PUSKESMAS CIAWI",
         "tahun": 2025
@@ -37418,7 +38858,7 @@
     {
         "id_desas": 325,
         "id_kecamatans": 36,
-        "jenis": "Klinik Pratama",
+        "jenis": "BP/Klinik",
         "kode_desa": "260009",
         "nama": "KLINIK MARWAH",
         "tahun": 2025
@@ -37426,7 +38866,7 @@
     {
         "id_desas": 325,
         "id_kecamatans": 36,
-        "jenis": "Klinik Pratama",
+        "jenis": "BP/Klinik",
         "kode_desa": "260009",
         "nama": "KLINIK NABILA",
         "tahun": 2025
@@ -37434,7 +38874,7 @@
     {
         "id_desas": 325,
         "id_kecamatans": 36,
-        "jenis": "Klinik Pratama",
+        "jenis": "BP/Klinik",
         "kode_desa": "260009",
         "nama": "KLINIK SMITRA",
         "tahun": 2025
@@ -37802,6 +39242,14 @@
     {
         "id_desas": 327,
         "id_kecamatans": 36,
+        "jenis": "PUSTU",
+        "kode_desa": "260011",
+        "nama": "PUSTU DESA PASIRHUNI",
+        "tahun": 2025
+    },
+    {
+        "id_desas": 327,
+        "id_kecamatans": 36,
         "jenis": "PRAKTIK DOKTER",
         "kode_desa": "260011",
         "nama": "PRAKTIK DOKTER GIGI HERI F.K.",
@@ -37938,7 +39386,7 @@
     {
         "id_desas": 328,
         "id_kecamatans": 37,
-        "jenis": "Puskesmas Tanpa Rawat Inap",
+        "jenis": "PUSKESMAS",
         "kode_desa": "261001",
         "nama": "PUSKESMAS KADIPATEN",
         "tahun": 2025
@@ -38322,6 +39770,14 @@
     {
         "id_desas": 331,
         "id_kecamatans": 37,
+        "jenis": "PUSTU",
+        "kode_desa": "261004",
+        "nama": "PUSTU KADIPATEN",
+        "tahun": 2025
+    },
+    {
+        "id_desas": 331,
+        "id_kecamatans": 37,
         "jenis": "PRAKTIK DOKTER",
         "kode_desa": "261004",
         "nama": "PRAKTREK PENGOBATAN",
@@ -38474,6 +39930,14 @@
     {
         "id_desas": 333,
         "id_kecamatans": 37,
+        "jenis": "PUSTU",
+        "kode_desa": "261006",
+        "nama": "PUSTU DESA KADIPATEN",
+        "tahun": 2025
+    },
+    {
+        "id_desas": 333,
+        "id_kecamatans": 37,
         "jenis": "POLINDES",
         "kode_desa": "261006",
         "nama": "POLINDES DESA KADIPATEN",
@@ -38533,6 +39997,14 @@
         "jenis": "SD Negeri",
         "kode_desa": "270007",
         "nama": "SD NEGERI 2 CIPACING",
+        "tahun": 2025
+    },
+    {
+        "id_desas": 334,
+        "id_kecamatans": 38,
+        "jenis": "PUSTU",
+        "kode_desa": "270007",
+        "nama": "PUSTU DESA CIPACING",
         "tahun": 2025
     },
     {
@@ -38605,6 +40077,14 @@
         "jenis": "SMPN",
         "kode_desa": "270010",
         "nama": "SMP NEGERI 2 PAGERAGEUNG",
+        "tahun": 2025
+    },
+    {
+        "id_desas": 335,
+        "id_kecamatans": 38,
+        "jenis": "PUSTU",
+        "kode_desa": "270010",
+        "nama": "PUSTU DESA SUKAMAJU",
         "tahun": 2025
     },
     {
@@ -38930,7 +40410,7 @@
     {
         "id_desas": 337,
         "id_kecamatans": 38,
-        "jenis": "Puskesmas Tanpa Rawat Inap",
+        "jenis": "PUSKESMAS",
         "kode_desa": "270012",
         "nama": "PUSKESMAS PAGERAGEUNG",
         "tahun": 2025
@@ -39306,6 +40786,30 @@
     {
         "id_desas": 340,
         "id_kecamatans": 38,
+        "jenis": "PT Swasta",
+        "kode_desa": "270015",
+        "nama": "INSTITUT AGAMA ISLAM LATIFAH MUBAROKIYAH SURYALAYA",
+        "tahun": 2025
+    },
+    {
+        "id_desas": 340,
+        "id_kecamatans": 38,
+        "jenis": "PT Swasta",
+        "kode_desa": "270015",
+        "nama": "SEKOLAH TINGGI ILMU EKONOMI LATIFAH MUBAROKIYAH SURYALAYA",
+        "tahun": 2025
+    },
+    {
+        "id_desas": 340,
+        "id_kecamatans": 38,
+        "jenis": "PUSTU",
+        "kode_desa": "270015",
+        "nama": "PUSTU DESA TANJUNGKERTA",
+        "tahun": 2025
+    },
+    {
+        "id_desas": 340,
+        "id_kecamatans": 38,
         "jenis": "PRAKTIK BIDAN",
         "kode_desa": "270015",
         "nama": "PRAKTEK BIDAN DIAR",
@@ -39490,6 +40994,14 @@
     {
         "id_desas": 341,
         "id_kecamatans": 38,
+        "jenis": "PUSTU",
+        "kode_desa": "270016",
+        "nama": "PUSTU DESA GURANTENG",
+        "tahun": 2025
+    },
+    {
+        "id_desas": 341,
+        "id_kecamatans": 38,
         "jenis": "PRAKTIK BIDAN",
         "kode_desa": "270016",
         "nama": "PRAKTEK BIDAN NANI ROHANI",
@@ -39565,6 +41077,14 @@
         "jenis": "MI",
         "kode_desa": "270017",
         "nama": "MI AL HIDAYAH",
+        "tahun": 2025
+    },
+    {
+        "id_desas": 342,
+        "id_kecamatans": 38,
+        "jenis": "PUSTU",
+        "kode_desa": "270017",
+        "nama": "PUSTU DESA NANGGEWER",
         "tahun": 2025
     },
     {
@@ -39714,6 +41234,14 @@
     {
         "id_desas": 344,
         "id_kecamatans": 39,
+        "jenis": "PUSTU",
+        "kode_desa": "271001",
+        "nama": "PUSTU CIPONDOK",
+        "tahun": 2025
+    },
+    {
+        "id_desas": 344,
+        "id_kecamatans": 39,
         "jenis": "Pertokoan",
         "kode_desa": "271001",
         "nama": "Pertokoan sukamaju",
@@ -39818,7 +41346,7 @@
     {
         "id_desas": 345,
         "id_kecamatans": 39,
-        "jenis": "Klinik Pratama",
+        "jenis": "BP/Klinik",
         "kode_desa": "271002",
         "nama": "KLINIK ROUSE HOUSE",
         "tahun": 2025
@@ -40106,7 +41634,7 @@
     {
         "id_desas": 348,
         "id_kecamatans": 39,
-        "jenis": "Puskesmas Tanpa Rawat Inap",
+        "jenis": "PUSKESMAS",
         "kode_desa": "271005",
         "nama": "PUSKESMAS SUKARESIK",
         "tahun": 2025
@@ -40130,7 +41658,7 @@
     {
         "id_desas": 348,
         "id_kecamatans": 39,
-        "jenis": "Klinik Pratama",
+        "jenis": "BP/Klinik",
         "kode_desa": "271005",
         "nama": "Kinik Ar Rahman",
         "tahun": 2025
@@ -40282,6 +41810,14 @@
     {
         "id_desas": 350,
         "id_kecamatans": 39,
+        "jenis": "PUSTU",
+        "kode_desa": "271007",
+        "nama": "PUSTU DESA SUKAPANCAR",
+        "tahun": 2025
+    },
+    {
+        "id_desas": 350,
+        "id_kecamatans": 39,
         "jenis": "PRAKTIK BIDAN",
         "kode_desa": "271007",
         "nama": "PRAKTIK BIDAN IKA ROSTIKA, AM. KEB",
@@ -40389,6 +41925,14 @@
         "jenis": "SMKS",
         "kode_desa": "271008",
         "nama": "YAYASAN SMK BANI KAMIL",
+        "tahun": 2025
+    },
+    {
+        "id_desas": 351,
+        "id_kecamatans": 39,
+        "jenis": "PUSTU",
+        "kode_desa": "271008",
+        "nama": "PUSTU DESA TANJUNGSARI",
         "tahun": 2025
     },
     {
