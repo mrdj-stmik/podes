@@ -26,7 +26,7 @@
     {
         "id_desas": 1,
         "id_kecamatans": 1,
-        "jenis": "Minimarket",
+        "jenis": "Minimarket/Swalayan",
         "kode_desa": "010001",
         "nama": "INDOMARET CIHERAS",
         "tahun": 2025
@@ -330,7 +330,7 @@
     {
         "id_desas": 4,
         "id_kecamatans": 1,
-        "jenis": "Minimarket",
+        "jenis": "Minimarket/Swalayan",
         "kode_desa": "010004",
         "nama": "MINIMARKET KENCANA GEMILANG 2",
         "tahun": 2025
@@ -338,7 +338,7 @@
     {
         "id_desas": 4,
         "id_kecamatans": 1,
-        "jenis": "Minimarket",
+        "jenis": "Minimarket/Swalayan",
         "kode_desa": "010004",
         "nama": "MINIMARKET PUTRI KEMBAR 1",
         "tahun": 2025
@@ -346,7 +346,7 @@
     {
         "id_desas": 4,
         "id_kecamatans": 1,
-        "jenis": "Minimarket",
+        "jenis": "Minimarket/Swalayan",
         "kode_desa": "010004",
         "nama": "MINIMARKET PUTRI KEMBAR 2",
         "tahun": 2025
@@ -522,7 +522,7 @@
     {
         "id_desas": 4,
         "id_kecamatans": 1,
-        "jenis": "Puskesmas",
+        "jenis": "Puskesmas Rawat Inap",
         "kode_desa": "010004",
         "nama": "PUSKESMAS CIPATUJAH",
         "tahun": 2025
@@ -562,7 +562,7 @@
     {
         "id_desas": 4,
         "id_kecamatans": 1,
-        "jenis": "Minimarket",
+        "jenis": "Minimarket/Swalayan",
         "kode_desa": "010004",
         "nama": "ALFAMART CIPATUJAH",
         "tahun": 2025
@@ -570,7 +570,7 @@
     {
         "id_desas": 4,
         "id_kecamatans": 1,
-        "jenis": "Minimarket",
+        "jenis": "Minimarket/Swalayan",
         "kode_desa": "010004",
         "nama": "INDOMARET CIPATUJAH",
         "tahun": 2025
@@ -602,7 +602,7 @@
     {
         "id_desas": 4,
         "id_kecamatans": 1,
-        "jenis": "Minimarket",
+        "jenis": "Minimarket/Swalayan",
         "kode_desa": "010004",
         "nama": "Elsinta",
         "tahun": 2025
@@ -610,7 +610,7 @@
     {
         "id_desas": 4,
         "id_kecamatans": 1,
-        "jenis": "PASAR",
+        "jenis": "PASAR SEMI PERMANEN",
         "kode_desa": "010004",
         "nama": "Pasar pasanggrahan",
         "tahun": 2025
@@ -754,7 +754,7 @@
     {
         "id_desas": 5,
         "id_kecamatans": 1,
-        "jenis": "PASAR",
+        "jenis": "PASAR SEMI PERMANEN",
         "kode_desa": "010005",
         "nama": "PASAR SINDANGKERTA",
         "tahun": 2025
@@ -762,7 +762,7 @@
     {
         "id_desas": 5,
         "id_kecamatans": 1,
-        "jenis": "Minimarket",
+        "jenis": "Minimarket/Swalayan",
         "kode_desa": "010005",
         "nama": "ALFAMART SINDANGKERTA",
         "tahun": 2025
@@ -770,7 +770,7 @@
     {
         "id_desas": 5,
         "id_kecamatans": 1,
-        "jenis": "Minimarket",
+        "jenis": "Minimarket/Swalayan",
         "kode_desa": "010005",
         "nama": "Putri kembar 3",
         "tahun": 2025
@@ -1226,7 +1226,7 @@
     {
         "id_desas": 11,
         "id_kecamatans": 1,
-        "jenis": "Minimarket",
+        "jenis": "Minimarket/Swalayan",
         "kode_desa": "010011",
         "nama": "ALFAMART",
         "tahun": 2025
@@ -1546,7 +1546,7 @@
     {
         "id_desas": 16,
         "id_kecamatans": 2,
-        "jenis": "PASAR",
+        "jenis": "PASAR SEMI PERMANEN",
         "kode_desa": "020001",
         "nama": "PASAR CIDADAP",
         "tahun": 2025
@@ -2146,7 +2146,7 @@
     {
         "id_desas": 22,
         "id_kecamatans": 2,
-        "jenis": "Puskesmas",
+        "jenis": "Puskesmas Rawat Inap",
         "kode_desa": "020007",
         "nama": "PUSKESMAS KARANGNUNGGAL",
         "tahun": 2025
@@ -2226,7 +2226,7 @@
     {
         "id_desas": 22,
         "id_kecamatans": 2,
-        "jenis": "Minimarket",
+        "jenis": "Minimarket/Swalayan",
         "kode_desa": "020007",
         "nama": "INDOMARET POM KARANG",
         "tahun": 2025
@@ -2234,7 +2234,7 @@
     {
         "id_desas": 22,
         "id_kecamatans": 2,
-        "jenis": "Minimarket",
+        "jenis": "Minimarket/Swalayan",
         "kode_desa": "020007",
         "nama": "INDOMARET SINDANGRERET",
         "tahun": 2025
@@ -2242,7 +2242,7 @@
     {
         "id_desas": 22,
         "id_kecamatans": 2,
-        "jenis": "Minimarket",
+        "jenis": "Minimarket/Swalayan",
         "kode_desa": "020007",
         "nama": "MINIMARKET MM",
         "tahun": 2025
@@ -2250,7 +2250,7 @@
     {
         "id_desas": 22,
         "id_kecamatans": 2,
-        "jenis": "Minimarket",
+        "jenis": "Minimarket/Swalayan",
         "kode_desa": "020007",
         "nama": "SWAKOP BATUCURI",
         "tahun": 2025
@@ -2258,7 +2258,7 @@
     {
         "id_desas": 22,
         "id_kecamatans": 2,
-        "jenis": "Minimarket",
+        "jenis": "Minimarket/Swalayan",
         "kode_desa": "020007",
         "nama": "INDOMARET BATUCURI",
         "tahun": 2025
@@ -2266,7 +2266,7 @@
     {
         "id_desas": 22,
         "id_kecamatans": 2,
-        "jenis": "Minimarket",
+        "jenis": "Minimarket/Swalayan",
         "kode_desa": "020007",
         "nama": "ALFAMART DUTA KARANG",
         "tahun": 2025
@@ -2506,7 +2506,7 @@
     {
         "id_desas": 23,
         "id_kecamatans": 2,
-        "jenis": "PASAR",
+        "jenis": "PASAR SEMI PERMANEN",
         "kode_desa": "020008",
         "nama": "KIOS PASAR RANCABAKUNG",
         "tahun": 2025
@@ -2514,7 +2514,7 @@
     {
         "id_desas": 23,
         "id_kecamatans": 2,
-        "jenis": "Minimarket",
+        "jenis": "Minimarket/Swalayan",
         "kode_desa": "020008",
         "nama": "MINIMARKET INDOMARET",
         "tahun": 2025
@@ -2522,7 +2522,7 @@
     {
         "id_desas": 23,
         "id_kecamatans": 2,
-        "jenis": "Minimarket",
+        "jenis": "Minimarket/Swalayan",
         "kode_desa": "020008",
         "nama": "MINI MARKET ALFAMART",
         "tahun": 2025
@@ -2850,7 +2850,7 @@
     {
         "id_desas": 28,
         "id_kecamatans": 2,
-        "jenis": "Minimarket",
+        "jenis": "Minimarket/Swalayan",
         "kode_desa": "020013",
         "nama": "ALFAMART",
         "tahun": 2025
@@ -3234,7 +3234,7 @@
     {
         "id_desas": 31,
         "id_kecamatans": 3,
-        "jenis": "Puskesmas",
+        "jenis": "Puskesmas Rawat Inap",
         "kode_desa": "030002",
         "nama": "PUSKESMAS CIKALONG",
         "tahun": 2025
@@ -3314,7 +3314,7 @@
     {
         "id_desas": 31,
         "id_kecamatans": 3,
-        "jenis": "PASAR",
+        "jenis": "PASAR TANPA BANGUNAN",
         "kode_desa": "030002",
         "nama": "PASAR ALHIDAYAH",
         "tahun": 2025
@@ -3322,7 +3322,7 @@
     {
         "id_desas": 31,
         "id_kecamatans": 3,
-        "jenis": "Minimarket",
+        "jenis": "Minimarket/Swalayan",
         "kode_desa": "030002",
         "nama": "ALFAMART",
         "tahun": 2025
@@ -3330,7 +3330,7 @@
     {
         "id_desas": 31,
         "id_kecamatans": 3,
-        "jenis": "Minimarket",
+        "jenis": "Minimarket/Swalayan",
         "kode_desa": "030002",
         "nama": "CAHAYA MART",
         "tahun": 2025
@@ -3338,7 +3338,7 @@
     {
         "id_desas": 31,
         "id_kecamatans": 3,
-        "jenis": "Minimarket",
+        "jenis": "Minimarket/Swalayan",
         "kode_desa": "030002",
         "nama": "MINI MARKET",
         "tahun": 2025
@@ -3346,7 +3346,7 @@
     {
         "id_desas": 31,
         "id_kecamatans": 3,
-        "jenis": "Minimarket",
+        "jenis": "Minimarket/Swalayan",
         "kode_desa": "030002",
         "nama": "MINIMARKET",
         "tahun": 2025
@@ -3490,7 +3490,7 @@
     {
         "id_desas": 32,
         "id_kecamatans": 3,
-        "jenis": "PASAR",
+        "jenis": "PASAR SEMI PERMANEN",
         "kode_desa": "030003",
         "nama": "PASAR TRDISIONAL CIKANCRA",
         "tahun": 2025
@@ -3738,7 +3738,7 @@
     {
         "id_desas": 34,
         "id_kecamatans": 3,
-        "jenis": "PASAR",
+        "jenis": "PASAR SEMI PERMANEN",
         "kode_desa": "030005",
         "nama": "PASAR singkir",
         "tahun": 2025
@@ -3746,7 +3746,7 @@
     {
         "id_desas": 34,
         "id_kecamatans": 3,
-        "jenis": "Minimarket",
+        "jenis": "Minimarket/Swalayan",
         "kode_desa": "030005",
         "nama": "BINTANG SINGKIR",
         "tahun": 2025
@@ -3754,7 +3754,7 @@
     {
         "id_desas": 34,
         "id_kecamatans": 3,
-        "jenis": "Minimarket",
+        "jenis": "Minimarket/Swalayan",
         "kode_desa": "030005",
         "nama": "HERDAN",
         "tahun": 2025
@@ -3762,7 +3762,7 @@
     {
         "id_desas": 34,
         "id_kecamatans": 3,
-        "jenis": "Minimarket",
+        "jenis": "Minimarket/Swalayan",
         "kode_desa": "030005",
         "nama": "TANABA",
         "tahun": 2025
@@ -3906,7 +3906,7 @@
     {
         "id_desas": 36,
         "id_kecamatans": 3,
-        "jenis": "Minimarket",
+        "jenis": "Minimarket/Swalayan",
         "kode_desa": "030007",
         "nama": "TASELA",
         "tahun": 2025
@@ -4090,7 +4090,7 @@
     {
         "id_desas": 36,
         "id_kecamatans": 3,
-        "jenis": "PASAR",
+        "jenis": "PASAR SEMI PERMANEN",
         "kode_desa": "030007",
         "nama": "PASAR DESA CIBEBER",
         "tahun": 2025
@@ -4258,7 +4258,7 @@
     {
         "id_desas": 38,
         "id_kecamatans": 3,
-        "jenis": "PASAR",
+        "jenis": "PASAR SEMI PERMANEN",
         "kode_desa": "030009",
         "nama": "PASAR TRADISIONAL KUBANGSARI",
         "tahun": 2025
@@ -4418,7 +4418,7 @@
     {
         "id_desas": 41,
         "id_kecamatans": 3,
-        "jenis": "Minimarket",
+        "jenis": "Minimarket/Swalayan",
         "kode_desa": "030012",
         "nama": "INDOMART",
         "tahun": 2025
@@ -4562,7 +4562,7 @@
     {
         "id_desas": 42,
         "id_kecamatans": 3,
-        "jenis": "Minimarket",
+        "jenis": "Minimarket/Swalayan",
         "kode_desa": "030013",
         "nama": "ALFAMART",
         "tahun": 2025
@@ -4794,7 +4794,7 @@
     {
         "id_desas": 44,
         "id_kecamatans": 4,
-        "jenis": "Minimarket",
+        "jenis": "Minimarket/Swalayan",
         "kode_desa": "040002",
         "nama": "ANUGRAH SP",
         "tahun": 2025
@@ -4802,7 +4802,7 @@
     {
         "id_desas": 44,
         "id_kecamatans": 4,
-        "jenis": "Minimarket",
+        "jenis": "Minimarket/Swalayan",
         "kode_desa": "040002",
         "nama": "BERKAH",
         "tahun": 2025
@@ -4834,7 +4834,7 @@
     {
         "id_desas": 44,
         "id_kecamatans": 4,
-        "jenis": "PASAR",
+        "jenis": "PASAR SEMI PERMANEN",
         "kode_desa": "040002",
         "nama": "PASAR CIBUNIASIH",
         "tahun": 2025
@@ -4842,7 +4842,7 @@
     {
         "id_desas": 44,
         "id_kecamatans": 4,
-        "jenis": "PASAR",
+        "jenis": "PASAR TANPA BANGUNAN",
         "kode_desa": "040002",
         "nama": "Pasar cibuniasih",
         "tahun": 2025
@@ -4866,7 +4866,7 @@
     {
         "id_desas": 45,
         "id_kecamatans": 4,
-        "jenis": "Minimarket",
+        "jenis": "Minimarket/Swalayan",
         "kode_desa": "040003",
         "nama": "PADA BOGA MILIK",
         "tahun": 2025
@@ -4874,7 +4874,7 @@
     {
         "id_desas": 45,
         "id_kecamatans": 4,
-        "jenis": "Minimarket",
+        "jenis": "Minimarket/Swalayan",
         "kode_desa": "040003",
         "nama": "PURNAMA MART",
         "tahun": 2025
@@ -5074,7 +5074,7 @@
     {
         "id_desas": 47,
         "id_kecamatans": 4,
-        "jenis": "PASAR",
+        "jenis": "PASAR SEMI PERMANEN",
         "kode_desa": "040005",
         "nama": "PASAR PASEH",
         "tahun": 2025
@@ -5170,7 +5170,7 @@
     {
         "id_desas": 47,
         "id_kecamatans": 4,
-        "jenis": "PASAR",
+        "jenis": "PASAR TANPA BANGUNAN",
         "kode_desa": "040005",
         "nama": "Pasar paseh",
         "tahun": 2025
@@ -5482,7 +5482,7 @@
     {
         "id_desas": 49,
         "id_kecamatans": 4,
-        "jenis": "Puskesmas",
+        "jenis": "Puskesmas Rawat Inap",
         "kode_desa": "040007",
         "nama": "PUSKESMAS PANCATENGAH",
         "tahun": 2025
@@ -5506,7 +5506,7 @@
     {
         "id_desas": 49,
         "id_kecamatans": 4,
-        "jenis": "Puskesmas",
+        "jenis": "Puskesmas Tanpa Rawat Inap",
         "kode_desa": "040007",
         "nama": "PUSKESMAS PANCATENGAH",
         "tahun": 2025
@@ -5682,7 +5682,7 @@
     {
         "id_desas": 51,
         "id_kecamatans": 4,
-        "jenis": "Minimarket",
+        "jenis": "Minimarket/Swalayan",
         "kode_desa": "040009",
         "nama": "START MART",
         "tahun": 2025
@@ -5794,7 +5794,7 @@
     {
         "id_desas": 51,
         "id_kecamatans": 4,
-        "jenis": "PASAR",
+        "jenis": "PASAR SEMI PERMANEN",
         "kode_desa": "040009",
         "nama": "PASAR DESA TAWANG",
         "tahun": 2025
@@ -5802,7 +5802,7 @@
     {
         "id_desas": 51,
         "id_kecamatans": 4,
-        "jenis": "Klinik Pratama",
+        "jenis": "Klinik Utama",
         "kode_desa": "040009",
         "nama": "Klinik Djajuli",
         "tahun": 2025
@@ -5818,7 +5818,7 @@
     {
         "id_desas": 51,
         "id_kecamatans": 4,
-        "jenis": "PASAR",
+        "jenis": "PASAR TANPA BANGUNAN",
         "kode_desa": "040009",
         "nama": "PASAR DESA TAWANG",
         "tahun": 2025
@@ -6010,7 +6010,7 @@
     {
         "id_desas": 53,
         "id_kecamatans": 4,
-        "jenis": "PASAR",
+        "jenis": "PASAR TANPA BANGUNAN",
         "kode_desa": "040011",
         "nama": "PASAR DESA NEGLASARI",
         "tahun": 2025
@@ -6018,7 +6018,7 @@
     {
         "id_desas": 53,
         "id_kecamatans": 4,
-        "jenis": "Minimarket",
+        "jenis": "Minimarket/Swalayan",
         "kode_desa": "040011",
         "nama": "CS MART",
         "tahun": 2025
@@ -6234,7 +6234,7 @@
     {
         "id_desas": 54,
         "id_kecamatans": 5,
-        "jenis": "PASAR",
+        "jenis": "PASAR SEMI PERMANEN",
         "kode_desa": "050001",
         "nama": "PASAR GUNUNGGOONG",
         "tahun": 2025
@@ -6362,7 +6362,7 @@
     {
         "id_desas": 55,
         "id_kecamatans": 5,
-        "jenis": "Minimarket",
+        "jenis": "Minimarket/Swalayan",
         "kode_desa": "050002",
         "nama": "Minimarket mutiara",
         "tahun": 2025
@@ -6474,7 +6474,7 @@
     {
         "id_desas": 57,
         "id_kecamatans": 5,
-        "jenis": "Minimarket",
+        "jenis": "Minimarket/Swalayan",
         "kode_desa": "050004",
         "nama": "ALFAMART CIKATOMAS",
         "tahun": 2025
@@ -6482,7 +6482,7 @@
     {
         "id_desas": 57,
         "id_kecamatans": 5,
-        "jenis": "Minimarket",
+        "jenis": "Minimarket/Swalayan",
         "kode_desa": "050004",
         "nama": "ALFAMART PAKEMITAN",
         "tahun": 2025
@@ -6490,7 +6490,7 @@
     {
         "id_desas": 57,
         "id_kecamatans": 5,
-        "jenis": "Minimarket",
+        "jenis": "Minimarket/Swalayan",
         "kode_desa": "050004",
         "nama": "CAHAYA 2",
         "tahun": 2025
@@ -6498,7 +6498,7 @@
     {
         "id_desas": 57,
         "id_kecamatans": 5,
-        "jenis": "Minimarket",
+        "jenis": "Minimarket/Swalayan",
         "kode_desa": "050004",
         "nama": "CAHAYA GROUP",
         "tahun": 2025
@@ -6506,7 +6506,7 @@
     {
         "id_desas": 57,
         "id_kecamatans": 5,
-        "jenis": "Minimarket",
+        "jenis": "Minimarket/Swalayan",
         "kode_desa": "050004",
         "nama": "ELDI TOSERBA",
         "tahun": 2025
@@ -6634,7 +6634,7 @@
     {
         "id_desas": 57,
         "id_kecamatans": 5,
-        "jenis": "Puskesmas",
+        "jenis": "Puskesmas Rawat Inap",
         "kode_desa": "050004",
         "nama": "PUSKESMAS CIKATOMAS",
         "tahun": 2025
@@ -6698,7 +6698,7 @@
     {
         "id_desas": 57,
         "id_kecamatans": 5,
-        "jenis": "Minimarket",
+        "jenis": "Minimarket/Swalayan",
         "kode_desa": "050004",
         "nama": "CAHAYA TOSERBA",
         "tahun": 2025
@@ -6706,7 +6706,7 @@
     {
         "id_desas": 57,
         "id_kecamatans": 5,
-        "jenis": "Minimarket",
+        "jenis": "Minimarket/Swalayan",
         "kode_desa": "050004",
         "nama": "SATIA MART",
         "tahun": 2025
@@ -6714,7 +6714,7 @@
     {
         "id_desas": 57,
         "id_kecamatans": 5,
-        "jenis": "Minimarket",
+        "jenis": "Minimarket/Swalayan",
         "kode_desa": "050004",
         "nama": "SMESCO MART",
         "tahun": 2025
@@ -6922,7 +6922,7 @@
     {
         "id_desas": 58,
         "id_kecamatans": 5,
-        "jenis": "Minimarket",
+        "jenis": "Minimarket/Swalayan",
         "kode_desa": "050005",
         "nama": "DIKRI JAYA",
         "tahun": 2025
@@ -7018,7 +7018,7 @@
     {
         "id_desas": 59,
         "id_kecamatans": 5,
-        "jenis": "Minimarket",
+        "jenis": "Minimarket/Swalayan",
         "kode_desa": "050006",
         "nama": "MINI MARKET TASYA 99",
         "tahun": 2025
@@ -7034,7 +7034,7 @@
     {
         "id_desas": 59,
         "id_kecamatans": 5,
-        "jenis": "Klinik Pratama",
+        "jenis": "Klinik Utama",
         "kode_desa": "050006",
         "nama": "Klinik haryatie",
         "tahun": 2025
@@ -7106,7 +7106,7 @@
     {
         "id_desas": 60,
         "id_kecamatans": 5,
-        "jenis": "Minimarket",
+        "jenis": "Minimarket/Swalayan",
         "kode_desa": "050007",
         "nama": "Toko redi",
         "tahun": 2025
@@ -7218,7 +7218,7 @@
     {
         "id_desas": 61,
         "id_kecamatans": 5,
-        "jenis": "Minimarket",
+        "jenis": "Minimarket/Swalayan",
         "kode_desa": "050008",
         "nama": "Toko swalayan ikbal",
         "tahun": 2025
@@ -8082,7 +8082,7 @@
     {
         "id_desas": 67,
         "id_kecamatans": 6,
-        "jenis": "Puskesmas",
+        "jenis": "Puskesmas Tanpa Rawat Inap",
         "kode_desa": "060005",
         "nama": "PUSKESMAS CIBALONG",
         "tahun": 2025
@@ -8154,7 +8154,7 @@
     {
         "id_desas": 67,
         "id_kecamatans": 6,
-        "jenis": "PASAR",
+        "jenis": "PASAR SEMI PERMANEN",
         "kode_desa": "060005",
         "nama": "PASAR RABU CIBALONG",
         "tahun": 2025
@@ -8162,7 +8162,7 @@
     {
         "id_desas": 67,
         "id_kecamatans": 6,
-        "jenis": "Minimarket",
+        "jenis": "Minimarket/Swalayan",
         "kode_desa": "060005",
         "nama": "ELSINTA MINIMARKET",
         "tahun": 2025
@@ -8362,7 +8362,7 @@
     {
         "id_desas": 68,
         "id_kecamatans": 6,
-        "jenis": "Minimarket",
+        "jenis": "Minimarket/Swalayan",
         "kode_desa": "060014",
         "nama": "ALFAMART CIBALONG",
         "tahun": 2025
@@ -8370,7 +8370,7 @@
     {
         "id_desas": 68,
         "id_kecamatans": 6,
-        "jenis": "Minimarket",
+        "jenis": "Minimarket/Swalayan",
         "kode_desa": "060014",
         "nama": "INDOMARET CIBALONG",
         "tahun": 2025
@@ -8530,7 +8530,7 @@
     {
         "id_desas": 69,
         "id_kecamatans": 7,
-        "jenis": "PASAR",
+        "jenis": "PASAR SEMI PERMANEN",
         "kode_desa": "061001",
         "nama": "PASAR DERAH",
         "tahun": 2025
@@ -8818,7 +8818,7 @@
     {
         "id_desas": 72,
         "id_kecamatans": 7,
-        "jenis": "Puskesmas",
+        "jenis": "Puskesmas Tanpa Rawat Inap",
         "kode_desa": "061004",
         "nama": "PUSKESMAS PARUNGPONTENG",
         "tahun": 2025
@@ -8874,7 +8874,7 @@
     {
         "id_desas": 72,
         "id_kecamatans": 7,
-        "jenis": "Minimarket",
+        "jenis": "Minimarket/Swalayan",
         "kode_desa": "061004",
         "nama": "SHAFIRA MART",
         "tahun": 2025
@@ -8882,7 +8882,7 @@
     {
         "id_desas": 72,
         "id_kecamatans": 7,
-        "jenis": "Minimarket",
+        "jenis": "Minimarket/Swalayan",
         "kode_desa": "061004",
         "nama": "TOKO NAFISAH",
         "tahun": 2025
@@ -8970,7 +8970,7 @@
     {
         "id_desas": 73,
         "id_kecamatans": 7,
-        "jenis": "Minimarket",
+        "jenis": "Minimarket/Swalayan",
         "kode_desa": "061005",
         "nama": "MM ZAKY STORE",
         "tahun": 2025
@@ -9050,7 +9050,7 @@
     {
         "id_desas": 74,
         "id_kecamatans": 7,
-        "jenis": "PASAR",
+        "jenis": "PASAR SEMI PERMANEN",
         "kode_desa": "061006",
         "nama": "PASAR DESA",
         "tahun": 2025
@@ -9450,7 +9450,7 @@
     {
         "id_desas": 78,
         "id_kecamatans": 8,
-        "jenis": "Minimarket",
+        "jenis": "Minimarket/Swalayan",
         "kode_desa": "070003",
         "nama": "ELSHINTA",
         "tahun": 2025
@@ -9458,7 +9458,7 @@
     {
         "id_desas": 78,
         "id_kecamatans": 8,
-        "jenis": "Minimarket",
+        "jenis": "Minimarket/Swalayan",
         "kode_desa": "070003",
         "nama": "TASELA MART",
         "tahun": 2025
@@ -9530,7 +9530,7 @@
     {
         "id_desas": 78,
         "id_kecamatans": 8,
-        "jenis": "Puskesmas",
+        "jenis": "Puskesmas Rawat Inap",
         "kode_desa": "070003",
         "nama": "UPTD PUSKESMAS BANTARKALONG",
         "tahun": 2025
@@ -9594,7 +9594,7 @@
     {
         "id_desas": 78,
         "id_kecamatans": 8,
-        "jenis": "Minimarket",
+        "jenis": "Minimarket/Swalayan",
         "kode_desa": "070003",
         "nama": "ALFAMART JLN KARANGNUNGGAL",
         "tahun": 2025
@@ -9602,7 +9602,7 @@
     {
         "id_desas": 78,
         "id_kecamatans": 8,
-        "jenis": "Minimarket",
+        "jenis": "Minimarket/Swalayan",
         "kode_desa": "070003",
         "nama": "ALFAMART JLN PAMIJAHAN",
         "tahun": 2025
@@ -9610,7 +9610,7 @@
     {
         "id_desas": 78,
         "id_kecamatans": 8,
-        "jenis": "Minimarket",
+        "jenis": "Minimarket/Swalayan",
         "kode_desa": "070003",
         "nama": "INDOMARET",
         "tahun": 2025
@@ -9810,7 +9810,7 @@
     {
         "id_desas": 79,
         "id_kecamatans": 8,
-        "jenis": "Minimarket",
+        "jenis": "Minimarket/Swalayan",
         "kode_desa": "070004",
         "nama": "MINI MARKET",
         "tahun": 2025
@@ -10434,7 +10434,7 @@
     {
         "id_desas": 85,
         "id_kecamatans": 9,
-        "jenis": "PASAR",
+        "jenis": "PASAR SEMI PERMANEN",
         "kode_desa": "071001",
         "nama": "PASAR MUARA DESA GIRIJAYA",
         "tahun": 2025
@@ -10562,7 +10562,7 @@
     {
         "id_desas": 86,
         "id_kecamatans": 9,
-        "jenis": "Puskesmas",
+        "jenis": "Puskesmas Tanpa Rawat Inap",
         "kode_desa": "071002",
         "nama": "UPT PUSKESMAS BOJONGASIH",
         "tahun": 2025
@@ -11154,7 +11154,7 @@
     {
         "id_desas": 92,
         "id_kecamatans": 10,
-        "jenis": "Minimarket",
+        "jenis": "Minimarket/Swalayan",
         "kode_desa": "072002",
         "nama": "SADAYA MART CINTABODAS",
         "tahun": 2025
@@ -11242,7 +11242,7 @@
     {
         "id_desas": 93,
         "id_kecamatans": 10,
-        "jenis": "Puskesmas",
+        "jenis": "Puskesmas Tanpa Rawat Inap",
         "kode_desa": "072003",
         "nama": "PUSKESMAS CULAMEGA",
         "tahun": 2025
@@ -11378,7 +11378,7 @@
     {
         "id_desas": 94,
         "id_kecamatans": 10,
-        "jenis": "Minimarket",
+        "jenis": "Minimarket/Swalayan",
         "kode_desa": "072004",
         "nama": "SADAYA MART CIPICUNG",
         "tahun": 2025
@@ -11946,7 +11946,7 @@
     {
         "id_desas": 101,
         "id_kecamatans": 11,
-        "jenis": "Puskesmas",
+        "jenis": "Puskesmas Rawat Inap",
         "kode_desa": "080006",
         "nama": "PUSKESMAS BOJONGGAMBIR",
         "tahun": 2025
@@ -12034,7 +12034,7 @@
     {
         "id_desas": 102,
         "id_kecamatans": 11,
-        "jenis": "Minimarket",
+        "jenis": "Minimarket/Swalayan",
         "kode_desa": "080007",
         "nama": "ALFAMART BOJONGGAMBIR",
         "tahun": 2025
@@ -12186,7 +12186,7 @@
     {
         "id_desas": 103,
         "id_kecamatans": 11,
-        "jenis": "Minimarket",
+        "jenis": "Minimarket/Swalayan",
         "kode_desa": "080008",
         "nama": "SANCO CIREUNDEU",
         "tahun": 2025
@@ -12810,7 +12810,7 @@
     {
         "id_desas": 111,
         "id_kecamatans": 12,
-        "jenis": "Minimarket",
+        "jenis": "Minimarket/Swalayan",
         "kode_desa": "090006",
         "nama": "HARAPAN JAYA",
         "tahun": 2025
@@ -12898,7 +12898,7 @@
     {
         "id_desas": 111,
         "id_kecamatans": 12,
-        "jenis": "Puskesmas",
+        "jenis": "Puskesmas Rawat Inap",
         "kode_desa": "090006",
         "nama": "UPT PUSKESMAS SODONGHILIR",
         "tahun": 2025
@@ -13682,7 +13682,7 @@
     {
         "id_desas": 119,
         "id_kecamatans": 13,
-        "jenis": "Minimarket",
+        "jenis": "Minimarket/Swalayan",
         "kode_desa": "100002",
         "nama": "TOKO KOEYA NGORA",
         "tahun": 2025
@@ -13738,7 +13738,7 @@
     {
         "id_desas": 119,
         "id_kecamatans": 13,
-        "jenis": "Puskesmas",
+        "jenis": "Puskesmas Rawat Inap",
         "kode_desa": "100002",
         "nama": "PUSKESMAS DTP TARAJU",
         "tahun": 2025
@@ -13786,7 +13786,7 @@
     {
         "id_desas": 119,
         "id_kecamatans": 13,
-        "jenis": "PASAR",
+        "jenis": "PASAR TANPA BANGUNAN",
         "kode_desa": "100002",
         "nama": "PASAR TARAJU (SELASA DAN SABTU)",
         "tahun": 2025
@@ -13866,7 +13866,7 @@
     {
         "id_desas": 120,
         "id_kecamatans": 13,
-        "jenis": "Minimarket",
+        "jenis": "Minimarket/Swalayan",
         "kode_desa": "100003",
         "nama": "PUSPITA MART",
         "tahun": 2025
@@ -13874,7 +13874,7 @@
     {
         "id_desas": 120,
         "id_kecamatans": 13,
-        "jenis": "Minimarket",
+        "jenis": "Minimarket/Swalayan",
         "kode_desa": "100003",
         "nama": "TARAJU MINI MARKET",
         "tahun": 2025
@@ -13882,7 +13882,7 @@
     {
         "id_desas": 121,
         "id_kecamatans": 13,
-        "jenis": "Minimarket",
+        "jenis": "Minimarket/Swalayan",
         "kode_desa": "100004",
         "nama": "TOKO ASTCO",
         "tahun": 2025
@@ -15170,7 +15170,7 @@
     {
         "id_desas": 134,
         "id_kecamatans": 14,
-        "jenis": "Minimarket",
+        "jenis": "Minimarket/Swalayan",
         "kode_desa": "110016",
         "nama": "INDOMARET",
         "tahun": 2025
@@ -15274,7 +15274,7 @@
     {
         "id_desas": 135,
         "id_kecamatans": 14,
-        "jenis": "Minimarket",
+        "jenis": "Minimarket/Swalayan",
         "kode_desa": "110017",
         "nama": "INDOMARET",
         "tahun": 2025
@@ -15402,7 +15402,7 @@
     {
         "id_desas": 136,
         "id_kecamatans": 14,
-        "jenis": "Minimarket",
+        "jenis": "Minimarket/Swalayan",
         "kode_desa": "110018",
         "nama": "ALFAMART SALAWU",
         "tahun": 2025
@@ -15410,7 +15410,7 @@
     {
         "id_desas": 136,
         "id_kecamatans": 14,
-        "jenis": "Minimarket",
+        "jenis": "Minimarket/Swalayan",
         "kode_desa": "110018",
         "nama": "INDOMARET SALAWU",
         "tahun": 2025
@@ -15442,7 +15442,7 @@
     {
         "id_desas": 137,
         "id_kecamatans": 14,
-        "jenis": "Minimarket",
+        "jenis": "Minimarket/Swalayan",
         "kode_desa": "110019",
         "nama": "MINIMARKET ALFAMART",
         "tahun": 2025
@@ -15450,7 +15450,7 @@
     {
         "id_desas": 137,
         "id_kecamatans": 14,
-        "jenis": "Minimarket",
+        "jenis": "Minimarket/Swalayan",
         "kode_desa": "110019",
         "nama": "MINIMARKET X SHA",
         "tahun": 2025
@@ -15506,7 +15506,7 @@
     {
         "id_desas": 137,
         "id_kecamatans": 14,
-        "jenis": "Puskesmas",
+        "jenis": "Puskesmas Rawat Inap",
         "kode_desa": "110019",
         "nama": "PUSKESMAS SALAWU",
         "tahun": 2025
@@ -15562,7 +15562,7 @@
     {
         "id_desas": 137,
         "id_kecamatans": 14,
-        "jenis": "Minimarket",
+        "jenis": "Minimarket/Swalayan",
         "kode_desa": "110019",
         "nama": "MINIMARKET INDOMART",
         "tahun": 2025
@@ -15970,7 +15970,7 @@
     {
         "id_desas": 142,
         "id_kecamatans": 15,
-        "jenis": "Minimarket",
+        "jenis": "Minimarket/Swalayan",
         "kode_desa": "111004",
         "nama": "ALFAMART PUSPAHIANG",
         "tahun": 2025
@@ -15978,7 +15978,7 @@
     {
         "id_desas": 142,
         "id_kecamatans": 15,
-        "jenis": "Minimarket",
+        "jenis": "Minimarket/Swalayan",
         "kode_desa": "111004",
         "nama": "BAMBU VALLIANT",
         "tahun": 2025
@@ -15986,7 +15986,7 @@
     {
         "id_desas": 142,
         "id_kecamatans": 15,
-        "jenis": "Minimarket",
+        "jenis": "Minimarket/Swalayan",
         "kode_desa": "111004",
         "nama": "EXSHA PUSPAHIANG",
         "tahun": 2025
@@ -15994,7 +15994,7 @@
     {
         "id_desas": 142,
         "id_kecamatans": 15,
-        "jenis": "Minimarket",
+        "jenis": "Minimarket/Swalayan",
         "kode_desa": "111004",
         "nama": "INDOMARET PUSPAHIANG",
         "tahun": 2025
@@ -16002,7 +16002,7 @@
     {
         "id_desas": 142,
         "id_kecamatans": 15,
-        "jenis": "Minimarket",
+        "jenis": "Minimarket/Swalayan",
         "kode_desa": "111004",
         "nama": "TOKO HENDRA PUSPAHIANG",
         "tahun": 2025
@@ -16058,7 +16058,7 @@
     {
         "id_desas": 142,
         "id_kecamatans": 15,
-        "jenis": "Puskesmas",
+        "jenis": "Puskesmas Tanpa Rawat Inap",
         "kode_desa": "111004",
         "nama": "PUSKESMAS PUSPAHIANG",
         "tahun": 2025
@@ -16578,7 +16578,7 @@
     {
         "id_desas": 147,
         "id_kecamatans": 16,
-        "jenis": "PASAR",
+        "jenis": "PASAR TANPA BANGUNAN",
         "kode_desa": "120001",
         "nama": "Pasar Desa Cikeusal",
         "tahun": 2025
@@ -16586,7 +16586,7 @@
     {
         "id_desas": 147,
         "id_kecamatans": 16,
-        "jenis": "PASAR",
+        "jenis": "PASAR SEMI PERMANEN",
         "kode_desa": "120001",
         "nama": "Pasar Desa Cikeusal",
         "tahun": 2025
@@ -16802,7 +16802,7 @@
     {
         "id_desas": 150,
         "id_kecamatans": 16,
-        "jenis": "Minimarket",
+        "jenis": "Minimarket/Swalayan",
         "kode_desa": "120004",
         "nama": "EX SHA MINIMARKET",
         "tahun": 2025
@@ -17002,7 +17002,7 @@
     {
         "id_desas": 152,
         "id_kecamatans": 16,
-        "jenis": "Minimarket",
+        "jenis": "Minimarket/Swalayan",
         "kode_desa": "120006",
         "nama": "ALFAMART",
         "tahun": 2025
@@ -17090,7 +17090,7 @@
     {
         "id_desas": 152,
         "id_kecamatans": 16,
-        "jenis": "Puskesmas",
+        "jenis": "Puskesmas Tanpa Rawat Inap",
         "kode_desa": "120006",
         "nama": "PUSKESMAS TANJUNGJAYA",
         "tahun": 2025
@@ -17186,7 +17186,7 @@
     {
         "id_desas": 154,
         "id_kecamatans": 17,
-        "jenis": "PASAR",
+        "jenis": "PASAR TANPA BANGUNAN",
         "kode_desa": "130001",
         "nama": "PASAR TRADISIONAL DEPAN KANTOR DESA",
         "tahun": 2025
@@ -17314,7 +17314,7 @@
     {
         "id_desas": 154,
         "id_kecamatans": 17,
-        "jenis": "PASAR",
+        "jenis": "PASAR SEMI PERMANEN",
         "kode_desa": "130001",
         "nama": "PASAR MEKARJAYA",
         "tahun": 2025
@@ -17610,7 +17610,7 @@
     {
         "id_desas": 157,
         "id_kecamatans": 17,
-        "jenis": "Minimarket",
+        "jenis": "Minimarket/Swalayan",
         "kode_desa": "130004",
         "nama": "ELSINTA ELEKTRONIK",
         "tahun": 2025
@@ -17618,7 +17618,7 @@
     {
         "id_desas": 157,
         "id_kecamatans": 17,
-        "jenis": "Minimarket",
+        "jenis": "Minimarket/Swalayan",
         "kode_desa": "130004",
         "nama": "ELSINTA FASHION",
         "tahun": 2025
@@ -17626,7 +17626,7 @@
     {
         "id_desas": 157,
         "id_kecamatans": 17,
-        "jenis": "Minimarket",
+        "jenis": "Minimarket/Swalayan",
         "kode_desa": "130004",
         "nama": "ELSINTA SWALAYAN 2",
         "tahun": 2025
@@ -17706,7 +17706,7 @@
     {
         "id_desas": 157,
         "id_kecamatans": 17,
-        "jenis": "Puskesmas",
+        "jenis": "Puskesmas Rawat Inap",
         "kode_desa": "130004",
         "nama": "PUSKESMAS KECAMATAN SUKARAJA",
         "tahun": 2025
@@ -17778,7 +17778,7 @@
     {
         "id_desas": 157,
         "id_kecamatans": 17,
-        "jenis": "Minimarket",
+        "jenis": "Minimarket/Swalayan",
         "kode_desa": "130004",
         "nama": "ALFAMART",
         "tahun": 2025
@@ -17786,7 +17786,7 @@
     {
         "id_desas": 157,
         "id_kecamatans": 17,
-        "jenis": "Minimarket",
+        "jenis": "Minimarket/Swalayan",
         "kode_desa": "130004",
         "nama": "ELSINTA SWALAYAN",
         "tahun": 2025
@@ -17794,7 +17794,7 @@
     {
         "id_desas": 157,
         "id_kecamatans": 17,
-        "jenis": "Minimarket",
+        "jenis": "Minimarket/Swalayan",
         "kode_desa": "130004",
         "nama": "HD TOSERBA",
         "tahun": 2025
@@ -17802,7 +17802,7 @@
     {
         "id_desas": 157,
         "id_kecamatans": 17,
-        "jenis": "Minimarket",
+        "jenis": "Minimarket/Swalayan",
         "kode_desa": "130004",
         "nama": "INDOMARET",
         "tahun": 2025
@@ -17906,7 +17906,7 @@
     {
         "id_desas": 158,
         "id_kecamatans": 17,
-        "jenis": "Minimarket",
+        "jenis": "Minimarket/Swalayan",
         "kode_desa": "130005",
         "nama": "HEMAT",
         "tahun": 2025
@@ -18130,7 +18130,7 @@
     {
         "id_desas": 162,
         "id_kecamatans": 18,
-        "jenis": "Puskesmas",
+        "jenis": "Puskesmas Rawat Inap",
         "kode_desa": "140003",
         "nama": "PUSKESMAS SALOPA",
         "tahun": 2025
@@ -18234,7 +18234,7 @@
     {
         "id_desas": 162,
         "id_kecamatans": 18,
-        "jenis": "Minimarket",
+        "jenis": "Minimarket/Swalayan",
         "kode_desa": "140003",
         "nama": "INDOMARET MANDALAHAYU",
         "tahun": 2025
@@ -18810,7 +18810,7 @@
     {
         "id_desas": 167,
         "id_kecamatans": 18,
-        "jenis": "Minimarket",
+        "jenis": "Minimarket/Swalayan",
         "kode_desa": "140008",
         "nama": "ELSINTA SINAR MULYA",
         "tahun": 2025
@@ -18906,7 +18906,7 @@
     {
         "id_desas": 167,
         "id_kecamatans": 18,
-        "jenis": "Minimarket",
+        "jenis": "Minimarket/Swalayan",
         "kode_desa": "140008",
         "nama": "TOKO SAGALA AYA SALOPA",
         "tahun": 2025
@@ -18914,7 +18914,7 @@
     {
         "id_desas": 167,
         "id_kecamatans": 18,
-        "jenis": "Minimarket",
+        "jenis": "Minimarket/Swalayan",
         "kode_desa": "140008",
         "nama": "ALFAMART SALOPA",
         "tahun": 2025
@@ -19666,7 +19666,7 @@
     {
         "id_desas": 174,
         "id_kecamatans": 19,
-        "jenis": "Puskesmas",
+        "jenis": "Puskesmas Tanpa Rawat Inap",
         "kode_desa": "141004",
         "nama": "PUSKESMAS JATIWARAS",
         "tahun": 2025
@@ -19810,7 +19810,7 @@
     {
         "id_desas": 176,
         "id_kecamatans": 19,
-        "jenis": "PASAR",
+        "jenis": "PASAR TANPA BANGUNAN",
         "kode_desa": "141006",
         "nama": "PASAR MINGGU MBAH JAYA",
         "tahun": 2025
@@ -20058,7 +20058,7 @@
     {
         "id_desas": 177,
         "id_kecamatans": 19,
-        "jenis": "PASAR",
+        "jenis": "PASAR TANPA BANGUNAN",
         "kode_desa": "141007",
         "nama": "PASAR RABU",
         "tahun": 2025
@@ -20762,7 +20762,7 @@
     {
         "id_desas": 188,
         "id_kecamatans": 20,
-        "jenis": "Minimarket",
+        "jenis": "Minimarket/Swalayan",
         "kode_desa": "150011",
         "nama": "INDOMARET",
         "tahun": 2025
@@ -20818,7 +20818,7 @@
     {
         "id_desas": 188,
         "id_kecamatans": 20,
-        "jenis": "Puskesmas",
+        "jenis": "Puskesmas Rawat Inap",
         "kode_desa": "150011",
         "nama": "PUSKESMAS CINEAM",
         "tahun": 2025
@@ -21258,7 +21258,7 @@
     {
         "id_desas": 193,
         "id_kecamatans": 21,
-        "jenis": "Puskesmas",
+        "jenis": "Puskesmas Tanpa Rawat Inap",
         "kode_desa": "151002",
         "nama": "PUSKESMAS KARANGJAYA",
         "tahun": 2025
@@ -21794,7 +21794,7 @@
     {
         "id_desas": 199,
         "id_kecamatans": 22,
-        "jenis": "Minimarket",
+        "jenis": "Minimarket/Swalayan",
         "kode_desa": "160010",
         "nama": "KAHESA",
         "tahun": 2025
@@ -21802,7 +21802,7 @@
     {
         "id_desas": 199,
         "id_kecamatans": 22,
-        "jenis": "Minimarket",
+        "jenis": "Minimarket/Swalayan",
         "kode_desa": "160010",
         "nama": "SYARIF SHOP",
         "tahun": 2025
@@ -21858,7 +21858,7 @@
     {
         "id_desas": 200,
         "id_kecamatans": 22,
-        "jenis": "Minimarket",
+        "jenis": "Minimarket/Swalayan",
         "kode_desa": "160011",
         "nama": "FAMILYMART,",
         "tahun": 2025
@@ -21866,7 +21866,7 @@
     {
         "id_desas": 200,
         "id_kecamatans": 22,
-        "jenis": "Minimarket",
+        "jenis": "Minimarket/Swalayan",
         "kode_desa": "160011",
         "nama": "INDRAMART",
         "tahun": 2025
@@ -21970,7 +21970,7 @@
     {
         "id_desas": 201,
         "id_kecamatans": 22,
-        "jenis": "Minimarket",
+        "jenis": "Minimarket/Swalayan",
         "kode_desa": "160012",
         "nama": "MINIMARKET MARWAH",
         "tahun": 2025
@@ -22090,7 +22090,7 @@
     {
         "id_desas": 203,
         "id_kecamatans": 22,
-        "jenis": "Minimarket",
+        "jenis": "Minimarket/Swalayan",
         "kode_desa": "160014",
         "nama": "ALFAMART",
         "tahun": 2025
@@ -22170,7 +22170,7 @@
     {
         "id_desas": 203,
         "id_kecamatans": 22,
-        "jenis": "PASAR",
+        "jenis": "PASAR SEMI PERMANEN",
         "kode_desa": "160014",
         "nama": "PASAR HEWAN",
         "tahun": 2025
@@ -22298,7 +22298,7 @@
     {
         "id_desas": 204,
         "id_kecamatans": 22,
-        "jenis": "Puskesmas",
+        "jenis": "Puskesmas Rawat Inap",
         "kode_desa": "160015",
         "nama": "PUSKESMAS MANONJAYA",
         "tahun": 2025
@@ -22418,7 +22418,7 @@
     {
         "id_desas": 204,
         "id_kecamatans": 22,
-        "jenis": "Minimarket",
+        "jenis": "Minimarket/Swalayan",
         "kode_desa": "160015",
         "nama": "ALFAMART",
         "tahun": 2025
@@ -22426,7 +22426,7 @@
     {
         "id_desas": 204,
         "id_kecamatans": 22,
-        "jenis": "Minimarket",
+        "jenis": "Minimarket/Swalayan",
         "kode_desa": "160015",
         "nama": "INDOMART",
         "tahun": 2025
@@ -22434,7 +22434,7 @@
     {
         "id_desas": 204,
         "id_kecamatans": 22,
-        "jenis": "Minimarket",
+        "jenis": "Minimarket/Swalayan",
         "kode_desa": "160015",
         "nama": "TASMART",
         "tahun": 2025
@@ -22586,7 +22586,7 @@
     {
         "id_desas": 205,
         "id_kecamatans": 22,
-        "jenis": "Minimarket",
+        "jenis": "Minimarket/Swalayan",
         "kode_desa": "160016",
         "nama": "ALFAMAT MANONJAYA",
         "tahun": 2025
@@ -22594,7 +22594,7 @@
     {
         "id_desas": 205,
         "id_kecamatans": 22,
-        "jenis": "Minimarket",
+        "jenis": "Minimarket/Swalayan",
         "kode_desa": "160016",
         "nama": "RAIS MART MANONJAYA",
         "tahun": 2025
@@ -22722,7 +22722,7 @@
     {
         "id_desas": 206,
         "id_kecamatans": 22,
-        "jenis": "Minimarket",
+        "jenis": "Minimarket/Swalayan",
         "kode_desa": "160017",
         "nama": "INDOMARET CILANGKAP",
         "tahun": 2025
@@ -22818,7 +22818,7 @@
     {
         "id_desas": 208,
         "id_kecamatans": 23,
-        "jenis": "Puskesmas",
+        "jenis": "Puskesmas Tanpa Rawat Inap",
         "kode_desa": "161001",
         "nama": "PUSKESMAS GUNUNGTANJUNG",
         "tahun": 2025
@@ -23106,7 +23106,7 @@
     {
         "id_desas": 212,
         "id_kecamatans": 23,
-        "jenis": "Minimarket",
+        "jenis": "Minimarket/Swalayan",
         "kode_desa": "161005",
         "nama": "RN MINIMARKET",
         "tahun": 2025
@@ -23242,7 +23242,7 @@
     {
         "id_desas": 215,
         "id_kecamatans": 24,
-        "jenis": "Minimarket",
+        "jenis": "Minimarket/Swalayan",
         "kode_desa": "190007",
         "nama": "MINI MARKET SOEKAMART",
         "tahun": 2025
@@ -23322,7 +23322,7 @@
     {
         "id_desas": 215,
         "id_kecamatans": 24,
-        "jenis": "Minimarket",
+        "jenis": "Minimarket/Swalayan",
         "kode_desa": "190007",
         "nama": "MINI MARKET CIPEUCANG",
         "tahun": 2025
@@ -23634,7 +23634,7 @@
     {
         "id_desas": 217,
         "id_kecamatans": 24,
-        "jenis": "Minimarket",
+        "jenis": "Minimarket/Swalayan",
         "kode_desa": "190009",
         "nama": "SYIFAMART",
         "tahun": 2025
@@ -23762,7 +23762,7 @@
     {
         "id_desas": 218,
         "id_kecamatans": 24,
-        "jenis": "Puskesmas",
+        "jenis": "Puskesmas Rawat Inap",
         "kode_desa": "190010",
         "nama": "PUSKESMAS TINEWATI",
         "tahun": 2025
@@ -23770,7 +23770,7 @@
     {
         "id_desas": 218,
         "id_kecamatans": 24,
-        "jenis": "Puskesmas",
+        "jenis": "Puskesmas Tanpa Rawat Inap",
         "kode_desa": "190010",
         "nama": "PUSKESMAS SINGAPARNA",
         "tahun": 2025
@@ -23858,7 +23858,7 @@
     {
         "id_desas": 218,
         "id_kecamatans": 24,
-        "jenis": "PASAR",
+        "jenis": "PASAR SEMI PERMANEN",
         "kode_desa": "190010",
         "nama": "PASAR PEDAGANG KAKI LIMA",
         "tahun": 2025
@@ -23866,7 +23866,7 @@
     {
         "id_desas": 218,
         "id_kecamatans": 24,
-        "jenis": "Minimarket",
+        "jenis": "Minimarket/Swalayan",
         "kode_desa": "190010",
         "nama": "ALFAMART SINGAPARNA 2",
         "tahun": 2025
@@ -23874,7 +23874,7 @@
     {
         "id_desas": 218,
         "id_kecamatans": 24,
-        "jenis": "Minimarket",
+        "jenis": "Minimarket/Swalayan",
         "kode_desa": "190010",
         "nama": "MIKRO MINI MARKET KP PABRIK",
         "tahun": 2025
@@ -23898,7 +23898,7 @@
     {
         "id_desas": 218,
         "id_kecamatans": 24,
-        "jenis": "Minimarket",
+        "jenis": "Minimarket/Swalayan",
         "kode_desa": "190010",
         "nama": "TASMU",
         "tahun": 2025
@@ -23914,7 +23914,7 @@
     {
         "id_desas": 218,
         "id_kecamatans": 24,
-        "jenis": "Minimarket",
+        "jenis": "Minimarket/Swalayan",
         "kode_desa": "190010",
         "nama": "MINI MARKET MUKTI",
         "tahun": 2025
@@ -24186,7 +24186,7 @@
     {
         "id_desas": 219,
         "id_kecamatans": 24,
-        "jenis": "PASAR",
+        "jenis": "PASAR SEMI PERMANEN",
         "kode_desa": "190011",
         "nama": "KOMPLEK PASAR WISATA SINGAPARNA",
         "tahun": 2025
@@ -24194,7 +24194,7 @@
     {
         "id_desas": 219,
         "id_kecamatans": 24,
-        "jenis": "PASAR",
+        "jenis": "PASAR TANPA BANGUNAN",
         "kode_desa": "190011",
         "nama": "KOMPLEK PASAR KAKI LIMA SINGAPARNA",
         "tahun": 2025
@@ -24202,7 +24202,7 @@
     {
         "id_desas": 219,
         "id_kecamatans": 24,
-        "jenis": "Minimarket",
+        "jenis": "Minimarket/Swalayan",
         "kode_desa": "190011",
         "nama": "ALFAMART SINGAPARNA",
         "tahun": 2025
@@ -24210,7 +24210,7 @@
     {
         "id_desas": 219,
         "id_kecamatans": 24,
-        "jenis": "Minimarket",
+        "jenis": "Minimarket/Swalayan",
         "kode_desa": "190011",
         "nama": "CAHAYA MINI MARKET",
         "tahun": 2025
@@ -24218,7 +24218,7 @@
     {
         "id_desas": 219,
         "id_kecamatans": 24,
-        "jenis": "Minimarket",
+        "jenis": "Minimarket/Swalayan",
         "kode_desa": "190011",
         "nama": "INDOMART SINGAPARNA",
         "tahun": 2025
@@ -24226,7 +24226,7 @@
     {
         "id_desas": 219,
         "id_kecamatans": 24,
-        "jenis": "Minimarket",
+        "jenis": "Minimarket/Swalayan",
         "kode_desa": "190011",
         "nama": "POPULER MART",
         "tahun": 2025
@@ -24234,7 +24234,7 @@
     {
         "id_desas": 219,
         "id_kecamatans": 24,
-        "jenis": "Minimarket",
+        "jenis": "Minimarket/Swalayan",
         "kode_desa": "190011",
         "nama": "TOKO SEGAR",
         "tahun": 2025
@@ -24242,7 +24242,7 @@
     {
         "id_desas": 219,
         "id_kecamatans": 24,
-        "jenis": "Minimarket",
+        "jenis": "Minimarket/Swalayan",
         "kode_desa": "190011",
         "nama": "YOMART SINGAPARNA 3",
         "tahun": 2025
@@ -24290,7 +24290,7 @@
     {
         "id_desas": 220,
         "id_kecamatans": 24,
-        "jenis": "Minimarket",
+        "jenis": "Minimarket/Swalayan",
         "kode_desa": "190012",
         "nama": "MINI MARKET MANDIRI JAYA",
         "tahun": 2025
@@ -24426,7 +24426,7 @@
     {
         "id_desas": 220,
         "id_kecamatans": 24,
-        "jenis": "Minimarket",
+        "jenis": "Minimarket/Swalayan",
         "kode_desa": "190012",
         "nama": "ALFAMART SUKAMULYA",
         "tahun": 2025
@@ -24434,7 +24434,7 @@
     {
         "id_desas": 220,
         "id_kecamatans": 24,
-        "jenis": "Minimarket",
+        "jenis": "Minimarket/Swalayan",
         "kode_desa": "190012",
         "nama": "MINI MARKET YOMART",
         "tahun": 2025
@@ -24506,7 +24506,7 @@
     {
         "id_desas": 220,
         "id_kecamatans": 24,
-        "jenis": "Klinik Pratama",
+        "jenis": "Klinik Utama",
         "kode_desa": "190012",
         "nama": "KLINIK PKU MUHAMMADIYAH",
         "tahun": 2025
@@ -24538,7 +24538,7 @@
     {
         "id_desas": 220,
         "id_kecamatans": 24,
-        "jenis": "PASAR",
+        "jenis": "PASAR TANPA BANGUNAN",
         "kode_desa": "190012",
         "nama": "PASAR CAR FREE DAY KOMPLEK GEBU",
         "tahun": 2025
@@ -24882,7 +24882,7 @@
     {
         "id_desas": 221,
         "id_kecamatans": 24,
-        "jenis": "Minimarket",
+        "jenis": "Minimarket/Swalayan",
         "kode_desa": "190013",
         "nama": "ALFAMART CIPAKAT",
         "tahun": 2025
@@ -24890,7 +24890,7 @@
     {
         "id_desas": 221,
         "id_kecamatans": 24,
-        "jenis": "Minimarket",
+        "jenis": "Minimarket/Swalayan",
         "kode_desa": "190013",
         "nama": "INDOMARET CIPAKAT",
         "tahun": 2025
@@ -24946,7 +24946,7 @@
     {
         "id_desas": 221,
         "id_kecamatans": 24,
-        "jenis": "Minimarket",
+        "jenis": "Minimarket/Swalayan",
         "kode_desa": "190013",
         "nama": "MINI MARKET ANNUR",
         "tahun": 2025
@@ -25242,7 +25242,7 @@
     {
         "id_desas": 222,
         "id_kecamatans": 24,
-        "jenis": "Minimarket",
+        "jenis": "Minimarket/Swalayan",
         "kode_desa": "190020",
         "nama": "ALFAMART PERUM CINTARAJA",
         "tahun": 2025
@@ -25250,7 +25250,7 @@
     {
         "id_desas": 222,
         "id_kecamatans": 24,
-        "jenis": "Minimarket",
+        "jenis": "Minimarket/Swalayan",
         "kode_desa": "190020",
         "nama": "INDOMARET PERUM CINTARAJA",
         "tahun": 2025
@@ -25258,7 +25258,7 @@
     {
         "id_desas": 222,
         "id_kecamatans": 24,
-        "jenis": "Minimarket",
+        "jenis": "Minimarket/Swalayan",
         "kode_desa": "190020",
         "nama": "INDOMARET CINTARAJA",
         "tahun": 2025
@@ -25266,7 +25266,7 @@
     {
         "id_desas": 222,
         "id_kecamatans": 24,
-        "jenis": "Minimarket",
+        "jenis": "Minimarket/Swalayan",
         "kode_desa": "190020",
         "nama": "INDOMART GANDRUNG",
         "tahun": 2025
@@ -25274,7 +25274,7 @@
     {
         "id_desas": 222,
         "id_kecamatans": 24,
-        "jenis": "Minimarket",
+        "jenis": "Minimarket/Swalayan",
         "kode_desa": "190020",
         "nama": "MINI MARKET MANDIRI JAYA CINTARAJA",
         "tahun": 2025
@@ -25282,7 +25282,7 @@
     {
         "id_desas": 222,
         "id_kecamatans": 24,
-        "jenis": "Minimarket",
+        "jenis": "Minimarket/Swalayan",
         "kode_desa": "190020",
         "nama": "MINI MARKET RAFA MART",
         "tahun": 2025
@@ -25290,7 +25290,7 @@
     {
         "id_desas": 222,
         "id_kecamatans": 24,
-        "jenis": "Minimarket",
+        "jenis": "Minimarket/Swalayan",
         "kode_desa": "190020",
         "nama": "SINGAPARNA PLAZA",
         "tahun": 2025
@@ -25314,7 +25314,7 @@
     {
         "id_desas": 222,
         "id_kecamatans": 24,
-        "jenis": "Minimarket",
+        "jenis": "Minimarket/Swalayan",
         "kode_desa": "190020",
         "nama": "MR DIY",
         "tahun": 2025
@@ -25458,7 +25458,7 @@
     {
         "id_desas": 223,
         "id_kecamatans": 24,
-        "jenis": "Minimarket",
+        "jenis": "Minimarket/Swalayan",
         "kode_desa": "190021",
         "nama": "ALFAMART PERUM MARGAMULYA",
         "tahun": 2025
@@ -25602,7 +25602,7 @@
     {
         "id_desas": 224,
         "id_kecamatans": 24,
-        "jenis": "Minimarket",
+        "jenis": "Minimarket/Swalayan",
         "kode_desa": "190022",
         "nama": "ALFAMART CIKADONGDONG",
         "tahun": 2025
@@ -25610,7 +25610,7 @@
     {
         "id_desas": 224,
         "id_kecamatans": 24,
-        "jenis": "Minimarket",
+        "jenis": "Minimarket/Swalayan",
         "kode_desa": "190022",
         "nama": "MINI MARKET GUMELAR",
         "tahun": 2025
@@ -25818,7 +25818,7 @@
     {
         "id_desas": 225,
         "id_kecamatans": 25,
-        "jenis": "Minimarket",
+        "jenis": "Minimarket/Swalayan",
         "kode_desa": "191001",
         "nama": "INDOMART SUKARAPIH",
         "tahun": 2025
@@ -25946,7 +25946,7 @@
     {
         "id_desas": 226,
         "id_kecamatans": 25,
-        "jenis": "Minimarket",
+        "jenis": "Minimarket/Swalayan",
         "kode_desa": "191002",
         "nama": "ALFAMART WARGAKERTA",
         "tahun": 2025
@@ -26386,7 +26386,7 @@
     {
         "id_desas": 230,
         "id_kecamatans": 25,
-        "jenis": "Minimarket",
+        "jenis": "Minimarket/Swalayan",
         "kode_desa": "191006",
         "nama": "INDOMART SUKARAME",
         "tahun": 2025
@@ -26530,7 +26530,7 @@
     {
         "id_desas": 230,
         "id_kecamatans": 25,
-        "jenis": "Puskesmas",
+        "jenis": "Puskesmas Rawat Inap",
         "kode_desa": "191006",
         "nama": "PUSKESMAS SUKARAME",
         "tahun": 2025
@@ -26874,7 +26874,7 @@
     {
         "id_desas": 233,
         "id_kecamatans": 26,
-        "jenis": "Minimarket",
+        "jenis": "Minimarket/Swalayan",
         "kode_desa": "192003",
         "nama": "ALFAMART DESA SUKASUKUR",
         "tahun": 2025
@@ -27018,7 +27018,7 @@
     {
         "id_desas": 235,
         "id_kecamatans": 26,
-        "jenis": "Minimarket",
+        "jenis": "Minimarket/Swalayan",
         "kode_desa": "192005",
         "nama": "X SHAMART DESA MANGUNREJA",
         "tahun": 2025
@@ -27154,7 +27154,7 @@
     {
         "id_desas": 235,
         "id_kecamatans": 26,
-        "jenis": "Puskesmas",
+        "jenis": "Puskesmas Tanpa Rawat Inap",
         "kode_desa": "192005",
         "nama": "PUSKESMAS MANGUNREJA",
         "tahun": 2025
@@ -27226,7 +27226,7 @@
     {
         "id_desas": 235,
         "id_kecamatans": 26,
-        "jenis": "Minimarket",
+        "jenis": "Minimarket/Swalayan",
         "kode_desa": "192005",
         "nama": "ALFAMART DESA MANGUNREJA",
         "tahun": 2025
@@ -27234,7 +27234,7 @@
     {
         "id_desas": 235,
         "id_kecamatans": 26,
-        "jenis": "Minimarket",
+        "jenis": "Minimarket/Swalayan",
         "kode_desa": "192005",
         "nama": "INDOMARET DESA MANGUNREJA",
         "tahun": 2025
@@ -27346,7 +27346,7 @@
     {
         "id_desas": 236,
         "id_kecamatans": 26,
-        "jenis": "Minimarket",
+        "jenis": "Minimarket/Swalayan",
         "kode_desa": "192006",
         "nama": "INDOMARET DESA MARGAJAYA",
         "tahun": 2025
@@ -27746,7 +27746,7 @@
     {
         "id_desas": 242,
         "id_kecamatans": 27,
-        "jenis": "Puskesmas",
+        "jenis": "Puskesmas Rawat Inap",
         "kode_desa": "200006",
         "nama": "PUSKESMAS CIGALONTANG",
         "tahun": 2025
@@ -27770,7 +27770,7 @@
     {
         "id_desas": 242,
         "id_kecamatans": 27,
-        "jenis": "Minimarket",
+        "jenis": "Minimarket/Swalayan",
         "kode_desa": "200006",
         "nama": "INDOMARET CIGALONTANG",
         "tahun": 2025
@@ -28378,7 +28378,7 @@
     {
         "id_desas": 246,
         "id_kecamatans": 27,
-        "jenis": "Minimarket",
+        "jenis": "Minimarket/Swalayan",
         "kode_desa": "200010",
         "nama": "ALFAMART SAMENDE",
         "tahun": 2025
@@ -28874,7 +28874,7 @@
     {
         "id_desas": 253,
         "id_kecamatans": 28,
-        "jenis": "Minimarket",
+        "jenis": "Minimarket/Swalayan",
         "kode_desa": "210003",
         "nama": "AD MART",
         "tahun": 2025
@@ -28978,7 +28978,7 @@
     {
         "id_desas": 253,
         "id_kecamatans": 28,
-        "jenis": "Puskesmas",
+        "jenis": "Puskesmas Tanpa Rawat Inap",
         "kode_desa": "210003",
         "nama": "PUSKESMAS LEUWISARI",
         "tahun": 2025
@@ -29114,7 +29114,7 @@
     {
         "id_desas": 254,
         "id_kecamatans": 28,
-        "jenis": "Minimarket",
+        "jenis": "Minimarket/Swalayan",
         "kode_desa": "210007",
         "nama": "TOKO UPK LEUWISARI",
         "tahun": 2025
@@ -29250,7 +29250,7 @@
     {
         "id_desas": 255,
         "id_kecamatans": 28,
-        "jenis": "Minimarket",
+        "jenis": "Minimarket/Swalayan",
         "kode_desa": "210008",
         "nama": "TOKO UPK LEUWISARI",
         "tahun": 2025
@@ -29370,7 +29370,7 @@
     {
         "id_desas": 255,
         "id_kecamatans": 28,
-        "jenis": "Minimarket",
+        "jenis": "Minimarket/Swalayan",
         "kode_desa": "210008",
         "nama": "INDOMART JAYAMUKTI",
         "tahun": 2025
@@ -30178,7 +30178,7 @@
     {
         "id_desas": 262,
         "id_kecamatans": 29,
-        "jenis": "Minimarket",
+        "jenis": "Minimarket/Swalayan",
         "kode_desa": "211003",
         "nama": "TOKO ADI",
         "tahun": 2025
@@ -30186,7 +30186,7 @@
     {
         "id_desas": 262,
         "id_kecamatans": 29,
-        "jenis": "Minimarket",
+        "jenis": "Minimarket/Swalayan",
         "kode_desa": "211003",
         "nama": "TOKO DINA",
         "tahun": 2025
@@ -30306,7 +30306,7 @@
     {
         "id_desas": 263,
         "id_kecamatans": 29,
-        "jenis": "Puskesmas",
+        "jenis": "Puskesmas Tanpa Rawat Inap",
         "kode_desa": "211004",
         "nama": "PUSKESMAS SARIWANGI",
         "tahun": 2025
@@ -30466,7 +30466,7 @@
     {
         "id_desas": 264,
         "id_kecamatans": 29,
-        "jenis": "Minimarket",
+        "jenis": "Minimarket/Swalayan",
         "kode_desa": "211005",
         "nama": "APOTEK KLM",
         "tahun": 2025
@@ -30754,7 +30754,7 @@
     {
         "id_desas": 268,
         "id_kecamatans": 30,
-        "jenis": "Minimarket",
+        "jenis": "Minimarket/Swalayan",
         "kode_desa": "212001",
         "nama": "RIO MART JL CIKEMBANG",
         "tahun": 2025
@@ -30986,7 +30986,7 @@
     {
         "id_desas": 268,
         "id_kecamatans": 30,
-        "jenis": "PASAR",
+        "jenis": "PASAR SEMI PERMANEN",
         "kode_desa": "212001",
         "nama": "PASAR HEWAN",
         "tahun": 2025
@@ -30994,7 +30994,7 @@
     {
         "id_desas": 268,
         "id_kecamatans": 30,
-        "jenis": "Minimarket",
+        "jenis": "Minimarket/Swalayan",
         "kode_desa": "212001",
         "nama": "INDOMARET JL GOLACIR",
         "tahun": 2025
@@ -31234,7 +31234,7 @@
     {
         "id_desas": 270,
         "id_kecamatans": 30,
-        "jenis": "Minimarket",
+        "jenis": "Minimarket/Swalayan",
         "kode_desa": "212003",
         "nama": "EXSHA MART JL CISINGA CISARUNI",
         "tahun": 2025
@@ -31338,7 +31338,7 @@
     {
         "id_desas": 270,
         "id_kecamatans": 30,
-        "jenis": "Puskesmas",
+        "jenis": "Puskesmas Tanpa Rawat Inap",
         "kode_desa": "212003",
         "nama": "PUSKESMAS CISARUNI",
         "tahun": 2025
@@ -31394,7 +31394,7 @@
     {
         "id_desas": 270,
         "id_kecamatans": 30,
-        "jenis": "Minimarket",
+        "jenis": "Minimarket/Swalayan",
         "kode_desa": "212003",
         "nama": "ALFAMART JL CISINGA CISARUNI",
         "tahun": 2025
@@ -31402,7 +31402,7 @@
     {
         "id_desas": 270,
         "id_kecamatans": 30,
-        "jenis": "Minimarket",
+        "jenis": "Minimarket/Swalayan",
         "kode_desa": "212003",
         "nama": "INDOMART JL CISINGA CISARUNI",
         "tahun": 2025
@@ -31586,7 +31586,7 @@
     {
         "id_desas": 272,
         "id_kecamatans": 30,
-        "jenis": "Minimarket",
+        "jenis": "Minimarket/Swalayan",
         "kode_desa": "212005",
         "nama": "TOKO H MISBAH JL KUBANGHURANG",
         "tahun": 2025
@@ -31762,7 +31762,7 @@
     {
         "id_desas": 273,
         "id_kecamatans": 31,
-        "jenis": "PASAR",
+        "jenis": "PASAR TANPA BANGUNAN",
         "kode_desa": "221001",
         "nama": "PASAR RANCAPAKU DAN TAWANGBANTENG",
         "tahun": 2025
@@ -31770,7 +31770,7 @@
     {
         "id_desas": 273,
         "id_kecamatans": 31,
-        "jenis": "Minimarket",
+        "jenis": "Minimarket/Swalayan",
         "kode_desa": "221001",
         "nama": "ALFAMART JL WARUNG SABEULAH",
         "tahun": 2025
@@ -31898,7 +31898,7 @@
     {
         "id_desas": 273,
         "id_kecamatans": 31,
-        "jenis": "Minimarket",
+        "jenis": "Minimarket/Swalayan",
         "kode_desa": "221001",
         "nama": "TOKO INTAN JL PASAR TAWANGBANTENG",
         "tahun": 2025
@@ -31914,7 +31914,7 @@
     {
         "id_desas": 273,
         "id_kecamatans": 31,
-        "jenis": "Minimarket",
+        "jenis": "Minimarket/Swalayan",
         "kode_desa": "221001",
         "nama": "INDOMARET",
         "tahun": 2025
@@ -31922,7 +31922,7 @@
     {
         "id_desas": 273,
         "id_kecamatans": 31,
-        "jenis": "Minimarket",
+        "jenis": "Minimarket/Swalayan",
         "kode_desa": "221001",
         "nama": "RIOMART",
         "tahun": 2025
@@ -32298,7 +32298,7 @@
     {
         "id_desas": 277,
         "id_kecamatans": 31,
-        "jenis": "Minimarket",
+        "jenis": "Minimarket/Swalayan",
         "kode_desa": "221005",
         "nama": "MANDIRI JAYA PLAZA",
         "tahun": 2025
@@ -32362,7 +32362,7 @@
     {
         "id_desas": 277,
         "id_kecamatans": 31,
-        "jenis": "Minimarket",
+        "jenis": "Minimarket/Swalayan",
         "kode_desa": "221005",
         "nama": "SALSA MART",
         "tahun": 2025
@@ -32426,7 +32426,7 @@
     {
         "id_desas": 278,
         "id_kecamatans": 31,
-        "jenis": "Minimarket",
+        "jenis": "Minimarket/Swalayan",
         "kode_desa": "221006",
         "nama": "TOKO CIREBON",
         "tahun": 2025
@@ -32530,7 +32530,7 @@
     {
         "id_desas": 278,
         "id_kecamatans": 31,
-        "jenis": "Puskesmas",
+        "jenis": "Puskesmas Rawat Inap",
         "kode_desa": "221006",
         "nama": "PUSKESMAS SUKARATU",
         "tahun": 2025
@@ -32730,7 +32730,7 @@
     {
         "id_desas": 280,
         "id_kecamatans": 31,
-        "jenis": "Minimarket",
+        "jenis": "Minimarket/Swalayan",
         "kode_desa": "221008",
         "nama": "ALFAMART",
         "tahun": 2025
@@ -32738,7 +32738,7 @@
     {
         "id_desas": 280,
         "id_kecamatans": 31,
-        "jenis": "Minimarket",
+        "jenis": "Minimarket/Swalayan",
         "kode_desa": "221008",
         "nama": "DOA IBU",
         "tahun": 2025
@@ -32746,7 +32746,7 @@
     {
         "id_desas": 280,
         "id_kecamatans": 31,
-        "jenis": "Minimarket",
+        "jenis": "Minimarket/Swalayan",
         "kode_desa": "221008",
         "nama": "INDOMARET",
         "tahun": 2025
@@ -32754,7 +32754,7 @@
     {
         "id_desas": 280,
         "id_kecamatans": 31,
-        "jenis": "Minimarket",
+        "jenis": "Minimarket/Swalayan",
         "kode_desa": "221008",
         "nama": "TOKO DALIMA",
         "tahun": 2025
@@ -32826,7 +32826,7 @@
     {
         "id_desas": 280,
         "id_kecamatans": 31,
-        "jenis": "Minimarket",
+        "jenis": "Minimarket/Swalayan",
         "kode_desa": "221008",
         "nama": "TOKO AGNI",
         "tahun": 2025
@@ -33002,7 +33002,7 @@
     {
         "id_desas": 282,
         "id_kecamatans": 32,
-        "jenis": "Puskesmas",
+        "jenis": "Puskesmas Tanpa Rawat Inap",
         "kode_desa": "230002",
         "nama": "PUSKESMAS CISAYONG",
         "tahun": 2025
@@ -33074,7 +33074,7 @@
     {
         "id_desas": 282,
         "id_kecamatans": 32,
-        "jenis": "Minimarket",
+        "jenis": "Minimarket/Swalayan",
         "kode_desa": "230002",
         "nama": "MINIMARKET CAHAYA ABADI",
         "tahun": 2025
@@ -33082,7 +33082,7 @@
     {
         "id_desas": 282,
         "id_kecamatans": 32,
-        "jenis": "Minimarket",
+        "jenis": "Minimarket/Swalayan",
         "kode_desa": "230002",
         "nama": "RIZQI MART",
         "tahun": 2025
@@ -33410,7 +33410,7 @@
     {
         "id_desas": 285,
         "id_kecamatans": 32,
-        "jenis": "PASAR",
+        "jenis": "PASAR SEMI PERMANEN",
         "kode_desa": "230005",
         "nama": "PASAR IKAN JATIHURIP",
         "tahun": 2025
@@ -33418,7 +33418,7 @@
     {
         "id_desas": 285,
         "id_kecamatans": 32,
-        "jenis": "Minimarket",
+        "jenis": "Minimarket/Swalayan",
         "kode_desa": "230005",
         "nama": "ALFAMART",
         "tahun": 2025
@@ -33426,7 +33426,7 @@
     {
         "id_desas": 285,
         "id_kecamatans": 32,
-        "jenis": "Minimarket",
+        "jenis": "Minimarket/Swalayan",
         "kode_desa": "230005",
         "nama": "QINI MART",
         "tahun": 2025
@@ -33466,7 +33466,7 @@
     {
         "id_desas": 286,
         "id_kecamatans": 32,
-        "jenis": "Minimarket",
+        "jenis": "Minimarket/Swalayan",
         "kode_desa": "230006",
         "nama": "MADIYA",
         "tahun": 2025
@@ -33650,7 +33650,7 @@
     {
         "id_desas": 287,
         "id_kecamatans": 32,
-        "jenis": "Minimarket",
+        "jenis": "Minimarket/Swalayan",
         "kode_desa": "230007",
         "nama": "INDOMARET",
         "tahun": 2025
@@ -34258,7 +34258,7 @@
     {
         "id_desas": 296,
         "id_kecamatans": 33,
-        "jenis": "Puskesmas",
+        "jenis": "Puskesmas Tanpa Rawat Inap",
         "kode_desa": "231003",
         "nama": "UPT PUSKESMAS SUKAHENING",
         "tahun": 2025
@@ -34474,7 +34474,7 @@
     {
         "id_desas": 299,
         "id_kecamatans": 33,
-        "jenis": "PASAR",
+        "jenis": "PASAR TANPA BANGUNAN",
         "kode_desa": "231006",
         "nama": "PASAR MINGGU JB",
         "tahun": 2025
@@ -34666,7 +34666,7 @@
     {
         "id_desas": 301,
         "id_kecamatans": 34,
-        "jenis": "Minimarket",
+        "jenis": "Minimarket/Swalayan",
         "kode_desa": "240001",
         "nama": "MINI MARKET SATRIA MANDALA RAJAMANDALA",
         "tahun": 2025
@@ -34746,7 +34746,7 @@
     {
         "id_desas": 302,
         "id_kecamatans": 34,
-        "jenis": "Minimarket",
+        "jenis": "Minimarket/Swalayan",
         "kode_desa": "240002",
         "nama": "MINI MARKET BUMDES PANDAWA DAWAGUNG",
         "tahun": 2025
@@ -34930,7 +34930,7 @@
     {
         "id_desas": 303,
         "id_kecamatans": 34,
-        "jenis": "Minimarket",
+        "jenis": "Minimarket/Swalayan",
         "kode_desa": "240003",
         "nama": "ASB MINI MARKET",
         "tahun": 2025
@@ -34938,7 +34938,7 @@
     {
         "id_desas": 303,
         "id_kecamatans": 34,
-        "jenis": "Minimarket",
+        "jenis": "Minimarket/Swalayan",
         "kode_desa": "240003",
         "nama": "FAJAR MINI MARKET",
         "tahun": 2025
@@ -34946,7 +34946,7 @@
     {
         "id_desas": 303,
         "id_kecamatans": 34,
-        "jenis": "Minimarket",
+        "jenis": "Minimarket/Swalayan",
         "kode_desa": "240003",
         "nama": "SAFARI MART",
         "tahun": 2025
@@ -35178,7 +35178,7 @@
     {
         "id_desas": 304,
         "id_kecamatans": 34,
-        "jenis": "Puskesmas",
+        "jenis": "Puskesmas Rawat Inap",
         "kode_desa": "240004",
         "nama": "PUSKESMAS RAJAPOLAH",
         "tahun": 2025
@@ -35282,7 +35282,7 @@
     {
         "id_desas": 304,
         "id_kecamatans": 34,
-        "jenis": "Minimarket",
+        "jenis": "Minimarket/Swalayan",
         "kode_desa": "240004",
         "nama": "CAHAYA MART",
         "tahun": 2025
@@ -35290,7 +35290,7 @@
     {
         "id_desas": 304,
         "id_kecamatans": 34,
-        "jenis": "Minimarket",
+        "jenis": "Minimarket/Swalayan",
         "kode_desa": "240004",
         "nama": "TOKO MIZANI PUTRI",
         "tahun": 2025
@@ -35362,7 +35362,7 @@
     {
         "id_desas": 304,
         "id_kecamatans": 34,
-        "jenis": "Minimarket",
+        "jenis": "Minimarket/Swalayan",
         "kode_desa": "240004",
         "nama": "DAN+DAN RAJAPOLAH",
         "tahun": 2025
@@ -35458,7 +35458,7 @@
     {
         "id_desas": 305,
         "id_kecamatans": 34,
-        "jenis": "Minimarket",
+        "jenis": "Minimarket/Swalayan",
         "kode_desa": "240005",
         "nama": "ANANDA MINIMARKET",
         "tahun": 2025
@@ -35546,7 +35546,7 @@
     {
         "id_desas": 306,
         "id_kecamatans": 34,
-        "jenis": "Minimarket",
+        "jenis": "Minimarket/Swalayan",
         "kode_desa": "240006",
         "nama": "MANAH MART",
         "tahun": 2025
@@ -35610,7 +35610,7 @@
     {
         "id_desas": 307,
         "id_kecamatans": 34,
-        "jenis": "Minimarket",
+        "jenis": "Minimarket/Swalayan",
         "kode_desa": "240007",
         "nama": "MINIMARKET MEGAMART",
         "tahun": 2025
@@ -35634,7 +35634,7 @@
     {
         "id_desas": 307,
         "id_kecamatans": 34,
-        "jenis": "Minimarket",
+        "jenis": "Minimarket/Swalayan",
         "kode_desa": "240007",
         "nama": "INDOMARET CIINJUK",
         "tahun": 2025
@@ -35698,7 +35698,7 @@
     {
         "id_desas": 308,
         "id_kecamatans": 34,
-        "jenis": "Minimarket",
+        "jenis": "Minimarket/Swalayan",
         "kode_desa": "240008",
         "nama": "MINI MARKET SMART",
         "tahun": 2025
@@ -35706,7 +35706,7 @@
     {
         "id_desas": 308,
         "id_kecamatans": 34,
-        "jenis": "Minimarket",
+        "jenis": "Minimarket/Swalayan",
         "kode_desa": "240008",
         "nama": "INDOMARET SPBU MOROSONO",
         "tahun": 2025
@@ -35962,7 +35962,7 @@
     {
         "id_desas": 312,
         "id_kecamatans": 35,
-        "jenis": "Minimarket",
+        "jenis": "Minimarket/Swalayan",
         "kode_desa": "250004",
         "nama": "INDOMART TONJONG",
         "tahun": 2025
@@ -35970,7 +35970,7 @@
     {
         "id_desas": 312,
         "id_kecamatans": 35,
-        "jenis": "Minimarket",
+        "jenis": "Minimarket/Swalayan",
         "kode_desa": "250004",
         "nama": "QINI MART",
         "tahun": 2025
@@ -36050,7 +36050,7 @@
     {
         "id_desas": 312,
         "id_kecamatans": 35,
-        "jenis": "Puskesmas",
+        "jenis": "Puskesmas Rawat Inap",
         "kode_desa": "250004",
         "nama": "PUSKESMAS JAMANIS",
         "tahun": 2025
@@ -36098,7 +36098,7 @@
     {
         "id_desas": 312,
         "id_kecamatans": 35,
-        "jenis": "Minimarket",
+        "jenis": "Minimarket/Swalayan",
         "kode_desa": "250004",
         "nama": "INDOMART HAURKONENG",
         "tahun": 2025
@@ -36178,7 +36178,7 @@
     {
         "id_desas": 313,
         "id_kecamatans": 35,
-        "jenis": "Minimarket",
+        "jenis": "Minimarket/Swalayan",
         "kode_desa": "250005",
         "nama": "ALFAMART TANJUNGMEKAR",
         "tahun": 2025
@@ -36418,7 +36418,7 @@
     {
         "id_desas": 316,
         "id_kecamatans": 35,
-        "jenis": "Minimarket",
+        "jenis": "Minimarket/Swalayan",
         "kode_desa": "250008",
         "nama": "INDOMARET CISINGA",
         "tahun": 2025
@@ -37098,7 +37098,7 @@
     {
         "id_desas": 324,
         "id_kecamatans": 36,
-        "jenis": "Minimarket",
+        "jenis": "Minimarket/Swalayan",
         "kode_desa": "260008",
         "nama": "XSHA OUTLET CIAWI",
         "tahun": 2025
@@ -37218,7 +37218,7 @@
     {
         "id_desas": 324,
         "id_kecamatans": 36,
-        "jenis": "Minimarket",
+        "jenis": "Minimarket/Swalayan",
         "kode_desa": "260008",
         "nama": "GRIYA MART CIAWI",
         "tahun": 2025
@@ -37226,7 +37226,7 @@
     {
         "id_desas": 324,
         "id_kecamatans": 36,
-        "jenis": "Minimarket",
+        "jenis": "Minimarket/Swalayan",
         "kode_desa": "260008",
         "nama": "TASMART CIAWI",
         "tahun": 2025
@@ -37306,7 +37306,7 @@
     {
         "id_desas": 325,
         "id_kecamatans": 36,
-        "jenis": "Minimarket",
+        "jenis": "Minimarket/Swalayan",
         "kode_desa": "260009",
         "nama": "TOKO GUMELAR",
         "tahun": 2025
@@ -37410,7 +37410,7 @@
     {
         "id_desas": 325,
         "id_kecamatans": 36,
-        "jenis": "Puskesmas",
+        "jenis": "Puskesmas Rawat Inap",
         "kode_desa": "260009",
         "nama": "PUSKESMAS CIAWI",
         "tahun": 2025
@@ -37514,7 +37514,7 @@
     {
         "id_desas": 325,
         "id_kecamatans": 36,
-        "jenis": "PASAR",
+        "jenis": "PASAR SEMI PERMANEN",
         "kode_desa": "260009",
         "nama": "PASAR HEWAN CIAWI",
         "tahun": 2025
@@ -37522,7 +37522,7 @@
     {
         "id_desas": 325,
         "id_kecamatans": 36,
-        "jenis": "Minimarket",
+        "jenis": "Minimarket/Swalayan",
         "kode_desa": "260009",
         "nama": "ALFAMART TANJAKAN CANGKUDU",
         "tahun": 2025
@@ -37530,7 +37530,7 @@
     {
         "id_desas": 325,
         "id_kecamatans": 36,
-        "jenis": "Minimarket",
+        "jenis": "Minimarket/Swalayan",
         "kode_desa": "260009",
         "nama": "ALFAMART ALUN ALUN CIAWI",
         "tahun": 2025
@@ -37538,7 +37538,7 @@
     {
         "id_desas": 325,
         "id_kecamatans": 36,
-        "jenis": "Minimarket",
+        "jenis": "Minimarket/Swalayan",
         "kode_desa": "260009",
         "nama": "INDOMARET CIAWI 2",
         "tahun": 2025
@@ -37546,7 +37546,7 @@
     {
         "id_desas": 325,
         "id_kecamatans": 36,
-        "jenis": "Minimarket",
+        "jenis": "Minimarket/Swalayan",
         "kode_desa": "260009",
         "nama": "INDOMARET ALUN ALUN CIAWI",
         "tahun": 2025
@@ -37554,7 +37554,7 @@
     {
         "id_desas": 325,
         "id_kecamatans": 36,
-        "jenis": "Minimarket",
+        "jenis": "Minimarket/Swalayan",
         "kode_desa": "260009",
         "nama": "TOKO JADI JAYA",
         "tahun": 2025
@@ -37730,7 +37730,7 @@
     {
         "id_desas": 327,
         "id_kecamatans": 36,
-        "jenis": "PASAR",
+        "jenis": "PASAR TANPA BANGUNAN",
         "kode_desa": "260011",
         "nama": "PASAR MINGGU JALAN PASIRHUNI",
         "tahun": 2025
@@ -37858,7 +37858,7 @@
     {
         "id_desas": 328,
         "id_kecamatans": 37,
-        "jenis": "Minimarket",
+        "jenis": "Minimarket/Swalayan",
         "kode_desa": "261001",
         "nama": "INDOMART CIPANAS",
         "tahun": 2025
@@ -37938,7 +37938,7 @@
     {
         "id_desas": 328,
         "id_kecamatans": 37,
-        "jenis": "Puskesmas",
+        "jenis": "Puskesmas Tanpa Rawat Inap",
         "kode_desa": "261001",
         "nama": "PUSKESMAS KADIPATEN",
         "tahun": 2025
@@ -37986,7 +37986,7 @@
     {
         "id_desas": 328,
         "id_kecamatans": 37,
-        "jenis": "Minimarket",
+        "jenis": "Minimarket/Swalayan",
         "kode_desa": "261001",
         "nama": "INDOMART TAGOG",
         "tahun": 2025
@@ -37994,7 +37994,7 @@
     {
         "id_desas": 328,
         "id_kecamatans": 37,
-        "jenis": "Minimarket",
+        "jenis": "Minimarket/Swalayan",
         "kode_desa": "261001",
         "nama": "ALFAMART PAMOYANAN",
         "tahun": 2025
@@ -38002,7 +38002,7 @@
     {
         "id_desas": 328,
         "id_kecamatans": 37,
-        "jenis": "Minimarket",
+        "jenis": "Minimarket/Swalayan",
         "kode_desa": "261001",
         "nama": "YOMART PAMOYANAN",
         "tahun": 2025
@@ -38010,7 +38010,7 @@
     {
         "id_desas": 328,
         "id_kecamatans": 37,
-        "jenis": "Minimarket",
+        "jenis": "Minimarket/Swalayan",
         "kode_desa": "261001",
         "nama": "MINIMARKET HASANURRHMON CIPANAS",
         "tahun": 2025
@@ -38090,7 +38090,7 @@
     {
         "id_desas": 329,
         "id_kecamatans": 37,
-        "jenis": "Minimarket",
+        "jenis": "Minimarket/Swalayan",
         "kode_desa": "261002",
         "nama": "ALFAMART DEKAT SMPN 1 KADIPATEN",
         "tahun": 2025
@@ -38098,7 +38098,7 @@
     {
         "id_desas": 329,
         "id_kecamatans": 37,
-        "jenis": "Minimarket",
+        "jenis": "Minimarket/Swalayan",
         "kode_desa": "261002",
         "nama": "MINI MARKET HRS",
         "tahun": 2025
@@ -38386,7 +38386,7 @@
     {
         "id_desas": 333,
         "id_kecamatans": 37,
-        "jenis": "Minimarket",
+        "jenis": "Minimarket/Swalayan",
         "kode_desa": "261006",
         "nama": "ALFAMART SIMPANG",
         "tahun": 2025
@@ -38394,7 +38394,7 @@
     {
         "id_desas": 333,
         "id_kecamatans": 37,
-        "jenis": "Minimarket",
+        "jenis": "Minimarket/Swalayan",
         "kode_desa": "261006",
         "nama": "INDOMARET SIMPANG",
         "tahun": 2025
@@ -38930,7 +38930,7 @@
     {
         "id_desas": 337,
         "id_kecamatans": 38,
-        "jenis": "Puskesmas",
+        "jenis": "Puskesmas Tanpa Rawat Inap",
         "kode_desa": "270012",
         "nama": "PUSKESMAS PAGERAGEUNG",
         "tahun": 2025
@@ -39170,7 +39170,7 @@
     {
         "id_desas": 339,
         "id_kecamatans": 38,
-        "jenis": "Minimarket",
+        "jenis": "Minimarket/Swalayan",
         "kode_desa": "270014",
         "nama": "INDOMART PUTERAN",
         "tahun": 2025
@@ -39338,7 +39338,7 @@
     {
         "id_desas": 340,
         "id_kecamatans": 38,
-        "jenis": "Minimarket",
+        "jenis": "Minimarket/Swalayan",
         "kode_desa": "270015",
         "nama": "ALFAMART SURYALAYA",
         "tahun": 2025
@@ -39346,7 +39346,7 @@
     {
         "id_desas": 340,
         "id_kecamatans": 38,
-        "jenis": "Minimarket",
+        "jenis": "Minimarket/Swalayan",
         "kode_desa": "270015",
         "nama": "HIDMATMART SURYALAYA",
         "tahun": 2025
@@ -39354,7 +39354,7 @@
     {
         "id_desas": 340,
         "id_kecamatans": 38,
-        "jenis": "Minimarket",
+        "jenis": "Minimarket/Swalayan",
         "kode_desa": "270015",
         "nama": "INDOMART SURYALAYA",
         "tahun": 2025
@@ -39522,7 +39522,7 @@
     {
         "id_desas": 342,
         "id_kecamatans": 38,
-        "jenis": "Minimarket",
+        "jenis": "Minimarket/Swalayan",
         "kode_desa": "270017",
         "nama": "ALFAMART CIMANGLID",
         "tahun": 2025
@@ -40106,7 +40106,7 @@
     {
         "id_desas": 348,
         "id_kecamatans": 39,
-        "jenis": "Puskesmas",
+        "jenis": "Puskesmas Tanpa Rawat Inap",
         "kode_desa": "271005",
         "nama": "PUSKESMAS SUKARESIK",
         "tahun": 2025
@@ -40138,7 +40138,7 @@
     {
         "id_desas": 348,
         "id_kecamatans": 39,
-        "jenis": "Minimarket",
+        "jenis": "Minimarket/Swalayan",
         "kode_desa": "271005",
         "nama": "Alfamart Sukaratu Sukaresik",
         "tahun": 2025
