@@ -314,7 +314,7 @@
     {
         "id_desas": 4,
         "id_kecamatans": 1,
-        "jenis": "Bank Umum Pemerintah",
+        "jenis": "Bank",
         "kode_desa": "010004",
         "nama": "BJB KCP CIPATUJAH",
         "tahun": 2025
@@ -578,7 +578,7 @@
     {
         "id_desas": 4,
         "id_kecamatans": 1,
-        "jenis": "Bank Umum Pemerintah",
+        "jenis": "Bank",
         "kode_desa": "010004",
         "nama": "BANK BRI CIPATUJAH",
         "tahun": 2025
@@ -586,7 +586,7 @@
     {
         "id_desas": 4,
         "id_kecamatans": 1,
-        "jenis": "BPR",
+        "jenis": "Bank",
         "kode_desa": "010004",
         "nama": "BANK CIJ CIPATUJAH",
         "tahun": 2025
@@ -2354,7 +2354,7 @@
     {
         "id_desas": 23,
         "id_kecamatans": 2,
-        "jenis": "BPR",
+        "jenis": "Bank",
         "kode_desa": "020008",
         "nama": "BANK ARTHA GALUNGGUNG",
         "tahun": 2025
@@ -2530,7 +2530,7 @@
     {
         "id_desas": 23,
         "id_kecamatans": 2,
-        "jenis": "Bank Umum Pemerintah",
+        "jenis": "Bank",
         "kode_desa": "020008",
         "nama": "BANK BRI",
         "tahun": 2025
@@ -3354,7 +3354,7 @@
     {
         "id_desas": 31,
         "id_kecamatans": 3,
-        "jenis": "Bank Umum Pemerintah",
+        "jenis": "Bank",
         "kode_desa": "030002",
         "nama": "BANK MANDIRI",
         "tahun": 2025
@@ -3362,7 +3362,7 @@
     {
         "id_desas": 31,
         "id_kecamatans": 3,
-        "jenis": "Bank Umum Pemerintah",
+        "jenis": "Bank",
         "kode_desa": "030002",
         "nama": "BRI CIKALONG",
         "tahun": 2025
@@ -3370,7 +3370,7 @@
     {
         "id_desas": 31,
         "id_kecamatans": 3,
-        "jenis": "BPR",
+        "jenis": "Bank",
         "kode_desa": "030002",
         "nama": "BPR ARTA SUKAPURA",
         "tahun": 2025
@@ -3378,7 +3378,7 @@
     {
         "id_desas": 31,
         "id_kecamatans": 3,
-        "jenis": "BPR",
+        "jenis": "Bank",
         "kode_desa": "030002",
         "nama": "LKM PANCATENGAH",
         "tahun": 2025
@@ -4522,7 +4522,7 @@
     {
         "id_desas": 41,
         "id_kecamatans": 3,
-        "jenis": "Bank Umum Pemerintah",
+        "jenis": "Bank",
         "kode_desa": "030012",
         "nama": "BRI UNIT KALAPAGENEP",
         "tahun": 2025
@@ -4530,7 +4530,7 @@
     {
         "id_desas": 41,
         "id_kecamatans": 3,
-        "jenis": "BPR",
+        "jenis": "Bank",
         "kode_desa": "030012",
         "nama": "BANK CIJ",
         "tahun": 2025
@@ -6458,7 +6458,7 @@
     {
         "id_desas": 57,
         "id_kecamatans": 5,
-        "jenis": "Bank Umum Pemerintah",
+        "jenis": "Bank",
         "kode_desa": "050004",
         "nama": "BANK BJB KCP CIKATOMAS",
         "tahun": 2025
@@ -6722,7 +6722,7 @@
     {
         "id_desas": 57,
         "id_kecamatans": 5,
-        "jenis": "Bank Umum Pemerintah",
+        "jenis": "Bank",
         "kode_desa": "050004",
         "nama": "BANK BRI UNIT CIKATOMAS",
         "tahun": 2025
@@ -6730,7 +6730,7 @@
     {
         "id_desas": 57,
         "id_kecamatans": 5,
-        "jenis": "Bank Umum Pemerintah",
+        "jenis": "Bank",
         "kode_desa": "050004",
         "nama": "BANK MANDIRI KCP TASIKMALAYA CIKATOMAS",
         "tahun": 2025
@@ -6738,7 +6738,7 @@
     {
         "id_desas": 57,
         "id_kecamatans": 5,
-        "jenis": "BPR",
+        "jenis": "Bank",
         "kode_desa": "050004",
         "nama": "BPR ARTHA GALUNGGUNG",
         "tahun": 2025
@@ -6754,7 +6754,7 @@
     {
         "id_desas": 57,
         "id_kecamatans": 5,
-        "jenis": "BPR",
+        "jenis": "Bank",
         "kode_desa": "050004",
         "nama": "BANK CIJ",
         "tahun": 2025
@@ -6930,7 +6930,7 @@
     {
         "id_desas": 58,
         "id_kecamatans": 5,
-        "jenis": "Bank Umum Pemerintah",
+        "jenis": "Bank",
         "kode_desa": "050005",
         "nama": "BRI UNIT PANCATENGAH",
         "tahun": 2025
@@ -8170,7 +8170,7 @@
     {
         "id_desas": 67,
         "id_kecamatans": 6,
-        "jenis": "BPR",
+        "jenis": "Bank",
         "kode_desa": "060005",
         "nama": "BANK BPR ARTHA SUKAPURA",
         "tahun": 2025
@@ -8378,7 +8378,7 @@
     {
         "id_desas": 68,
         "id_kecamatans": 6,
-        "jenis": "Bank Umum Pemerintah",
+        "jenis": "Bank",
         "kode_desa": "060014",
         "nama": "BANK BRI",
         "tahun": 2025
@@ -8890,7 +8890,7 @@
     {
         "id_desas": 72,
         "id_kecamatans": 7,
-        "jenis": "Bank Umum Pemerintah",
+        "jenis": "Bank",
         "kode_desa": "061004",
         "nama": "BANK BRI",
         "tahun": 2025
@@ -8898,7 +8898,7 @@
     {
         "id_desas": 72,
         "id_kecamatans": 7,
-        "jenis": "BPR",
+        "jenis": "Bank",
         "kode_desa": "061004",
         "nama": "BPR ARTHA SUKAPURA",
         "tahun": 2025
@@ -9434,7 +9434,7 @@
     {
         "id_desas": 78,
         "id_kecamatans": 8,
-        "jenis": "BPR",
+        "jenis": "Bank",
         "kode_desa": "070003",
         "nama": "BANK BJB",
         "tahun": 2025
@@ -9618,7 +9618,7 @@
     {
         "id_desas": 78,
         "id_kecamatans": 8,
-        "jenis": "Bank Umum Pemerintah",
+        "jenis": "Bank",
         "kode_desa": "070003",
         "nama": "BANK BJB CAPEM KARANGNUNGGAL",
         "tahun": 2025
@@ -9626,7 +9626,7 @@
     {
         "id_desas": 78,
         "id_kecamatans": 8,
-        "jenis": "Bank Umum Pemerintah",
+        "jenis": "Bank",
         "kode_desa": "070003",
         "nama": "BANK BRI UNIT BANTARKALONG",
         "tahun": 2025
@@ -9634,7 +9634,7 @@
     {
         "id_desas": 78,
         "id_kecamatans": 8,
-        "jenis": "Bank Umum Pemerintah",
+        "jenis": "Bank",
         "kode_desa": "070003",
         "nama": "BANK MANDIRI",
         "tahun": 2025
@@ -9642,7 +9642,7 @@
     {
         "id_desas": 78,
         "id_kecamatans": 8,
-        "jenis": "Bank Umum Pemerintah",
+        "jenis": "Bank",
         "kode_desa": "070003",
         "nama": "BANK BJB CAB.KARANGNUNGGAL",
         "tahun": 2025
@@ -9650,7 +9650,7 @@
     {
         "id_desas": 78,
         "id_kecamatans": 8,
-        "jenis": "Bank Umum Swasta",
+        "jenis": "Bank",
         "kode_desa": "070003",
         "nama": "BANK BPR ARTHA GALUNGGUNG KAS BA",
         "tahun": 2025
@@ -9658,7 +9658,7 @@
     {
         "id_desas": 78,
         "id_kecamatans": 8,
-        "jenis": "Bank Umum Swasta",
+        "jenis": "Bank",
         "kode_desa": "070003",
         "nama": "BANK CIJ CIPATUJAH CAB.BANTARKAL",
         "tahun": 2025
@@ -9666,7 +9666,7 @@
     {
         "id_desas": 78,
         "id_kecamatans": 8,
-        "jenis": "BPR",
+        "jenis": "Bank",
         "kode_desa": "070003",
         "nama": "BANK BPR ARTHA GALUNGGUNG",
         "tahun": 2025
@@ -9674,7 +9674,7 @@
     {
         "id_desas": 78,
         "id_kecamatans": 8,
-        "jenis": "BPR",
+        "jenis": "Bank",
         "kode_desa": "070003",
         "nama": "BANK CIJ CIPATUJAH CAB.BANTARKALONG",
         "tahun": 2025
@@ -9682,7 +9682,7 @@
     {
         "id_desas": 78,
         "id_kecamatans": 8,
-        "jenis": "BPR",
+        "jenis": "Bank",
         "kode_desa": "070003",
         "nama": "PELITA SEJAHTERA",
         "tahun": 2025
@@ -9818,7 +9818,7 @@
     {
         "id_desas": 79,
         "id_kecamatans": 8,
-        "jenis": "Bank Umum Swasta",
+        "jenis": "Bank",
         "kode_desa": "070004",
         "nama": "BANK WOORI SAUDARA BWS",
         "tahun": 2025
@@ -9826,7 +9826,7 @@
     {
         "id_desas": 79,
         "id_kecamatans": 8,
-        "jenis": "Bank Umum Swasta",
+        "jenis": "Bank",
         "kode_desa": "070004",
         "nama": "BANK BTPN",
         "tahun": 2025
@@ -10098,7 +10098,7 @@
     {
         "id_desas": 81,
         "id_kecamatans": 8,
-        "jenis": "Bank Umum Pemerintah",
+        "jenis": "Bank",
         "kode_desa": "070009",
         "nama": "BANK BRI PAMIJAHAN",
         "tahun": 2025
@@ -10578,7 +10578,7 @@
     {
         "id_desas": 86,
         "id_kecamatans": 9,
-        "jenis": "BPR",
+        "jenis": "Bank",
         "kode_desa": "071002",
         "nama": "BPR CIPATUJAH JABAR BANK CIJ KANTOR KAS BOJONGASIH",
         "tahun": 2025
@@ -12010,7 +12010,7 @@
     {
         "id_desas": 101,
         "id_kecamatans": 11,
-        "jenis": "Bank Umum Pemerintah",
+        "jenis": "Bank",
         "kode_desa": "080006",
         "nama": "BANK BRI UNIT BOJONGGAMBIR",
         "tahun": 2025
@@ -12018,7 +12018,7 @@
     {
         "id_desas": 101,
         "id_kecamatans": 11,
-        "jenis": "Bank Umum Swasta",
+        "jenis": "Bank",
         "kode_desa": "080006",
         "nama": "BANK CIJ CABANG BOJONGGAMBIR",
         "tahun": 2025
@@ -12986,7 +12986,7 @@
     {
         "id_desas": 111,
         "id_kecamatans": 12,
-        "jenis": "Bank Umum Pemerintah",
+        "jenis": "Bank",
         "kode_desa": "090006",
         "nama": "BANK BJB SODONGHILIR",
         "tahun": 2025
@@ -12994,7 +12994,7 @@
     {
         "id_desas": 111,
         "id_kecamatans": 12,
-        "jenis": "Bank Umum Pemerintah",
+        "jenis": "Bank",
         "kode_desa": "090006",
         "nama": "BANK BRI SODONGHILIR",
         "tahun": 2025
@@ -13002,7 +13002,7 @@
     {
         "id_desas": 111,
         "id_kecamatans": 12,
-        "jenis": "BPR",
+        "jenis": "Bank",
         "kode_desa": "090006",
         "nama": "BPR ARTHA GALUNGGUNG",
         "tahun": 2025
@@ -13010,7 +13010,7 @@
     {
         "id_desas": 111,
         "id_kecamatans": 12,
-        "jenis": "BPR",
+        "jenis": "Bank",
         "kode_desa": "090006",
         "nama": "PT. BPR CIPATUJAH JABAR",
         "tahun": 2025
@@ -13770,7 +13770,7 @@
     {
         "id_desas": 119,
         "id_kecamatans": 13,
-        "jenis": "Bank Umum Pemerintah",
+        "jenis": "Bank",
         "kode_desa": "100002",
         "nama": "BANK BRI UNIT TARAJU",
         "tahun": 2025
@@ -13778,7 +13778,7 @@
     {
         "id_desas": 119,
         "id_kecamatans": 13,
-        "jenis": "BPR",
+        "jenis": "Bank",
         "kode_desa": "100002",
         "nama": "BANK GALUNGGUNG",
         "tahun": 2025
@@ -15178,7 +15178,7 @@
     {
         "id_desas": 134,
         "id_kecamatans": 14,
-        "jenis": "Bank Umum Pemerintah",
+        "jenis": "Bank",
         "kode_desa": "110016",
         "nama": "BANK BRI UNIT NEGLASARI",
         "tahun": 2025
@@ -15282,7 +15282,7 @@
     {
         "id_desas": 135,
         "id_kecamatans": 14,
-        "jenis": "BPR",
+        "jenis": "Bank",
         "kode_desa": "110017",
         "nama": "BPR ARTHA SUKAPURA",
         "tahun": 2025
@@ -15418,7 +15418,7 @@
     {
         "id_desas": 136,
         "id_kecamatans": 14,
-        "jenis": "Bank Umum Pemerintah",
+        "jenis": "Bank",
         "kode_desa": "110018",
         "nama": "BANK BJB KCP SALAWU",
         "tahun": 2025
@@ -15426,7 +15426,7 @@
     {
         "id_desas": 136,
         "id_kecamatans": 14,
-        "jenis": "Bank Umum Pemerintah",
+        "jenis": "Bank",
         "kode_desa": "110018",
         "nama": "BRI UNIT SALAWU",
         "tahun": 2025
@@ -16106,7 +16106,7 @@
     {
         "id_desas": 142,
         "id_kecamatans": 15,
-        "jenis": "Bank Umum Pemerintah",
+        "jenis": "Bank",
         "kode_desa": "111004",
         "nama": "BANK BRI UNIT PUSPAHIANG",
         "tahun": 2025
@@ -16914,7 +16914,7 @@
     {
         "id_desas": 150,
         "id_kecamatans": 16,
-        "jenis": "Bank Umum Pemerintah",
+        "jenis": "Bank",
         "kode_desa": "120004",
         "nama": "BRI UNIT TANJUNGJAYA",
         "tahun": 2025
@@ -17482,7 +17482,7 @@
     {
         "id_desas": 156,
         "id_kecamatans": 17,
-        "jenis": "Bank Umum Pemerintah",
+        "jenis": "Bank",
         "kode_desa": "130003",
         "nama": "BANK BRI",
         "tahun": 2025
@@ -17810,7 +17810,7 @@
     {
         "id_desas": 157,
         "id_kecamatans": 17,
-        "jenis": "Bank Umum Pemerintah",
+        "jenis": "Bank",
         "kode_desa": "130004",
         "nama": "BANK BJB",
         "tahun": 2025
@@ -17818,7 +17818,7 @@
     {
         "id_desas": 157,
         "id_kecamatans": 17,
-        "jenis": "Bank Umum Swasta",
+        "jenis": "Bank",
         "kode_desa": "130004",
         "nama": "BANK ARTHA GALUNGGUNG",
         "tahun": 2025
@@ -17826,7 +17826,7 @@
     {
         "id_desas": 157,
         "id_kecamatans": 17,
-        "jenis": "BPR",
+        "jenis": "Bank",
         "kode_desa": "130004",
         "nama": "BANK PERKREDITAN RAKYAT ARTHA SU",
         "tahun": 2025
@@ -18242,7 +18242,7 @@
     {
         "id_desas": 162,
         "id_kecamatans": 18,
-        "jenis": "BPR",
+        "jenis": "Bank",
         "kode_desa": "140003",
         "nama": "BPR ARTHA SUKAPURA",
         "tahun": 2025
@@ -18922,7 +18922,7 @@
     {
         "id_desas": 167,
         "id_kecamatans": 18,
-        "jenis": "Bank Umum Pemerintah",
+        "jenis": "Bank",
         "kode_desa": "140008",
         "nama": "BANK BRI",
         "tahun": 2025
@@ -20722,7 +20722,7 @@
     {
         "id_desas": 187,
         "id_kecamatans": 20,
-        "jenis": "BPR",
+        "jenis": "Bank",
         "kode_desa": "150010",
         "nama": "BANK ARTHA GALUNGGUNG",
         "tahun": 2025
@@ -20730,7 +20730,7 @@
     {
         "id_desas": 188,
         "id_kecamatans": 20,
-        "jenis": "Bank Umum Pemerintah",
+        "jenis": "Bank",
         "kode_desa": "150011",
         "nama": "BANK BJB",
         "tahun": 2025
@@ -20738,7 +20738,7 @@
     {
         "id_desas": 188,
         "id_kecamatans": 20,
-        "jenis": "Bank Umum Pemerintah",
+        "jenis": "Bank",
         "kode_desa": "150011",
         "nama": "BANK BRI UNIT CINEAM",
         "tahun": 2025
@@ -21450,7 +21450,7 @@
     {
         "id_desas": 195,
         "id_kecamatans": 21,
-        "jenis": "Bank Umum Pemerintah",
+        "jenis": "Bank",
         "kode_desa": "151004",
         "nama": "BANK BRI",
         "tahun": 2025
@@ -22442,7 +22442,7 @@
     {
         "id_desas": 204,
         "id_kecamatans": 22,
-        "jenis": "Bank Umum Pemerintah",
+        "jenis": "Bank",
         "kode_desa": "160015",
         "nama": "BANK BJB",
         "tahun": 2025
@@ -22450,7 +22450,7 @@
     {
         "id_desas": 204,
         "id_kecamatans": 22,
-        "jenis": "Bank Umum Pemerintah",
+        "jenis": "Bank",
         "kode_desa": "160015",
         "nama": "BANK BRI",
         "tahun": 2025
@@ -22458,7 +22458,7 @@
     {
         "id_desas": 204,
         "id_kecamatans": 22,
-        "jenis": "Bank Umum Pemerintah",
+        "jenis": "Bank",
         "kode_desa": "160015",
         "nama": "BANK MANDIRI",
         "tahun": 2025
@@ -22466,7 +22466,7 @@
     {
         "id_desas": 204,
         "id_kecamatans": 22,
-        "jenis": "Bank Umum Swasta",
+        "jenis": "Bank",
         "kode_desa": "160015",
         "nama": "BANK MITRA",
         "tahun": 2025
@@ -22474,7 +22474,7 @@
     {
         "id_desas": 204,
         "id_kecamatans": 22,
-        "jenis": "Bank Umum Swasta",
+        "jenis": "Bank",
         "kode_desa": "160015",
         "nama": "BANK WORI SODARA",
         "tahun": 2025
@@ -22482,7 +22482,7 @@
     {
         "id_desas": 204,
         "id_kecamatans": 22,
-        "jenis": "BPR",
+        "jenis": "Bank",
         "kode_desa": "160015",
         "nama": "ARTHA SUKAPURA",
         "tahun": 2025
@@ -22490,7 +22490,7 @@
     {
         "id_desas": 204,
         "id_kecamatans": 22,
-        "jenis": "BPR",
+        "jenis": "Bank",
         "kode_desa": "160015",
         "nama": "BANK NUSAMBA",
         "tahun": 2025
@@ -22498,7 +22498,7 @@
     {
         "id_desas": 204,
         "id_kecamatans": 22,
-        "jenis": "BPR",
+        "jenis": "Bank",
         "kode_desa": "160015",
         "nama": "BPR ARTA GALUNGGUNG",
         "tahun": 2025
@@ -23114,7 +23114,7 @@
     {
         "id_desas": 212,
         "id_kecamatans": 23,
-        "jenis": "Bank Umum Pemerintah",
+        "jenis": "Bank",
         "kode_desa": "161005",
         "nama": "BANK BRI",
         "tahun": 2025
@@ -23482,7 +23482,7 @@
     {
         "id_desas": 216,
         "id_kecamatans": 24,
-        "jenis": "Bank Umum Pemerintah",
+        "jenis": "Bank",
         "kode_desa": "190008",
         "nama": "BANK BJB",
         "tahun": 2025
@@ -23642,7 +23642,7 @@
     {
         "id_desas": 217,
         "id_kecamatans": 24,
-        "jenis": "BPR",
+        "jenis": "Bank",
         "kode_desa": "190009",
         "nama": "ARTHA JAYA MANDIRI",
         "tahun": 2025
@@ -23882,7 +23882,7 @@
     {
         "id_desas": 218,
         "id_kecamatans": 24,
-        "jenis": "Bank Umum Pemerintah",
+        "jenis": "Bank",
         "kode_desa": "190010",
         "nama": "BANK BRI UNIT PASAR SINGAPARNA",
         "tahun": 2025
@@ -24250,7 +24250,7 @@
     {
         "id_desas": 219,
         "id_kecamatans": 24,
-        "jenis": "Bank Umum Pemerintah",
+        "jenis": "Bank",
         "kode_desa": "190011",
         "nama": "BANK BNI SINGAPARNA",
         "tahun": 2025
@@ -24258,7 +24258,7 @@
     {
         "id_desas": 219,
         "id_kecamatans": 24,
-        "jenis": "Bank Umum Pemerintah",
+        "jenis": "Bank",
         "kode_desa": "190011",
         "nama": "BANK BRI CABANG SINGAPARNA",
         "tahun": 2025
@@ -24266,7 +24266,7 @@
     {
         "id_desas": 219,
         "id_kecamatans": 24,
-        "jenis": "Bank Umum Pemerintah",
+        "jenis": "Bank",
         "kode_desa": "190011",
         "nama": "BANK BJB SYARIAH SINGAPARNA",
         "tahun": 2025
@@ -24442,7 +24442,7 @@
     {
         "id_desas": 220,
         "id_kecamatans": 24,
-        "jenis": "Bank Umum Pemerintah",
+        "jenis": "Bank",
         "kode_desa": "190012",
         "nama": "BANK BJB",
         "tahun": 2025
@@ -24450,7 +24450,7 @@
     {
         "id_desas": 220,
         "id_kecamatans": 24,
-        "jenis": "Bank Umum Pemerintah",
+        "jenis": "Bank",
         "kode_desa": "190012",
         "nama": "BANK BRI",
         "tahun": 2025
@@ -24458,7 +24458,7 @@
     {
         "id_desas": 220,
         "id_kecamatans": 24,
-        "jenis": "Bank Umum Pemerintah",
+        "jenis": "Bank",
         "kode_desa": "190012",
         "nama": "BANK BTN SINGAPARNA",
         "tahun": 2025
@@ -24466,7 +24466,7 @@
     {
         "id_desas": 220,
         "id_kecamatans": 24,
-        "jenis": "Bank Umum Pemerintah",
+        "jenis": "Bank",
         "kode_desa": "190012",
         "nama": "BANK MANDIRI",
         "tahun": 2025
@@ -24474,7 +24474,7 @@
     {
         "id_desas": 220,
         "id_kecamatans": 24,
-        "jenis": "Bank Umum Swasta",
+        "jenis": "Bank",
         "kode_desa": "190012",
         "nama": "BANK MANDIRI SYARIAH",
         "tahun": 2025
@@ -24482,7 +24482,7 @@
     {
         "id_desas": 220,
         "id_kecamatans": 24,
-        "jenis": "Bank Umum Swasta",
+        "jenis": "Bank",
         "kode_desa": "190012",
         "nama": "BANK MUAMALAT",
         "tahun": 2025
@@ -24490,7 +24490,7 @@
     {
         "id_desas": 220,
         "id_kecamatans": 24,
-        "jenis": "Bank Umum Swasta",
+        "jenis": "Bank",
         "kode_desa": "190012",
         "nama": "BANK WOORI SAUDARA",
         "tahun": 2025
@@ -24498,7 +24498,7 @@
     {
         "id_desas": 220,
         "id_kecamatans": 24,
-        "jenis": "BPR",
+        "jenis": "Bank",
         "kode_desa": "190012",
         "nama": "BANK ARTHA SUKAPURA",
         "tahun": 2025
@@ -24898,7 +24898,7 @@
     {
         "id_desas": 221,
         "id_kecamatans": 24,
-        "jenis": "BPR",
+        "jenis": "Bank",
         "kode_desa": "190013",
         "nama": "BANK BPR NUSAMBA SINGAPARNA",
         "tahun": 2025
@@ -24906,7 +24906,7 @@
     {
         "id_desas": 221,
         "id_kecamatans": 24,
-        "jenis": "BPR",
+        "jenis": "Bank",
         "kode_desa": "190013",
         "nama": "BANK BPR NUSUMMA",
         "tahun": 2025
@@ -24938,7 +24938,7 @@
     {
         "id_desas": 221,
         "id_kecamatans": 24,
-        "jenis": "BPR",
+        "jenis": "Bank",
         "kode_desa": "190013",
         "nama": "BANK BPR ARTHA GUNA MANDIRI",
         "tahun": 2025
@@ -25298,7 +25298,7 @@
     {
         "id_desas": 222,
         "id_kecamatans": 24,
-        "jenis": "Bank Umum Pemerintah",
+        "jenis": "Bank",
         "kode_desa": "190020",
         "nama": "BANK BRI UNIT CIKUNIR",
         "tahun": 2025
@@ -27242,7 +27242,7 @@
     {
         "id_desas": 235,
         "id_kecamatans": 26,
-        "jenis": "Bank Umum Pemerintah",
+        "jenis": "Bank",
         "kode_desa": "192005",
         "nama": "BANK BRI",
         "tahun": 2025
@@ -27250,7 +27250,7 @@
     {
         "id_desas": 235,
         "id_kecamatans": 26,
-        "jenis": "BPR",
+        "jenis": "Bank",
         "kode_desa": "192005",
         "nama": "BANK MITRA",
         "tahun": 2025
@@ -27778,7 +27778,7 @@
     {
         "id_desas": 242,
         "id_kecamatans": 27,
-        "jenis": "Bank Umum Pemerintah",
+        "jenis": "Bank",
         "kode_desa": "200006",
         "nama": "BRI UNIT CIGALONTANG",
         "tahun": 2025
@@ -27786,7 +27786,7 @@
     {
         "id_desas": 242,
         "id_kecamatans": 27,
-        "jenis": "BPR",
+        "jenis": "Bank",
         "kode_desa": "200006",
         "nama": "BPR ARTHA SUKAPURA",
         "tahun": 2025
@@ -28386,7 +28386,7 @@
     {
         "id_desas": 246,
         "id_kecamatans": 27,
-        "jenis": "Bank Umum Pemerintah",
+        "jenis": "Bank",
         "kode_desa": "200010",
         "nama": "BRI UNIT NANGERANG",
         "tahun": 2025
@@ -29050,7 +29050,7 @@
     {
         "id_desas": 253,
         "id_kecamatans": 28,
-        "jenis": "Bank Umum Pemerintah",
+        "jenis": "Bank",
         "kode_desa": "210003",
         "nama": "BANK BRI ARJASARI",
         "tahun": 2025
@@ -29058,7 +29058,7 @@
     {
         "id_desas": 253,
         "id_kecamatans": 28,
-        "jenis": "BPR",
+        "jenis": "Bank",
         "kode_desa": "210003",
         "nama": "BANK BPR ARTHA GALUNGGUNG",
         "tahun": 2025
@@ -30330,7 +30330,7 @@
     {
         "id_desas": 263,
         "id_kecamatans": 29,
-        "jenis": "Bank Umum Pemerintah",
+        "jenis": "Bank",
         "kode_desa": "211004",
         "nama": "BRI UNIT SARIWANGI",
         "tahun": 2025
@@ -31410,7 +31410,7 @@
     {
         "id_desas": 270,
         "id_kecamatans": 30,
-        "jenis": "Bank Umum Pemerintah",
+        "jenis": "Bank",
         "kode_desa": "212003",
         "nama": "BANK BRI CISARUNI",
         "tahun": 2025
@@ -31906,7 +31906,7 @@
     {
         "id_desas": 273,
         "id_kecamatans": 31,
-        "jenis": "BPR",
+        "jenis": "Bank",
         "kode_desa": "221001",
         "nama": "BANK BPR ARTHA SUKAPURA",
         "tahun": 2025
@@ -33090,7 +33090,7 @@
     {
         "id_desas": 282,
         "id_kecamatans": 32,
-        "jenis": "BPR",
+        "jenis": "Bank",
         "kode_desa": "230002",
         "nama": "BANK BPR ARTHA SUKAPURA",
         "tahun": 2025
@@ -33434,7 +33434,7 @@
     {
         "id_desas": 285,
         "id_kecamatans": 32,
-        "jenis": "Bank Umum Pemerintah",
+        "jenis": "Bank",
         "kode_desa": "230005",
         "nama": "BRI UNIT CISAYONG",
         "tahun": 2025
@@ -34482,7 +34482,7 @@
     {
         "id_desas": 299,
         "id_kecamatans": 33,
-        "jenis": "Bank Umum Pemerintah",
+        "jenis": "Bank",
         "kode_desa": "231006",
         "nama": "BRI UNIT SUKAHENING",
         "tahun": 2025
@@ -34954,7 +34954,7 @@
     {
         "id_desas": 303,
         "id_kecamatans": 34,
-        "jenis": "Bank Umum Pemerintah",
+        "jenis": "Bank",
         "kode_desa": "240003",
         "nama": "BANK BJB RAJAPOLAH",
         "tahun": 2025
@@ -34962,7 +34962,7 @@
     {
         "id_desas": 303,
         "id_kecamatans": 34,
-        "jenis": "Bank Umum Pemerintah",
+        "jenis": "Bank",
         "kode_desa": "240003",
         "nama": "BANK BRI RAJAPOLAH",
         "tahun": 2025
@@ -34970,7 +34970,7 @@
     {
         "id_desas": 303,
         "id_kecamatans": 34,
-        "jenis": "BPR",
+        "jenis": "Bank",
         "kode_desa": "240003",
         "nama": "BPR NUSAMBA",
         "tahun": 2025
@@ -35298,7 +35298,7 @@
     {
         "id_desas": 304,
         "id_kecamatans": 34,
-        "jenis": "Bank Umum Pemerintah",
+        "jenis": "Bank",
         "kode_desa": "240004",
         "nama": "BANK MANDIRI",
         "tahun": 2025
@@ -35306,7 +35306,7 @@
     {
         "id_desas": 304,
         "id_kecamatans": 34,
-        "jenis": "BPR",
+        "jenis": "Bank",
         "kode_desa": "240004",
         "nama": "BPR ARTHA SUKAPURA",
         "tahun": 2025
@@ -35354,7 +35354,7 @@
     {
         "id_desas": 304,
         "id_kecamatans": 34,
-        "jenis": "BPR",
+        "jenis": "Bank",
         "kode_desa": "240004",
         "nama": "BPR NBP 31",
         "tahun": 2025
@@ -36186,7 +36186,7 @@
     {
         "id_desas": 313,
         "id_kecamatans": 35,
-        "jenis": "Bank Umum Pemerintah",
+        "jenis": "Bank",
         "kode_desa": "250005",
         "nama": "BRI UNIT ARGASARI",
         "tahun": 2025
@@ -37234,7 +37234,7 @@
     {
         "id_desas": 324,
         "id_kecamatans": 36,
-        "jenis": "Bank Umum Pemerintah",
+        "jenis": "Bank",
         "kode_desa": "260008",
         "nama": "BANK BNI CIAWI",
         "tahun": 2025
@@ -37242,7 +37242,7 @@
     {
         "id_desas": 324,
         "id_kecamatans": 36,
-        "jenis": "Bank Umum Pemerintah",
+        "jenis": "Bank",
         "kode_desa": "260008",
         "nama": "BANK BRI KCP CIAWI",
         "tahun": 2025
@@ -37250,7 +37250,7 @@
     {
         "id_desas": 324,
         "id_kecamatans": 36,
-        "jenis": "Bank Umum Swasta",
+        "jenis": "Bank",
         "kode_desa": "260008",
         "nama": "BANK WOORI SAUDARA KCP CIAWI",
         "tahun": 2025
@@ -37282,7 +37282,7 @@
     {
         "id_desas": 325,
         "id_kecamatans": 36,
-        "jenis": "Bank Umum Pemerintah",
+        "jenis": "Bank",
         "kode_desa": "260009",
         "nama": "BANK BJB KCP PASAR CIAWI",
         "tahun": 2025
@@ -37290,7 +37290,7 @@
     {
         "id_desas": 325,
         "id_kecamatans": 36,
-        "jenis": "Bank Umum Pemerintah",
+        "jenis": "Bank",
         "kode_desa": "260009",
         "nama": "BANK BJB SYARIAH CIAWI",
         "tahun": 2025
@@ -37298,7 +37298,7 @@
     {
         "id_desas": 325,
         "id_kecamatans": 36,
-        "jenis": "Bank Umum Swasta",
+        "jenis": "Bank",
         "kode_desa": "260009",
         "nama": "BANK BSI CIAWI",
         "tahun": 2025
@@ -37562,7 +37562,7 @@
     {
         "id_desas": 325,
         "id_kecamatans": 36,
-        "jenis": "Bank Umum Pemerintah",
+        "jenis": "Bank",
         "kode_desa": "260009",
         "nama": "BANK MANDIRI CIAWI",
         "tahun": 2025
@@ -37570,7 +37570,7 @@
     {
         "id_desas": 325,
         "id_kecamatans": 36,
-        "jenis": "Bank Umum Pemerintah",
+        "jenis": "Bank",
         "kode_desa": "260009",
         "nama": "BANK BRI UNIT PASAR CIAWI",
         "tahun": 2025
@@ -37578,7 +37578,7 @@
     {
         "id_desas": 325,
         "id_kecamatans": 36,
-        "jenis": "Bank Umum Pemerintah",
+        "jenis": "Bank",
         "kode_desa": "260009",
         "nama": "BANK BRI UNIT CIAWI",
         "tahun": 2025
@@ -37586,7 +37586,7 @@
     {
         "id_desas": 325,
         "id_kecamatans": 36,
-        "jenis": "Bank Umum Swasta",
+        "jenis": "Bank",
         "kode_desa": "260009",
         "nama": "BANK BTPN SYARIAH CIAWI",
         "tahun": 2025
@@ -37594,7 +37594,7 @@
     {
         "id_desas": 325,
         "id_kecamatans": 36,
-        "jenis": "Bank Umum Swasta",
+        "jenis": "Bank",
         "kode_desa": "260009",
         "nama": "BANK BCA KCP CIAWI",
         "tahun": 2025
@@ -37602,7 +37602,7 @@
     {
         "id_desas": 325,
         "id_kecamatans": 36,
-        "jenis": "BPR",
+        "jenis": "Bank",
         "kode_desa": "260009",
         "nama": "BPR ARTHA SUKAPURA KAS PASAR CIAWI",
         "tahun": 2025
@@ -37610,7 +37610,7 @@
     {
         "id_desas": 325,
         "id_kecamatans": 36,
-        "jenis": "BPR",
+        "jenis": "Bank",
         "kode_desa": "260009",
         "nama": "BPR NUSAMBA CIAWI",
         "tahun": 2025
@@ -37706,7 +37706,7 @@
     {
         "id_desas": 326,
         "id_kecamatans": 36,
-        "jenis": "BPR",
+        "jenis": "Bank",
         "kode_desa": "260010",
         "nama": "BPR SINAR MAS PELITA",
         "tahun": 2025
@@ -38986,7 +38986,7 @@
     {
         "id_desas": 337,
         "id_kecamatans": 38,
-        "jenis": "Bank Umum Pemerintah",
+        "jenis": "Bank",
         "kode_desa": "270012",
         "nama": "BANK BJB PAGERAGEUNG",
         "tahun": 2025
@@ -38994,7 +38994,7 @@
     {
         "id_desas": 337,
         "id_kecamatans": 38,
-        "jenis": "Bank Umum Pemerintah",
+        "jenis": "Bank",
         "kode_desa": "270012",
         "nama": "BANK BRI PAGERAGEUNG",
         "tahun": 2025
@@ -39002,7 +39002,7 @@
     {
         "id_desas": 337,
         "id_kecamatans": 38,
-        "jenis": "BPR",
+        "jenis": "Bank",
         "kode_desa": "270012",
         "nama": "BPR ARTHA SUKAPURA",
         "tahun": 2025
@@ -39362,7 +39362,7 @@
     {
         "id_desas": 340,
         "id_kecamatans": 38,
-        "jenis": "Bank Umum Pemerintah",
+        "jenis": "Bank",
         "kode_desa": "270015",
         "nama": "BANK BRI UNIT PUTERAN",
         "tahun": 2025
@@ -40122,7 +40122,7 @@
     {
         "id_desas": 348,
         "id_kecamatans": 39,
-        "jenis": "Bank Umum Pemerintah",
+        "jenis": "Bank",
         "kode_desa": "271005",
         "nama": "BRI SUKARATU",
         "tahun": 2025
